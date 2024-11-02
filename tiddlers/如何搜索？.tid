@@ -1,0 +1,10 @@
+created: 20241102070551472
+creator: mxlcola
+modified: 20241102070620778
+modifier: mxlcola
+tags: 基础知识
+title: 如何搜索？
+
+基本的搜索一般通过[[命令菜单]]插件来做，按下 `ctrl/cmd + P` 即可唤出搜索框。
+
+高级搜索参见[[官方文档中的内容|https://bramchen.github.io/tw5-docs/zh-Hans/#Searching]]
