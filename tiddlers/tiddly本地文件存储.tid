@@ -1,0 +1,17 @@
+created: 20241102064418626
+creator: mxlcola
+modified: 20241102064742965
+modifier: mxlcola
+tags: 想法 TiddlyWiki
+title: tiddly本地文件存储
+
+
+tiddlywiki 每一张卡片都对应一份tid文件，存储在本地，移植相对比较简单
+
+今天测试通过替换文件夹里面tid文件，不会影响原来的双链，这点比较好
+
+即使是因为太记运行、插件异常，我都可以使用基本的配置，迁移tid文件就能恢复
+
+关联：
+
+[[笔记本地化]]
