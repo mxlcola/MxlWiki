@@ -1,0 +1,8 @@
+created: 20241102071706466
+creator: mxlcola
+modified: 20241102071745078
+modifier: mxlcola
+tags: 想法
+title: TiddlyWiki 保存和同步
+
+TiddlyWiki 默认是一个 HTML 单文件，程序和数据都保存在这个 HTML 网页里，所以天然适合随身携带。然而因为现代浏览器的安全机制限制，一个网页无法自保存，默认打开一个空白 TiddlyWiki 时无法直接保存，而是会生成一个新的 HTML 网页，然后手动覆盖它
