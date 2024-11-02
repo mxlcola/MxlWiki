@@ -1,0 +1,35 @@
+annotate-colour: dodgerblue
+created: 20241030140703398
+creator: 老乐
+difficulty: 3.9899999999999998
+due: 20241108053315863
+elapsed_days: 0
+grade: -1
+history: []
+interval: 0
+lapses: 0
+last_review: 20241102053315863
+modified: 20241031054157511
+modifier: 老乐
+reps: 1
+retrievability: 1
+review: 20241031054157511
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 筛选器 ?
+title: 筛选标签内容
+
+
+```tw5
+<$list filter="[tag[你的标签]]">
+
+{{!!text}}
+
+</$list>
+```
+
+!! 使用说明
+使用这个筛选
+
+来列出加了「你的标签」的所有笔记的内容。

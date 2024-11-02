@@ -1,0 +1,27 @@
+created: 20241030144701721
+creator: 老乐
+difficulty: 5
+due: 20241102054306991
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20241102063231094
+modifier: mxlcola
+reps: 1
+retrievability: 1
+review: 20241031054306991
+stability: 2
+tags: 图片 图床 ?
+title: tw图床用法
+wysiwyg: yes
+
+我们可以把图片放到其他图床去把图片外部化，然后插入` [img[图片连结]]`  来放入图片。
+例子
+
+```
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241030224857.png]]
+
+```
+
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241030224857.png]]

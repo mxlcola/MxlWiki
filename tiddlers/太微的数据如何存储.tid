@@ -1,0 +1,12 @@
+created: 20241030134139021
+creator: 老乐
+modified: 20241030134751241
+modifier: 老乐
+tags: 太微入门
+title: 太微的数据如何存储
+type: text/vnd.tiddlywiki
+
+
+
+太微最初是一个单HTML文件形式的知识库程序，所以太微的数据一开始是保存在用户本地的浏览器内的。
+

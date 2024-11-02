@@ -1,0 +1,23 @@
+annotate-colour: green
+created: 20241101150435923
+creator: mxlcola
+difficulty: 4.93
+due: 20241102054226425
+elapsed_days: 0
+lapses: 0
+last_review: 20241102053226425
+modified: 20241101152644012
+modifier: mxlcola
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: 笔记软件思考 ?
+title: 笔记本地化
+
+
+''基本需求：''
+
+# 数据存在于本地
+# 单独一个笔记就是一个文件，而不是放在数据库
+# 格式通用（txt、Markdown等）

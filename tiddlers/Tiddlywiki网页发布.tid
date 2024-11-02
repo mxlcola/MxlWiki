@@ -1,0 +1,23 @@
+created: 20241031131615302
+creator: mxlcola
+modified: 20241031134907863
+modifier: mxlcola
+tags: 太微入门
+title: Tiddlywiki网页发布
+type: text/vnd.tiddlywiki
+
+
+视频链接：[[B站直达|https://www.bilibili.com/video/BV1uD4y1H7ri?spm_id_from=333.788.videopod.sections&vd_source=4ea640cd4ea0f47ed2bca6d27eedb65e]]
+
+测试一下
+
+!! 注意事项
+
+!!! git推送到网页之后需要等待github上面action操作完成才能显示
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241031214059.png]]
+
+!!!浏览器可能需要清除缓存之后，网页才会刷新内容
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241031214826.png]]
+
+
+

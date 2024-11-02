@@ -1,0 +1,9 @@
+created: 20241102045724863
+creator: mxlcola
+modified: 20241102050049251
+modifier: mxlcola
+tags: 太微入门
+title: 微件
+
+微件（Widget，也译为小工具）是页面渲染的基本组成部分，页面上的列表、标题、链接就是由列表微件、标题微件、链接微件组成的
+

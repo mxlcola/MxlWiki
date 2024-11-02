@@ -1,0 +1,8 @@
+created: 20241031140204143
+creator: mxlcola
+modified: 20241102052622513
+modifier: mxlcola
+tags: Index
+title: 想法
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

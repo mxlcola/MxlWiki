@@ -1,0 +1,15 @@
+created: 20241101005250544
+creator: mxlcola
+modified: 20241102062629869
+modifier: mxlcola
+tags: 想法 github
+title: tw 随时随地记录 git同步
+wysiwyg: yes
+
+现在已经配置好了tw，并且可以网页线上查看
+
+目前公司和个人电脑共享同一个仓库，实时同步
+
+github自动备份还是存在问题，还是本地提交，手动git
+
+重新开始测试

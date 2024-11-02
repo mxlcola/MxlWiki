@@ -1,0 +1,10 @@
+created: 20241030132911795
+creator: 老乐
+modified: 20241030133013845
+modifier: 老乐
+tags: 
+title: TidGi太记
+
+太记 TidGi 是 TiddlyWiki + Git 的缩写简称，因为太记除了作为太微的[[启动器]]以外，还能自动用 Git 备份工具进行细粒度同步备份，在备份的同时节省硬盘空间。太记可以加速大型知识库的启动，并为新用户提供了开箱即用的模板，并有全平台+移动端免费同步方案。
+
+官网是[[tidgi.fun - 太记部署|https://tidgi.fun/]]，使用文档和截图都在上面。（备用：[[太记官网 - Github Pages 部署|https://tiddly-gittly.github.io/TidGi-Official-Website/#:Index]]）

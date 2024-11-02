@@ -1,0 +1,20 @@
+created: 20241031150237016
+creator: mxlcola
+difficulty: 5
+due: 20241103022850271
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20241101022850271
+modifier: mxlcola
+reps: 1
+retrievability: 1
+review: 20241101022850271
+stability: 2
+tags: TiddlyWiki ?
+title: TiddlyWiki学习路线
+
+# 一开始可以先从不断添加新笔记出发
+# 等积攒的笔记需要用高级功能整理了，再去学习高级功能
+# 一般来说想要啥功能都有相关插件，如果没有插件也可以请人或者自己用 JS 很快写出来，理论上不会碰到天花板。
