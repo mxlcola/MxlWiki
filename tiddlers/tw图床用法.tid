@@ -6,7 +6,7 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20241102063231094
+modified: 20241102064054438
 modifier: mxlcola
 reps: 1
 retrievability: 1
@@ -20,7 +20,9 @@ wysiwyg: yes
 例子
 
 ```
+
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241030224857.png]]
+
 
 ```
 
