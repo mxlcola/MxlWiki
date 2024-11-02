@@ -1,17 +1,22 @@
+annotate-colour: dodgerblue
 created: 20241030144701721
 creator: 老乐
-difficulty: 5
-due: 20241102054306991
+difficulty: 3.9899999999999998
+due: 20241108104304407
+elapsed_days: 0
 grade: -1
 history: []
 interval: 0
 lapses: 0
+last_review: 20241102104304407
 modified: 20241102064338556
 modifier: mxlcola
 reps: 1
 retrievability: 1
 review: 20241031054306991
-stability: 2
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 图片 图床 ?
 title: tw图床用法
 wysiwyg: yes

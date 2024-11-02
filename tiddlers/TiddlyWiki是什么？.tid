@@ -1,17 +1,22 @@
+annotate-colour: dodgerblue
 created: 20231125124612166
 creator: 老乐
-difficulty: 4.200040483766023
-due: 20250106131508662
+difficulty: 3.9899999999999998
+due: 20241108104240538
+elapsed_days: 0
 grade: 1
 history: [{"due":"20240423022348322","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240421022348322"}]
 interval: 192
 lapses: 0
+last_review: 20241102104240538
 modified: 20241101022608458
 modifier: mxlcola
-reps: 2
+reps: 1
 retrievability: 0.000040483766022843354
 review: 20241030131508662
-stability: 67.73011561350621
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ? 基础知识 TiddlyWiki
 title: TiddlyWiki是什么？
 

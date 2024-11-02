@@ -1,17 +1,22 @@
+annotate-colour: dodgerblue
 created: 20241031150237016
 creator: mxlcola
-difficulty: 5
-due: 20241103022850271
+difficulty: 3.9899999999999998
+due: 20241108104258450
+elapsed_days: 0
 grade: -1
 history: []
 interval: 0
 lapses: 0
+last_review: 20241102104258450
 modified: 20241101022850271
 modifier: mxlcola
 reps: 1
 retrievability: 1
 review: 20241101022850271
-stability: 2
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: TiddlyWiki ?
 title: TiddlyWiki学习路线
 

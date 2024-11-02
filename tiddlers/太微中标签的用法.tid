@@ -1,17 +1,22 @@
+annotate-colour: dodgerblue
 created: 20241030141705048
 creator: 老乐
-difficulty: 5
-due: 20241102054210564
+difficulty: 3.9899999999999998
+due: 20241108104154772
+elapsed_days: 0
 grade: -1
 history: []
 interval: 0
 lapses: 0
+last_review: 20241102104154772
 modified: 20241031054210564
 modifier: 老乐
 reps: 1
 retrievability: 1
 review: 20241031054210564
-stability: 2
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 标签 ?
 title: 太微中标签的用法
 
