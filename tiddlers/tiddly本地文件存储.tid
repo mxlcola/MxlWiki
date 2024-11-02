@@ -1,6 +1,6 @@
 created: 20241102064418626
 creator: mxlcola
-modified: 20241102064742965
+modified: 20241102104114414
 modifier: mxlcola
 tags: 想法 TiddlyWiki
 title: tiddly本地文件存储
@@ -14,4 +14,4 @@ tiddlywiki 每一张卡片都对应一份tid文件，存储在本地，移植相
 
 关联：
 
-[[笔记本地化]]
+[[笔记本地化基本需求]]
