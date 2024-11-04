@@ -1,0 +1,9 @@
+created: 20241104142048395
+creator: mxlcola
+modified: 20241104142139085
+modifier: mxlcola
+tags: 常见汇编指令 ?
+title: 加法运算指令(ADD)
+
+* - 加法运算指令(ADD)： `ADD r0,r1,r2`  意思为：r0=r1+r2
+* - 减法运算指令(SUB)： `SUB r0,r1,r2`  意思为：r0=r1-r2

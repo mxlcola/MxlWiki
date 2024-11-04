@@ -1,0 +1,9 @@
+created: 20241104141959250
+creator: mxlcola
+modified: 20241104142039567
+modifier: mxlcola
+tags: 常见汇编指令 ?
+title: 加载/存储指令(LDR/STR)
+
+* 加载指令LDR： `LDR r0,[addrA]`  意思是将地址addrA的内容加载(存放)到r0里面
+* 存储指令STR： `STR r0,[addrA]`  意思是将r0中的值存储到地址addrA上
