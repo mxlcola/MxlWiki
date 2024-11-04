@@ -1,0 +1,11 @@
+created: 20241104145802817
+creator: mxlcola
+modified: 20241104145959592
+modifier: mxlcola
+tags: ? 栈
+title: 入栈
+
+push 操作先将 栈顶（sp指针） 向下移动一个位置，然后将数据写入到新的栈顶；而 pop 操作会从 栈顶 读取数据，并且将 栈顶（sp指针） 向上移动一个位置。
+
+例如，将 0x100 压入栈，过程如下图所示：
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241104225931.png]]

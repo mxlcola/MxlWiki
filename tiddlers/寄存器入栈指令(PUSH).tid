@@ -1,0 +1,14 @@
+created: 20241104150339199
+creator: mxlcola
+modified: 20241104150719511
+modifier: mxlcola
+tags: 常见汇编指令 ? 栈
+title: 寄存器入栈指令(PUSH)
+
+寄存器[[入栈]](PUSH)： `PUSH {r3，lr}`  意思是将寄存器r3和pc写入内存栈
+
+* [[入栈的本质是写内存STR指令+调整SP]]，高标号寄存器写入高地址的栈里，低标号寄存器写入低地址的栈里
+* lr即r14，写入地址为`sp-4`的内存，然后：sp=sp-4
+* r3，写入地址为`sp-4`的内存，然后：sp=sp-4
+
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241104230537.png]]
