@@ -1,0 +1,65 @@
+annotate-colour: dodgerblue
+difficulty: 3.9899999999999998
+due: 20241110122524241
+elapsed_days: 0
+icon: $:/plugins/tidme/fsrs4tw/icon
+lapses: 0
+last_review: 20241104122524241
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+title: $:/Decks
+
+<div class="tmc-thead">
+    <div class="tmc-tr-deck">
+        {{$:/language/tidme/deck}}
+    </div>
+    <div class="tmc-tr-study">
+        {{$:/language/tidme/learn}}
+    </div>
+    <div style="mc-tr-study">
+        {{$:/language/tidme/due}}
+    </div>
+    <div class="tmc-tr-study">
+        {{$:/language/tidme/new}}
+    </div>
+    <div class="tmc-tr-action">
+
+    </div>
+</div>
+
+<<list-tagged-draggable tag:"$:/tags/TidmeDeck" subFilter:"![$:/temp/tidme/options]!is[draft]" itemTemplate:"$:/plugins/tidme/fsrs4tw/ui/ViewTemplate/tr" storyview:"classic" >>
+
+<div class="tmc-decks-button-wrapper">
+    <$button
+        message="tm-modal"
+        param="$:/core/ui/ControlPanel/Modals/AddPlugins"
+        tooltip={{$:/language/ControlPanel/Plugins/Add/Hint}}
+        class="tc-btn-invisible tc-tiddlylink"
+    >
+        {{$:/language/tidme/getshared}}
+    </$button>
+    <$button
+        class="tc-btn-invisible tc-tiddlylink"
+        tooltip={{$:/language/tidme/createdecktip}}
+    >
+        <$action-createtiddler
+            $basetitle="$:/Deck/new"
+            $template="$:/Deck/default"
+            caption=""
+            description=""
+        />
+        {{$:/language/tidme/createdeck}}
+    </$button>
+    <$button
+        class="tc-btn-invisible tc-tiddlylink"
+    >
+        <div class="tmc-file-input-wrapper">
+            <$browse
+                tooltip={{$:/language/Buttons/Import/Hint}}
+            />
+            {{$:/language/tidme/importfile}}
+        </div>
+    </$button>
+</div>
