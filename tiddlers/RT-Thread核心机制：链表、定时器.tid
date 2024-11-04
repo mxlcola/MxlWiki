@@ -1,0 +1,11 @@
+created: 20241104130741386
+creator: mxlcola
+modified: 20241104130840882
+modifier: mxlcola
+tags: RT-Thread内部机制 ?
+title: RT-Thread核心机制：链表、定时器
+
+RT-Thread 的线程管理与调度、线程间通信(邮箱/消息队列/信号)、线程间同步(信号量/互  斥量/事件集)的方法，核心都是：
+
+* 链表
+* 定时器
