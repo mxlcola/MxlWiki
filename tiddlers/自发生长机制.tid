@@ -1,11 +1,21 @@
+annotate-colour: dodgerblue
 created: 20241102141755274
 creator: mxlcola
-modified: 20241102142438857
+difficulty: 3.9899999999999998
+due: 20241110113551217
+elapsed_days: 0
+lapses: 0
+last_review: 20241104113551217
+modified: 20241104113550850
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 卢曼笔记法 ?
 title: 自发生长机制
 
-! 事后
+! 事后来看
 
 过去分散的卡片，在一个月、一年、更长时间之后，经过组织、连接，可以构成一个新的话题，生产新的卡片
 
@@ -18,4 +28,7 @@ title: 自发生长机制
 后来新学到一个概念，水果。于是新写一张卡片，标题为“index 水果”，写上“能吃，通常水很多，通常有甜味和酸味，例如，链接到已有的那3张卡片”。这张卡片就是index。
 
 关联：
+
 [[卡片法的三要素]]
+
+[[永久笔记]]

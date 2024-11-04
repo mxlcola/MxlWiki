@@ -1,22 +1,18 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241103024018478
 creator: mxlcola
-difficulty: 4.93
-due: 20241103125218997
+difficulty: 3.9899999999999998
+due: 20241110113450137
 elapsed_days: 0
 lapses: 0
-last_review: 20241103124218997
-modified: 20241103124218388
+last_review: 20241104113450137
+modified: 20241103024112292
 modifier: mxlcola
 reps: 1
-scheduled_days: 0
-stability: 2.4
-state: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 《教的更少，学得更多》-序言 ?
 title: 机械性学习
 
-机械式学习通常导致学习者的脑子里面基本上没有联系地存储了一些资讯，而这样的方式并不能建立起来一个强有力的知识结构。
-
-! 机械性学习结果
-
-就是通过机械式学习得到的知识几乎不能用于需要创造性的地方，而且大多数时候很快就会被遗忘。
+机械式学习通常导致学习者的脑子里面基本上没有联系地存储了一些资讯，而这样的方式并不能建立起来一个强有力的知识结构。这样的结果就是通过机械式学习得到的知识几乎不能用于需要创造性的地方，而且大多数时候很快就会被遗忘。
