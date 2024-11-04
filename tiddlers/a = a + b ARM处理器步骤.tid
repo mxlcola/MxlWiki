@@ -1,0 +1,18 @@
+created: 20241104140602941
+creator: mxlcola
+modified: 20241104140731057
+modifier: mxlcola
+tags: [[ARM 架构及汇编]] ?
+title: a = a + b ARM处理器步骤
+
+CPU运行时，先去取得指令，再执行指令：
+
+① 把内存a的值读入CPU寄存器R0
+
+② 把内存b的值读入CPU寄存器R1
+
+③ 把R0、R1累加，存入R0
+
+④ 把R0的值写入内存a
+
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/02_cpu_registers.png]]

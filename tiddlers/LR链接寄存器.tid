@@ -1,0 +1,10 @@
+created: 20241104141147462
+creator: mxlcola
+modified: 20241104141213015
+modifier: mxlcola
+tags: ?
+title: LR链接寄存器
+
+''用途''：链接寄存器（Link Register）。
+
+''特点''：R14用于存储子程序调用的返回地址。在调用函数时，当前指令地址会被保存到R14，以便在函数结束后能够正确返回调用位置。

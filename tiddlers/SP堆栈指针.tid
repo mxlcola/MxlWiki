@@ -1,0 +1,10 @@
+created: 20241104141243119
+creator: mxlcola
+modified: 20241104141248952
+modifier: mxlcola
+tags: ?
+title: SP堆栈指针
+
+''用途''：堆栈指针寄存器（Stack Pointer）。
+
+''特点''：R13专门用于指向当前的堆栈顶位置，负责管理函数调用和中断处理过程中的堆栈操作

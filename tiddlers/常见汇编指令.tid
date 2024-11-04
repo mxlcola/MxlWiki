@@ -1,0 +1,13 @@
+created: 20241104141326145
+creator: mxlcola
+modified: 20241104141354936
+modifier: mxlcola
+tags: [[ARM 架构及汇编]] ?
+title: 常见汇编指令
+
+* 读内存指令：LDR，即Load之意
+* 写内存指令：STR，即Store之意
+* 加减指令：ADD、SUB
+* 跳转：BL，即Branch And Link
+* 入栈指令：PUSH
+* 出栈指令：POP
