@@ -1,5 +1,9 @@
 created: 20241104150511774
 creator: mxlcola
-modified: 20241104150625430
+modified: 20241105121609482
 modifier: mxlcola
 title: 入栈的本质是写内存STR指令+调整SP
+
+关联：
+
+[[SP堆栈指针]]
