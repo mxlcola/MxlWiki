@@ -1,0 +1,23 @@
+created: 20241105132419142
+creator: mxlcola
+modified: 20241105132753879
+modifier: mxlcola
+tags: 线程的概念与保存 ?
+title: 线程初始化的时候做了哪些内容？
+
+
+! 初始化的时候需要把线程的内容构建出来
+# 函数入口
+# 栈
+# 线程控制块
+# 构造栈内容，假装暂停在入口函数
+
+所谓的栈内容就是之前说的CPU寄存器的值，比如PC寄存器等
+
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241105212732.png]]
+
+关联：
+
+[[线程包括哪些内容？]]
+
+[[CPU内部寄存器]]
