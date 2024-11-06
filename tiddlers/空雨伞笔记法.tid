@@ -1,16 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241102123719850
 creator: mxlcola
-difficulty: 6.81
-due: 20241106113818016
-elapsed_days: 0.0015467592592592592
+difficulty: 6.791199999999999
+due: 20241109005638981
+elapsed_days: 1.5544093171296296
 lapses: 0
-last_review: 20241104113818016
+last_review: 20241106005638981
 modified: 20241102123727802
 modifier: mxlcola
-reps: 2
-scheduled_days: 2
-stability: 0.4
+reps: 3
+scheduled_days: 3
+stability: 3.1708157093135485
 state: 2
 tags: ? 思维模型
 title: 空雨伞笔记法

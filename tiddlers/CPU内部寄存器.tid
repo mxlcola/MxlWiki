@@ -1,7 +1,18 @@
+annotate-colour: green
 created: 20241104140920149
 creator: mxlcola
-modified: 20241104141254153
+difficulty: 4.93
+due: 20241106010941102
+elapsed_days: 0
+lapses: 0
+last_review: 20241106005941102
+modified: 20241106005940666
 modifier: mxlcola
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: ?
 title: CPU内部寄存器
 
 ! R0 - R12
