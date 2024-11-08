@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241104140920149
 creator: mxlcola
-modified: 20241104141254153
+difficulty: 4.93
+due: 20241109124328717
+elapsed_days: 0.48874552083333334
+lapses: 0
+last_review: 20241106124328717
+modified: 20241106005940666
 modifier: mxlcola
+reps: 2
+scheduled_days: 3
+stability: 2.4
+state: 2
+tags: ?
 title: CPU内部寄存器
 
 ! R0 - R12
