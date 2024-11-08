@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104145610708
 creator: mxlcola
-difficulty: 6.81
-due: 20241107121950971
-elapsed_days: 0.0007857291666666667
+difficulty: 5.939799999999999
+due: 20241120121048814
+elapsed_days: 2.9937250231481483
 lapses: 0
-last_review: 20241105121950971
+last_review: 20241108121048814
 modified: 20241105121842718
 modifier: mxlcola
-reps: 2
-scheduled_days: 2
-stability: 0.4
+reps: 3
+scheduled_days: 12
+stability: 12.146270788100146
 state: 2
 tags: 栈 ?
 title: 什么是栈？

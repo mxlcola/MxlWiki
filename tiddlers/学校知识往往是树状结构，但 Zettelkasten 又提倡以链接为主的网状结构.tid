@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241102124320009
 creator: mxlcola
-difficulty: 4.93
-due: 20241107114843816
-elapsed_days: 0.00766375
+difficulty: 4.078599999999999
+due: 20241204121036277
+elapsed_days: 4.015190520833333
 lapses: 0
-last_review: 20241104114843816
+last_review: 20241108121036277
 modified: 20241102140004573
 modifier: mxlcola
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 26
+stability: 26.093787892935275
 state: 2
 tags: ? 笔记思维
 title: 学校知识往往是树状结构，但 Zettelkasten 又提倡以链接为主的网状结构
