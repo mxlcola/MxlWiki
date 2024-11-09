@@ -1,0 +1,35 @@
+created: 20241109013445257
+modified: 20241109013615663
+tags: 内存池 ?
+title: 内存池控制块
+
+RT-Thread 通过内存池控制块来操作和管理内存池，内存控制块结构体用于存放内存池的一些信息，包括：内存池数据域起始地址、内存块大小和内存块列表，还有内存块与内存块之间连接用的链表结构等等。
+
+其具体的定义由 struct rt_mempool 表示，如下：
+
+```c
+struct rt_mempool
+{
+  struct rt_object parent;  /* 继承自 rt_object 类 */
+  
+  void *start_address;     /* 内存池数据区域开始地址 */
+  rt_size_t size;          /* 内存池数据区域大小 */
+  
+  rt_size_t block_size;    /* 内存块大小 */
+  rt_uint8_t *block_list;  /* 内存块列表 */
+  
+  /* 内存池数据区域中能够容纳的最大内存块数 */
+  rt_size_t block_total_count;
+  /* 内存池中空闲的内存块数 */
+  rt_size_t block_free_count;
+  /* 因为内存块不可用而挂起的线程列表 */
+  rt_list_t suspend_thread;
+  /* 因为内存块不可用而挂起的线程数 */
+  rt_size_t suspend_thread_count;
+};
+typedef struct rt_mempool* rt_mp_t;
+```
+
+其中，rt_mp_t 表示的是内存池控制块的句柄，即指向内存池结构体的指针。
+
+结构体成员 suspend_thread 形成了一个申请线程等待列表，即当内存池中无可用内存块时，其申请线程允许等待，申请线程将挂起在 [[suspend_thread 链表]]上。
