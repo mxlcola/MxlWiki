@@ -1,20 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241102140942645
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241110113723618
-elapsed_days: 0
+difficulty: 3.148
+due: 20241223121818164
+elapsed_days: 6.0284091203703705
 lapses: 0
-last_review: 20241104113723618
-modified: 20241104113723254
+last_review: 20241110121818164
+modified: 20241110121738963
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 43
+stability: 43.42745529914856
 state: 2
 tags: 知识结构 ?
 title: 自上而下和自下而上
 
-那些讨论是“自上而下”还是“自下而上”的，本质上也是这个问题。自下而上自然是网，自上而下自然是僵硬的分层树。网是真实，树是方便。
+那些讨论是“自上而下”还是“自下而上”的，本质上也是这个问题。自下而上自然是网，自上而下自然是僵硬的分层树。''网是真实，树是方便''。
 
 
