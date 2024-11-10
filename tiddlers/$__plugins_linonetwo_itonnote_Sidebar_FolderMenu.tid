@@ -1,0 +1,30 @@
+annotate-colour: green
+caption: <<lingo Config/FolderMenu/Caption $:/plugins/linonetwo/itonnote/language/>>
+description: <<lingo Config/FolderMenu/Description $:/plugins/linonetwo/itonnote/language/>>
+difficulty: 4.93
+due: 20241110133936620
+elapsed_days: 0
+is-dropdown: yes
+lapses: 0
+last_review: 20241110132936620
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: $:/tags/SideBar $:/tags/MenuBar
+title: $:/plugins/linonetwo/itonnote/Sidebar/FolderMenu
+type: text/vnd.tiddlywiki
+
+\procedure lingo-base() $:/plugins/linonetwo/itonnote/language/
+
+<$scrollable fallthrough="none" class="tc-popup-keep tc-menubar-dropdown-sidebar">
+
+	<$let toc-open-icon="$:/core/images/fold-button" toc-closed-icon="$:/core/images/folder">
+		<div class="tc-table-of-contents">
+			<$transclude $variable="toc-selective-expandable" tag={{$:/plugins/linonetwo/itonnote/Configs/SideBarFolderMenuBaseTitle}} />
+		</div>
+	</$let>
+
+  <<lingo FolderMenu/Help>>
+
+</$scrollable>

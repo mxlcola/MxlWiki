@@ -1,19 +1,20 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241103065833941
 creator: mxlcola
 difficulty: 4.93
-due: 20241110122412366
-elapsed_days: 0
+due: 20241113133211487
+elapsed_days: 0.05415644675925926
 lapses: 0
-last_review: 20241110121412366
+last_review: 20241110133211487
 modified: 20241110121411621
 modifier: mxlcola
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 《卡片笔记写作法》 ? 笔记思维
 title: 卡片笔记本身要有的位置环境信息
+type: text/vnd.tiddlywiki
 
 一个想法、一条笔记只有在它的''上下文语境''中才有价值，''而上下文并不一定是它的出处。''
 
