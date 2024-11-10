@@ -6,13 +6,13 @@ due: 20241113133137161
 elapsed_days: 0.0015052199074074074
 lapses: 0
 last_review: 20241110133137161
-modified: 20241110132842636
+modified: 20241110143504105
 modifier: mxlcola
 reps: 2
 scheduled_days: 3
 stability: 2.4
 state: 2
-tags: ? 入门问题
+tags: ? 入门问题 如何保存
 title: 在桌面端和移动端直接同步数据
 type: text/vnd.tiddlywiki
 
@@ -33,3 +33,9 @@ type: text/vnd.tiddlywiki
 
 报错 401
 如果开启了「凭证鉴权」功能，就会报这个错，401 意思就是凭证无效拒绝访问。「凭证鉴权」功能需要懂 Web 技术才能用，但是能大大增加安全性。
+
+关联：
+
+[[测试电脑同步到手机]]
+
+[[测试手机同步到电脑]]
