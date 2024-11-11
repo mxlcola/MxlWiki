@@ -1,0 +1,16 @@
+created: 20241111143935422
+creator: mxlcola
+modified: 20241111144037643
+modifier: mxlcola
+tags: Fatfs ?
+title: f_lseek函数
+
+f_lseek函数的定位是''从文件的开头向文件末尾''计算的，即位置偏移量ofs是从文件的起始位置（0）开始，逐步增加到文件末尾。因此，f_lseek定位的方式是从前往后。
+
+! 例子
+* f_lseek(&file, 0); 将文件指针移动到文件的开头。
+* f_lseek(&file, 100); 将文件指针移动到文件的第100个字节位置（从开头数第100个字节）。
+* f_lseek(&file, f_size(&file)); 将文件指针移动到文件的末尾。
+
+! 逆向读取的实现方式
+如果想从文件末尾向前读取，可以结合文件大小和块读取的方法。例如，通过f_lseek(&file, f_size(&file) - chunk_size)将指针移动到文件末尾前的某个位置，然后逐步向文件起始方向移动，以实现从后往前读取。
