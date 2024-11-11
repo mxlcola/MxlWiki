@@ -1,7 +1,18 @@
+annotate-colour: green
 created: 20241109014340057
+difficulty: 4.93
+due: 20241113112936143
+elapsed_days: 0.867255474537037
+lapses: 0
+last_review: 20241111112936143
 modified: 20241109014442320
+reps: 2
+scheduled_days: 2
+stability: 2.4
+state: 2
 tags: 管理内存池的函数接口 ?
 title: 分配内存块
+type: text/vnd.tiddlywiki
 
 内存池创建成功了。接下来就是如何用内存池：分配内存块和释放内存。
 

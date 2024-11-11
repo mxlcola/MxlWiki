@@ -1,11 +1,24 @@
+annotate-colour: dodgerblue
 created: 20241109012026023
-modified: 20241109013213575
+creator: mxlcola
+difficulty: 4.93
+due: 20241114141222822
+elapsed_days: 0.9800250231481481
+lapses: 0
+last_review: 20241111141222822
+modified: 20241111141220514
+modifier: mxlcola
+reps: 2
+scheduled_days: 3
+stability: 2.4
+state: 2
 tags: RT-Thread内存管理 ? 内存池
 title: 内存池管理
+type: text/vnd.tiddlywiki
 
 ! 基础定义
 
-* 内存池是一种管理固定大小内存块的机制，主要用于减少[[内存碎片化]]，提高内存分配效率。
+* 内存池是一种管理''固定大小内存块''的机制，主要用于减少[[内存碎片化]]，提高内存分配效率。
 * 在 RT-Thread 中，内存池允许用户预分配一定数量的具有相同大小的内存块，应用程序可以从中快速分配和释放内存。
 
 ! 主要内容

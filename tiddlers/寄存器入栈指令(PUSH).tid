@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104150339199
 creator: mxlcola
-difficulty: 4.93
-due: 20241111121019662
-elapsed_days: 2.9952267824074075
+difficulty: 4.078599999999999
+due: 20241202141231821
+elapsed_days: 3.084862928240741
 lapses: 0
-last_review: 20241108121019662
+last_review: 20241111141231821
 modified: 20241104150719511
 modifier: mxlcola
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 21
+stability: 21.003770506787593
 state: 2
 tags: 常见汇编指令 ? 栈
 title: 寄存器入栈指令(PUSH)

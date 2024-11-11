@@ -1,0 +1,29 @@
+annotate-colour: dodgerblue
+caption: {{$:/language/tidme/default}}
+card: [all[shadows+tiddlers]tag[?]]
+card_exclude: [tag[!]]
+card_unfold: [tag[.]]
+description: {{$:/language/tidme/defaulttip}}
+difficulty: 3.9899999999999998
+due: 20241117141143943
+elapsed_days: 0
+exclude_action: {{$:/plugins/tidme/fsrs4tw/buttons/action/exclude}}
+lapses: 0
+last_review: 20241111141143943
+leech_action: {{$:/plugins/tidme/fsrs4tw/buttons/action/exclude}}
+leech_threshold: 8
+order: due-new
+order_due: [sort[due]]
+order_learn: [sort[due]]
+order_new: [sortan[title]]
+p: {"request_retention":0.9,"maximum_interval":36500,"w":[0.4,0.6,2.4,5.8,4.93,0.94,0.86,0.01,1.49,0.14,0.94,2.18,0.05,0.34,1.26,0.29,2.61]}
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+state_due: [state[2]has[due]] -[!days:due[1]]
+state_learn: [state[1]] [state[3]] :filter[{!!due}compare:date:lt<now [UTC]YYYY0MM0DD0hh0mm0ss0XXX>]
+state_new: [!has[state]] [state[0]]
+tags: $:/tags/TidmeDeck
+title: $:/Deck/default
+unfold_action: {{$:/plugins/tidme/fsrs4tw/buttons/action/unfold}}

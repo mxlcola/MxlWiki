@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241109014124353
+difficulty: 6.81
+due: 20241113112923576
+elapsed_days: 0.8670540277777777
+lapses: 0
+last_review: 20241111112923576
 modified: 20241109014325993
+reps: 2
+scheduled_days: 2
+stability: 0.4
+state: 2
 tags: 管理内存池的函数接口 ?
 title: 静态初始化内存池
+type: text/vnd.tiddlywiki
 
 静态方式创建的内存池，所需要的内存资源是由用户自己分配的。需要用户定义一个内存池控制块，并且指定一个内存缓冲区，用于组织内存池。然后调用如下函数，初始化内存池：
 

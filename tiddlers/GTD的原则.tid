@@ -1,19 +1,20 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241103064353683
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241110114014150
-elapsed_days: 0
+difficulty: 3.9994
+due: 20241130144015964
+elapsed_days: 6.12502099537037
 lapses: 0
-last_review: 20241104114014150
+last_review: 20241110144015964
 modified: 20241103070945261
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 20
+stability: 20.433805603563133
 state: 2
 tags: 想法 GTD ? 《卡片笔记写作法》
 title: GTD的原则
+type: text/vnd.tiddlywiki
 
 !! GTD的原则
 
