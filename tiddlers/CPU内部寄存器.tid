@@ -6,13 +6,13 @@ due: 20241127010424651
 elapsed_days: 2.5145362847222223
 lapses: 0
 last_review: 20241109010424651
-modified: 20241106005940666
+modified: 20241112150119291
 modifier: mxlcola
 reps: 3
 scheduled_days: 18
 stability: 17.770030114505442
 state: 2
-tags: ?
+tags: ? CPU
 title: CPU内部寄存器
 
 ! R0 - R12

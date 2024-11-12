@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104141959250
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241111121732458
-elapsed_days: 0
+difficulty: 3.148
+due: 20250101145852111
+elapsed_days: 7.112033043981482
 lapses: 0
-last_review: 20241105121732458
+last_review: 20241112145852111
 modified: 20241105121732067
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 50
+stability: 49.722762323516356
 state: 2
 tags: 常见汇编指令 ?
 title: 加载/存储指令(LDR/STR)

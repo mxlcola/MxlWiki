@@ -1,5 +1,15 @@
+annotate-colour: green
 created: 20241109013445257
+difficulty: 4.93
+due: 20241112151230462
+elapsed_days: 0
+lapses: 0
+last_review: 20241112150230462
 modified: 20241109013615663
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
 tags: 内存池 ?
 title: 内存池控制块
 

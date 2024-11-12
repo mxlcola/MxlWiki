@@ -1,18 +1,18 @@
 annotate-colour: dodgerblue
 created: 20241104133850370
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241111122026893
-elapsed_days: 0
+difficulty: 3.148
+due: 20250101150007359
+elapsed_days: 7.110885034722222
 lapses: 0
-last_review: 20241105122026893
-modified: 20241106005812552
+last_review: 20241112150007359
+modified: 20241112145951756
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 50
+stability: 49.71616421266204
 state: 2
-tags: 线程的概念与保存 ?
+tags: 线程的概念与保存 ? 栈
 title: CPU寄存器状态保存在哪里？
 
 这些寄存器的值通常会被保存在''线程的栈空间''中。

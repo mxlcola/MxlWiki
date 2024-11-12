@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104142048395
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241111121715619
-elapsed_days: 0
+difficulty: 3.148
+due: 20250101145849641
+elapsed_days: 7.11219931712963
 lapses: 0
-last_review: 20241105121715619
+last_review: 20241112145849641
 modified: 20241104142139085
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 50
+stability: 49.723717955538035
 state: 2
 tags: 常见汇编指令 ?
 title: 加法运算指令(ADD)
