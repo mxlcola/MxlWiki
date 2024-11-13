@@ -6,14 +6,14 @@ due: 20241130144015964
 elapsed_days: 6.12502099537037
 lapses: 0
 last_review: 20241110144015964
-modified: 20241103070945261
+modified: 20241113143518994
 modifier: mxlcola
 reps: 2
 scheduled_days: 20
 stability: 20.433805603563133
 state: 2
 tags: 想法 GTD ? 《卡片笔记写作法》
-title: GTD的原则
+title: GTD的原则和目的
 type: text/vnd.tiddlywiki
 
 !! GTD的原则
@@ -24,8 +24,11 @@ GTD的原则是把所有需要处理的事情收集到一起，并以''标准化
 
 !! 目的是什么？
 
-# 清除工作记忆，保护宝贵的精神资源，不被分散注意力
-# 专注于当心，进入心流状态
+第一，''[[清空大脑]]''，把大脑从 “要做什么” 和 “怎么做” 的混乱当中拯救出来（moving planned tasks and projects out of the mind by recording them externally）。
+
+第二，''让自己随时都能明确地知道，下一步应该做什么''（breaking them into actionable work items）。
+
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241113223408.png]]
 
 关联：
 
