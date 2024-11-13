@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241105132419142
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241114121246756
-elapsed_days: 0
+difficulty: 3.148
+due: 20241223232319844
+elapsed_days: 5.4656607407407405
 lapses: 0
-last_review: 20241108121246756
+last_review: 20241113232319844
 modified: 20241105132753879
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 40
+stability: 40.10433395922352
 state: 2
 tags: 线程的概念与保存 ?
 title: 线程初始化的时候做了哪些内容？
+type: text/vnd.tiddlywiki
 
 
 ! 初始化的时候需要把线程的内容构建出来

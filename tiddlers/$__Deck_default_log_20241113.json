@@ -1,3 +1,14 @@
 {
+    "23290360": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20241113232855732\",\"state\":0}",
+    "232317466": "{\"rating\":4,\"elapsed_days\":2.495665150462963,\"scheduled_days\":18,\"review\":\"20241113232305539\",\"state\":2}",
+    "232402591": "{\"rating\":4,\"elapsed_days\":5.4656607407407405,\"scheduled_days\":40,\"review\":\"20241113232319844\",\"state\":2}",
+    "232419510": "{\"rating\":4,\"elapsed_days\":2.3834402083333335,\"scheduled_days\":17,\"review\":\"20241113232405054\",\"state\":2}",
+    "232444434": "{\"rating\":4,\"elapsed_days\":2.383404270833333,\"scheduled_days\":17,\"review\":\"20241113232428953\",\"state\":2}",
+    "232628493": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20241113232609939\",\"state\":0}",
+    "232641611": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241113232636694\",\"state\":0}",
+    "232804181": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20241113232750945\",\"state\":0}",
+    "232913891": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241113232905222\",\"state\":0}",
+    "234256371": "{\"rating\":4,\"elapsed_days\":1.0020526620370371,\"scheduled_days\":9,\"review\":\"20241113234249934\",\"state\":2}",
+    "234649949": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241113234648295\",\"state\":0}",
     "003627336": "{\"rating\":4,\"elapsed_days\":0.03426362268518519,\"scheduled_days\":3,\"review\":\"20241113003624525\",\"state\":1}"
 }

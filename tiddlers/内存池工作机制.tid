@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109013222240
-difficulty: 4.93
-due: 20241114141155821
-elapsed_days: 0.9798782986111111
+difficulty: 4.078599999999999
+due: 20241130232405054
+elapsed_days: 2.3834402083333335
 lapses: 0
-last_review: 20241111141155821
+last_review: 20241113232405054
 modified: 20241109013356970
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 17
+stability: 17.01413712558569
 state: 2
 tags: 内存池 ?
 title: 内存池工作机制
