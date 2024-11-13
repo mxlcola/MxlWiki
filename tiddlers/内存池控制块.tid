@@ -1,17 +1,18 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241109013445257
 difficulty: 4.93
-due: 20241112151230462
-elapsed_days: 0
+due: 20241115234008497
+elapsed_days: 0.35946797453703705
 lapses: 0
-last_review: 20241112150230462
+last_review: 20241112234008497
 modified: 20241109013615663
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 内存池 ?
 title: 内存池控制块
+type: text/vnd.tiddlywiki
 
 RT-Thread 通过内存池控制块来操作和管理内存池，内存控制块结构体用于存放内存池的一些信息，包括：内存池数据域起始地址、内存块大小和内存块列表，还有内存块与内存块之间连接用的链表结构等等。
 

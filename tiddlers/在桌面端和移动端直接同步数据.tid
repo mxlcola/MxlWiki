@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241110132616300
 creator: mxlcola
-difficulty: 4.93
-due: 20241113133137161
-elapsed_days: 0.0015052199074074074
+difficulty: 4.078599999999999
+due: 20241129234552270
+elapsed_days: 2.426563773148148
 lapses: 0
-last_review: 20241110133137161
-modified: 20241110143504105
+last_review: 20241112234552270
+modified: 20241112234541037
 modifier: mxlcola
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 17
+stability: 17.263311138851197
 state: 2
 tags: ? 入门问题 如何保存
 title: 在桌面端和移动端直接同步数据
@@ -39,3 +39,5 @@ type: text/vnd.tiddlywiki
 [[测试电脑同步到手机]]
 
 [[测试手机同步到电脑]]
+
+[[手机电脑复习进度同步]]

@@ -2,18 +2,19 @@ annotate-colour: green
 created: 20241112144240923
 creator: mxlcola
 difficulty: 4.93
-due: 20241112151210415
-elapsed_days: 0
+due: 20241114233952582
+elapsed_days: 0.3595158101851852
 lapses: 0
-last_review: 20241112150210415
+last_review: 20241112233952582
 modified: 20241112144327268
 modifier: mxlcola
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 2
 stability: 2.4
-state: 1
+state: 2
 tags: ? 心理学
 title: 大脑不喜欢“悬而未决”的状态
+type: text/vnd.tiddlywiki
 
 我们大脑很难真正“忽略”某件未完成的事情。尽管我们暂时认为这件事“不那么重要”，但由于它没有被妥善处理或计划，它会变成一个心理负担。''未决的问题会在潜意识中反复出现，带来一种持续的压力''
 

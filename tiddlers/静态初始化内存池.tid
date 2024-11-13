@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109014124353
-difficulty: 6.81
-due: 20241113112923576
-elapsed_days: 0.8670540277777777
+difficulty: 5.939799999999999
+due: 20241119234405858
+elapsed_days: 1.5102115972222223
 lapses: 0
-last_review: 20241111112923576
+last_review: 20241112234405858
 modified: 20241109014325993
-reps: 2
-scheduled_days: 2
-stability: 0.4
+reps: 3
+scheduled_days: 7
+stability: 7.4659404496724155
 state: 2
 tags: 管理内存池的函数接口 ?
 title: 静态初始化内存池
