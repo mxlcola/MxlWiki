@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241102114236891
 creator: mxlcola
-difficulty: 3.9994
-due: 20241130121604782
-elapsed_days: 6.027201041666666
+difficulty: 3.157306
+due: 20250102122805836
+elapsed_days: 5.008345509259259
 lapses: 0
-last_review: 20241110121604782
+last_review: 20241115122805836
 modified: 20241102114258009
 modifier: mxlcola
-reps: 2
-scheduled_days: 20
-stability: 20.213931481833292
+reps: 3
+scheduled_days: 48
+stability: 47.65170900397967
 state: 2
 tags: ? 墨水屏
 title: 双稳态技术

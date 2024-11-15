@@ -1,0 +1,18 @@
+annotate-colour: dodgerblue
+color: #bbb
+difficulty: 3.9899999999999998
+due: 20241121123632601
+elapsed_days: 0
+icon: $:/core/images/advanced-search-button
+lapses: 0
+last_review: 20241115123632601
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+title: $:/AdvancedSearch
+
+\whitespace trim
+<div class="tc-advanced-search">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/AdvancedSearch]!has[draft.of]]" default="$:/core/ui/AdvancedSearch/System" actions="""<$action-setfield $tiddler="$:/state/advancedsearch/currentTab" text=<<currentTab>>/>""" explicitState="$:/state/tab--1498284803"/>
+</div>
