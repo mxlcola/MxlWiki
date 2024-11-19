@@ -1,17 +1,17 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241113142913834
 creator: mxlcola
 difficulty: 4.93
-due: 20241113233855732
-elapsed_days: 0
+due: 20241121133145884
+elapsed_days: 4.5853026851851855
 lapses: 0
-last_review: 20241113232855732
+last_review: 20241118133145884
 modified: 20241113143308389
 modifier: mxlcola
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: GTD ?
 title: GTD≠把事情做完
 type: text/vnd.tiddlywiki

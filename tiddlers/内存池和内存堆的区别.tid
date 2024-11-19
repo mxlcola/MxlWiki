@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109012431050
-difficulty: 3.9899999999999998
-due: 20241118150220853
-elapsed_days: 0
+difficulty: 3.148
+due: 20241231133258846
+elapsed_days: 5.93793974537037
 lapses: 0
-last_review: 20241112150220853
+last_review: 20241118133258846
 modified: 20241109012623913
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 43
+stability: 42.89572555231876
 state: 2
 tags: RT-Thread内存管理 ?
 title: 内存池和内存堆的区别
