@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241111143935422
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241118234718214
-elapsed_days: 0
+difficulty: 3.148
+due: 20250104111339513
+elapsed_days: 6.476635381944445
 lapses: 0
-last_review: 20241112234718214
+last_review: 20241119111339513
 modified: 20241111144037643
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 46
+stability: 46.047835935351706
 state: 2
 tags: Fatfs ?
 title: f_lseek函数
