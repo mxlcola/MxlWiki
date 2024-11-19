@@ -1,0 +1,13 @@
+created: 20241119135914164
+creator: mxlcola
+modified: 20241119140853156
+modifier: mxlcola
+tags: 信号量 ?
+title: 信号量结构体
+
+! 信号量结构体应该包含哪些东西？
+
+* value值
+* 线程链表
+
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/02_struct.png]]
