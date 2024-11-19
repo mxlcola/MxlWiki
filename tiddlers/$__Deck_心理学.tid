@@ -4,6 +4,7 @@ card: [all[tiddlers]tag[心理学]]
 card_exclude: [tag[!]]
 card_unfold: [tag[.]]
 created: 20241119111506972
+creator: mxlcola
 description: 
 difficulty: 3.9899999999999998
 due: 20241117141143943
@@ -13,7 +14,8 @@ lapses: 0
 last_review: 20241111141143943
 leech_action: {{$:/plugins/tidme/fsrs4tw/buttons/action/exclude}}
 leech_threshold: 8
-modified: 20241119111506972
+modified: 20241119142556282
+modifier: mxlcola
 order: due-new
 order_due: [sort[due]]
 order_learn: [sort[due]]

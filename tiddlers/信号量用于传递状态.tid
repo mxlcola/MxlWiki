@@ -1,9 +1,20 @@
+annotate-colour: dodgerblue
 created: 20241119134649631
 creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241125142459555
+elapsed_days: 0
+lapses: 0
+last_review: 20241119142459555
 modified: 20241119135408275
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 信号量 ?
 title: 信号量用于传递状态
+type: text/vnd.tiddlywiki
 
 在有些情况下，不需要传输数据，只需要''传递状态''即可
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241119215059.png]]
