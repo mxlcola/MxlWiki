@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109014505743
-difficulty: 3.9899999999999998
-due: 20241118234657767
-elapsed_days: 0
+difficulty: 3.148
+due: 20250104111333134
+elapsed_days: 6.476798194444444
 lapses: 0
-last_review: 20241112234657767
+last_review: 20241119111333134
 modified: 20241109014534219
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 46
+stability: 46.04878352632433
 state: 2
 tags: 管理内存池的函数接口 ?
 title: 释放内存块
