@@ -1,0 +1,15 @@
+created: 20241119134649631
+creator: mxlcola
+modified: 20241119135408275
+modifier: mxlcola
+tags: 信号量 ?
+title: 信号量用于传递状态
+
+在有些情况下，不需要传输数据，只需要''传递状态''即可
+[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241119215059.png]]
+
+
+! 信号量的量可以表示资源的多少
+
+* 当释放信号量，信号量计数值（资源数）加一
+* 当获取信号量，信号量计数值（资源数）减一 
