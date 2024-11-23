@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241104145610708
 creator: mxlcola
-difficulty: 5.939799999999999
-due: 20241120121048814
-elapsed_days: 2.9937250231481483
+difficulty: 5.078301999999998
+due: 20250204142218367
+elapsed_days: 15.091314247685185
 lapses: 0
-last_review: 20241108121048814
+last_review: 20241123142218367
 modified: 20241105121842718
 modifier: mxlcola
-reps: 3
-scheduled_days: 12
-stability: 12.146270788100146
+reps: 4
+scheduled_days: 73
+stability: 72.75445600136992
 state: 2
 tags: 栈 ?
 title: 什么是栈？
+type: text/vnd.tiddlywiki
 
 简单来说，栈 是一种 LIFO（Last In Frist Out，后进先出） 形式的数据结构。栈''一般是从高地址向低地址增长''，并且栈支持 push（[[入栈]]） 和 pop（[[出栈]]） 两个操作。如下图所示
 

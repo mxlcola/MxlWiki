@@ -1,0 +1,22 @@
+annotate-colour: dodgerblue
+created: 20241123140138236
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241129142304131
+elapsed_days: 0
+lapses: 0
+last_review: 20241123142304131
+modified: 20241123140349292
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: TiddlyWiki ?
+title: tiddlywiki本身变具有编程性
+type: text/vnd.tiddlywiki
+
+
+! 所谓编程性
+
+可以提供自定义编程插件、模块，变成自己想要的模样
