@@ -6,7 +6,7 @@ due: 20241129142301040
 elapsed_days: 0
 lapses: 0
 last_review: 20241123142301040
-modified: 20241123134658523
+modified: 20241124013255369
 modifier: mxlcola
 reps: 1
 scheduled_days: 6
@@ -17,3 +17,7 @@ title: 工作记忆
 type: text/vnd.tiddlywiki
 
 工作记忆就像IO缓存，读写速度快，但是容量有限，很快忘掉
+
+关联：
+
+[[长期记忆]]

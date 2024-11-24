@@ -1,0 +1,10 @@
+created: 20241124013300464
+creator: mxlcola
+modified: 20241124013310756
+modifier: mxlcola
+tags: ?
+title: 长期记忆
+
+长期记忆VS工作记忆,从硬件角度做类比 
+
+长期记忆可以比作内存，从内存中读写虽然没有缓存快，但是要远比 I/O 操作快得多
