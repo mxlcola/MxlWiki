@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241124015006271
-modified: 20241124015309242
-tags: 想法 anki supermemo
+difficulty: 3.9899999999999998
+due: 20241201140359804
+elapsed_days: 0
+lapses: 0
+last_review: 20241125140359804
+modified: 20241125140348033
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 想法 anki supermemo ?
 title: anki和supermemo的关系
+type: text/vnd.tiddlywiki
 
 anki适合速记的内容，supermemo适合导入文章渐进阅读，两者功能并不重复
 

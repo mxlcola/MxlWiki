@@ -1,9 +1,20 @@
+annotate-colour: dodgerblue
 created: 20241124142130120
 creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241201140320365
+elapsed_days: 0
+lapses: 0
+last_review: 20241125140320365
 modified: 20241124143106989
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: anki与背单词 ?
 title: 英语里面最小单位是句子而不是单词
+type: text/vnd.tiddlywiki
 
 为什么说英文中的最小单位其实是句子，''因为只有在句子中的单词才有意义。''
 一个单独的单词，有意义吗？没有！

@@ -1,9 +1,20 @@
+annotate-colour: dodgerblue
 created: 20241124140408024
 creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241201140253148
+elapsed_days: 0
+lapses: 0
+last_review: 20241125140253148
 modified: 20241124140650761
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: anki ?
 title: 为什么卡片需要自己做？
+type: text/vnd.tiddlywiki
 
 # 制作卡片本身也是个辅助记忆的过程，制作好的卡片在一两天内学习，效率更高效果更好。
 # 有亲切感，抵触情绪少
