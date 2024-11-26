@@ -1,7 +1,7 @@
 created: 20241126074435180
-modified: 20241126074601007
-tags: 折线图
-title: chart控件删除曲线上的点
+modified: 20241126084634939
+tags: 折线图 ?
+title: chart控件删除曲线上的圆点
 
 ```c
 static void draw_series_line(lv_obj_t * obj, lv_draw_ctx_t * draw_ctx)
