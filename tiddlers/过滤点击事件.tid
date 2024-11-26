@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241126021109686
+difficulty: 3.9899999999999998
+due: 20241202031858902
+elapsed_days: 0
+lapses: 0
+last_review: 20241126031858902
 modified: 20241126021300199
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: LVGL ?
 title: 过滤点击事件
+type: text/vnd.tiddlywiki
 
 长按事件之后可能会触发点击事件
 

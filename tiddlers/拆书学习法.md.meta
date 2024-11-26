@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241124122009856
 creator: mxlcola
-difficulty: 4.93
-due: 20241126140223642
-elapsed_days: 0.012134606481481482
+difficulty: 4.078599999999999
+due: 20241207000737223
+elapsed_days: 1.420296099537037
 lapses: 0
-last_review: 20241124140223642
+last_review: 20241126000737223
 modified: 20241124122224598
 modifier: mxlcola
-reps: 2
-scheduled_days: 2
-stability: 2.4
+reps: 3
+scheduled_days: 11
+stability: 11.3116876716541
 state: 2
 tags: anki ?
 title: 拆书学习法
