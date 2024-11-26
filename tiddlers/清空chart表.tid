@@ -1,0 +1,13 @@
+created: 20241126071621899
+modified: 20241126071711534
+tags: 折线图 ?
+title: 清空chart表
+
+清空所有数据点
+
+使用 lv_chart_clear_series() 函数，清空指定数据系列的数据。
+
+```c
+/lv_chart_clear_series(chart, ser1); // 清空 ser1 的所有数据点
+
+```

@@ -1,0 +1,11 @@
+created: 20241126071034893
+modified: 20241126071242815
+tags: 折线图 ?
+title: 设置折线图线条宽度
+
+
+```c
+/* 设置线条的宽度 */
+lv_obj_set_style_line_width(chart, 5, LV_PART_ITEMS | LV_STATE_DEFAULT); // 设置线条宽度为 5 像素
+
+```

@@ -5,16 +5,19 @@ due: 20241129134221138
 elapsed_days: 0
 lapses: 0
 last_review: 20241123134221138
-modified: 20241119153241265
+modified: 20241126062640275
 reps: 1
 scheduled_days: 6
 stability: 5.8
 state: 2
 tags: 入门问题 ?
 title: 太记手机电脑同步探索
+type: text/vnd.tiddlywiki
 
 手机上的更新会同步到电脑上，包括增加修改删除
 
 但是电脑上的删除，复习进度等不会同步手机，需要重新导入
 
 流程上整明白了
+
+不同电脑和同一个手机也是可以同步，需要注意手机得扫码二维码重新更新服务器列表
