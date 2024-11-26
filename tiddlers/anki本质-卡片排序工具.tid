@@ -1,0 +1,23 @@
+annotate-colour: dodgerblue
+created: 20241124140721350
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241201140303783
+elapsed_days: 0
+lapses: 0
+last_review: 20241125140303783
+modified: 20241124141148750
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: anki ?
+title: anki本质-卡片排序工具
+type: text/vnd.tiddlywiki
+
+本质上是一个''卡片排序工具''一即依据使用者对卡片上的自定义内容进行主动测试、自我评判后，其内部算法根据评判结果更改每张卡片下次测试时间的排序工具。
+
+''把anki当作工具，不要来神话它''
+
+[[工具与笔记]]

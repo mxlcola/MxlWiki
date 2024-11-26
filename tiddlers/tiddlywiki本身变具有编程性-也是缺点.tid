@@ -1,0 +1,31 @@
+annotate-colour: dodgerblue
+created: 20241123140138236
+creator: mxlcola
+difficulty: 4.93
+due: 20241126222757830
+elapsed_days: 0.33659761574074076
+lapses: 0
+last_review: 20241123222757830
+modified: 20241123141613741
+modifier: mxlcola
+reps: 2
+scheduled_days: 3
+stability: 2.4
+state: 2
+tags: TiddlyWiki ?
+title: tiddlywiki本身变具有编程性-也是缺点
+type: text/vnd.tiddlywiki
+
+
+! 所谓编程性
+
+可以提供自定义编程插件、模块，变成自己想要的模样
+
+! 太微的缺点
+
+一般人是希望自己上手就用的，而不是去系统编程，所以TiddlyWiki太复杂，太记这样的笔记软件更适合
+
+[[Tiddlywiki 缺点]]
+
+[[tiddlywiki本质：开源的知识管理开发框架，而不是工具]]
+

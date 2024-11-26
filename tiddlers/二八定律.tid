@@ -1,0 +1,27 @@
+annotate-colour: dodgerblue
+created: 20241124144241444
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241201003258235
+elapsed_days: 0
+lapses: 0
+last_review: 20241125003258235
+modified: 20241124144404463
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: anki ?
+title: 二八定律
+type: text/vnd.tiddlywiki
+
+可真的有必要将Anki的每个细节都摸透吗？我认为没必要，恰恰相反，只需要理解Anki的原理，明
+白''Anki是排序工具的本质''，能下载安装会刷卡，再调整几个常用参数，对普通用户而言已经足够
+了。没必要人人都成为产品经理和开发者。
+根据二八定律，anki上百分之八十的功能，花百分之二十的时间就该掌握。
+
+关联
+
+[[anki本质-卡片排序工具]]
+

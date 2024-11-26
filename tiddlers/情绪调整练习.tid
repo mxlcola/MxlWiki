@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241114150120779
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241124133417900
-elapsed_days: 0
-lapses: 0
-last_review: 20241118133417900
-modified: 20241114150311793
+difficulty: 5.7021999999999995
+due: 20241127005245711
+elapsed_days: 0.09782184027777778
+lapses: 1
+last_review: 20241124005245711
+modified: 20241124005244696
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 3
+scheduled_days: 3
+stability: 2.102562322210425
 state: 2
 tags: 情绪管理 ?
 title: 情绪调整练习
+type: text/vnd.tiddlywiki
 
 * 每天都用[[冥想]]开始一天的生活，感受内在的放松与平静·
 * 将注意力放在今天，放在当下（今天，我将感受到平静。今天，我将完成什么）
@@ -23,4 +24,4 @@ title: 情绪调整练习
 * 从他人的评判中解脱出来，为自己松绑·
 * 练习“不反应也是一种反应”的艺术·
 * 主动应对，感受自身意识的强大，而不是任由自己被情绪主宰·
-* 每天写一份感恩清
+* 每天写一份感恩清单

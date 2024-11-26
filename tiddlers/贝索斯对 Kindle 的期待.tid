@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241108142509265
 creator: mxlcola
-difficulty: 3.148
-due: 20241123123626606
-elapsed_days: 0.00009530092592592592
+difficulty: 2.31442
+due: 20250123142254775
+elapsed_days: 8.073937094907407
 lapses: 0
-last_review: 20241115123626606
+last_review: 20241123142254775
 modified: 20241115123617702
 modifier: mxlcola
-reps: 2
-scheduled_days: 8
-stability: 5.800631770624152
+reps: 3
+scheduled_days: 61
+stability: 61.13280636002049
 state: 2
 tags: Kindle ?
 title: 贝索斯对 Kindle 的期待
+type: text/vnd.tiddlywiki
 
 有朝一日，当人手一台电子书阅读器时，传统图书出版业会像 CD 和音像店一样走向灭亡。
 

@@ -1,0 +1,27 @@
+annotate-colour: dodgerblue
+created: 20241124121817099
+creator: mxlcola
+difficulty: 4.93
+due: 20241127140235181
+elapsed_days: 0.011827673611111112
+lapses: 0
+last_review: 20241124140235181
+modified: 20241124122231344
+modifier: mxlcola
+reps: 2
+scheduled_days: 3
+stability: 2.4
+state: 2
+tags: anki supermemo ?
+title: anki相比supermemo优势
+type: text/vnd.tiddlywiki
+
+①anki有手机版，可以与手机同步进度，充分利用碎片化时间学习；
+
+②anki软件开源，社区活跃度高，插件丰富；
+
+③anki支持图片直接复制黏贴；
+
+④anki支持卡片之间的链接（非常重要，后面会讲到）；
+
+⑤anki支持快速的关键词搜索（supermemo UX版也有此功能，不过速度非常慢）

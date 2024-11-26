@@ -1,0 +1,10 @@
+created: 20241123140356016
+creator: mxlcola
+modified: 20241123140535272
+modifier: mxlcola
+tags: TiddlyWiki
+title: TiddlyWiki的数据库
+
+! 数据库大了之后打开慢？
+
+tw是基于浏览器，所以打开的效率（也就是你说的打开慢）取决于 1浏览器和 2系统配置。如果在忽略这2个条件的基础上，tw其实比通畅的软件执行要快（也就是打开后会很快），因为所有的tw程序和数据都在内存中执行。

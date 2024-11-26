@@ -1,7 +1,19 @@
+annotate-colour: dodgerblue
 created: 20241112144616516
 creator: mxlcola
-modified: 20241112144618341
+difficulty: 3.9899999999999998
+due: 20241130134457873
+elapsed_days: 0
+lapses: 0
+last_review: 20241124134457873
+modified: 20241124133305485
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: ? GTD
 title: 两分钟规则
+type: text/vnd.tiddlywiki
 
 如果某个任务预计可以在两分钟内完成，可以立即做掉，而不是把它留到以后。这样可以防止小任务积累，减少无谓的压力。

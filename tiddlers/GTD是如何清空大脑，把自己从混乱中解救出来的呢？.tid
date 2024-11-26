@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241113143810303
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241119232905222
-elapsed_days: 0
+difficulty: 3.148
+due: 20250126135419438
+elapsed_days: 9.600858958333333
 lapses: 0
-last_review: 20241113232905222
-modified: 20241113144428227
+last_review: 20241123135419438
+modified: 20241123134559496
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 64
+stability: 63.68216114769808
 state: 2
 tags: GTD ?
 title: GTD是如何清空大脑，把自己从混乱中解救出来的呢？
@@ -23,3 +23,5 @@ type: text/vnd.tiddlywiki
 
 类比''大脑是不稳定的硬盘''，需要外部存储（收集工具），好记性比如烂笔头
 
+关联
+[[工作记忆]]
