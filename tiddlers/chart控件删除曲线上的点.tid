@@ -1,0 +1,33 @@
+created: 20241126074435180
+modified: 20241126074601007
+tags: 折线图
+title: chart控件删除曲线上的点
+
+```c
+static void draw_series_line(lv_obj_t * obj, lv_draw_ctx_t * draw_ctx)
+{
+    ... 此处省略一堆代码
+                    if(ser->y_points[p_prev] != LV_CHART_POINT_NONE && ser->y_points[p_act] != LV_CHART_POINT_NONE) {
+                        lv_draw_line(draw_ctx, &line_dsc_default, &p1, &p2);
+                    }
+                   //注释掉下面的
+                    // if(point_w && point_h && ser->y_points[p_prev] != LV_CHART_POINT_NONE) {
+                    //     lv_draw_rect(draw_ctx, &point_dsc_default, &point_area);
+                    // }
+                    lv_event_send(obj, LV_EVENT_DRAW_PART_END, &part_draw_dsc);
+                }
+            }
+            p_prev = p_act;
+        }
+        /*Draw the last point*/
+        if(!crowded_mode && i == chart->point_cnt) {
+								······
+                //注释掉下面的
+                //lv_draw_rect(draw_ctx, &point_dsc_default, &point_area);
+                lv_event_send(obj, LV_EVENT_DRAW_PART_END, &part_draw_dsc);
+            }
+        }
+    }
+    draw_ctx->clip_area = clip_area_ori;
+}
+```
