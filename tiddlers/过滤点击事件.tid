@@ -1,0 +1,34 @@
+created: 20241126021109686
+modified: 20241126021300199
+tags: LVGL ?
+title: 过滤点击事件
+
+长按事件之后可能会触发点击事件
+
+! 如何过滤点击事件？
+
+!! 使用标志位过滤点击事件
+
+通过设置一个全局或静态标志位，来区分是否需要处理LV_EVENT_CLICKED
+
+```c
+static bool is_long_pressed = false;
+
+static void inte_list_handler(lv_event_t *e) {
+    lv_event_code_t code = lv_event_get_code(e);
+    if (code == LV_EVENT_CLICKED && !is_long_pressed) {
+        printf("Button clicked\n");
+    }
+    is_long_pressed = false;  // 重置标志位
+}
+
+static void long_pressend_event_handler(lv_event_t *e) {
+    lv_event_code_t code = lv_event_get_code(e);
+    if (code == LV_EVENT_LONG_PRESSED) {
+        printf("Button long pressed\n");
+        is_long_pressed = true;  // 设置标志位
+    }
+}
+
+
+```
