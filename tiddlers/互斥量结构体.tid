@@ -1,6 +1,17 @@
+annotate-colour: dodgerblue
 created: 20241126130509966
+difficulty: 3.9899999999999998
+due: 20241202131104254
+elapsed_days: 0
+lapses: 0
+last_review: 20241126131104254
 modified: 20241126130721523
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 互斥量 ?
 title: 互斥量结构体
+type: text/vnd.tiddlywiki
 
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/image/20241126210703.png]]
