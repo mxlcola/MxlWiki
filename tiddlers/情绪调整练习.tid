@@ -1,17 +1,17 @@
-annotate-colour: dodgerblue
+annotate-colour: red
 created: 20241114150120779
 creator: mxlcola
-difficulty: 5.7021999999999995
-due: 20241127005245711
-elapsed_days: 0.09782184027777778
-lapses: 1
-last_review: 20241124005245711
+difficulty: 7.397277999999999
+due: 20241127033556905
+elapsed_days: 3.1098517939814814
+lapses: 2
+last_review: 20241127033056905
 modified: 20241124005244696
 modifier: mxlcola
-reps: 3
-scheduled_days: 3
-stability: 2.102562322210425
-state: 2
+reps: 4
+scheduled_days: 0
+stability: 1.1209200227253364
+state: 3
 tags: 情绪管理 ?
 title: 情绪调整练习
 type: text/vnd.tiddlywiki
