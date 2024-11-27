@@ -1,19 +1,20 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241104140920149
 creator: mxlcola
-difficulty: 4.078599999999999
-due: 20241127010424651
-elapsed_days: 2.5145362847222223
+difficulty: 4.087113999999999
+due: 20250120033150756
+elapsed_days: 18.102385462962964
 lapses: 0
-last_review: 20241109010424651
+last_review: 20241127033150756
 modified: 20241112150119291
 modifier: mxlcola
-reps: 3
-scheduled_days: 18
-stability: 17.770030114505442
+reps: 4
+scheduled_days: 54
+stability: 54.35549884722675
 state: 2
 tags: ? CPU
 title: CPU内部寄存器
+type: text/vnd.tiddlywiki
 
 ! R0 - R12
 

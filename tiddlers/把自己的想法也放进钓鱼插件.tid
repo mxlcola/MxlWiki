@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241126091321786
-modified: 20241126091630591
+difficulty: 4.93
+due: 20241130033259129
+elapsed_days: 0.5987306597222222
+lapses: 0
+last_review: 20241127033259129
+modified: 20241126131048020
+reps: 2
+scheduled_days: 3
+stability: 2.4
+state: 2
 tags: 想法
 title: 把自己的想法也放进钓鱼插件
+type: text/vnd.tiddlywiki
 
 把自己的想法也放进钓鱼，事后来看，想法在变化，但也是一种历史记录
 
@@ -9,3 +20,5 @@ title: 把自己的想法也放进钓鱼插件
 
 知道自己想法是怎么来的，看到想法的转变，这也是记录的意义
 想法不在乎多少，随时随地记录就好
+
+[[使用supermemo渐进自己喜欢的文章，居然有一丝激动]]

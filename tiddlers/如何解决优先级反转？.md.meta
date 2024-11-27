@@ -1,5 +1,15 @@
+annotate-colour: dodgerblue
 created: 20241126130105517
-modified: 20241126130246738
+difficulty: 3.9899999999999998
+due: 20241202131128415
+elapsed_days: 0
+lapses: 0
+last_review: 20241126131128415
+modified: 20241127074207064
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 信号量 ?
 title: 如何解决优先级反转？
 type: text/markdown
