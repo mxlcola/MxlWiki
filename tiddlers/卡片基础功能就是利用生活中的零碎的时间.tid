@@ -1,8 +1,19 @@
+annotate-colour: dodgerblue
 created: 20241126140651058
 creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241202144450415
+elapsed_days: 0
+lapses: 0
+last_review: 20241126144450415
 modified: 20241126140742714
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 抽认卡 anki supermemo ?
 title: 卡片基础功能就是利用生活中的零碎的时间
+type: text/vnd.tiddlywiki
 
 卡片作用就是利用生活中的零碎的时间，supermemo卡片功能再强大，他其实连卡片基本功能都无法承担。supermemo只能坐在PC端，这个是它最大的弱点

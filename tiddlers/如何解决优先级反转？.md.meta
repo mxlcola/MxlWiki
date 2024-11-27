@@ -1,11 +1,19 @@
 annotate-colour: dodgerblue
 created: 20241126130105517
 difficulty: 3.9899999999999998
+<<<<<<< Updated upstream
 due: 20241202131128415
 elapsed_days: 0
 lapses: 0
 last_review: 20241126131128415
 modified: 20241127074207064
+=======
+due: 20241202144546789
+elapsed_days: 0
+lapses: 0
+last_review: 20241126144546789
+modified: 20241126130246738
+>>>>>>> Stashed changes
 reps: 1
 scheduled_days: 6
 stability: 5.8
