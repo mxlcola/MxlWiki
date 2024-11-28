@@ -1,9 +1,20 @@
+annotate-colour: dodgerblue
 created: 20241127135654909
 creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241204012350578
+elapsed_days: 0
+lapses: 0
+last_review: 20241128012350578
 modified: 20241127143207683
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ?
 title: 《深度学习的艺术》中解码的技巧
+type: text/vnd.tiddlywiki
 
 ①不要只去寻找结论，还要去寻找过程；
 

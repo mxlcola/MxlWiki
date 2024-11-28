@@ -1,8 +1,21 @@
+annotate-colour: green
 created: 20241128123010422
-modified: 20241128123240684
-tags: 技术债务 工作积累
+difficulty: 4.93
+due: 20241128152056419
+elapsed_days: 0
+lapses: 0
+last_review: 20241128151056419
+modified: 20241128151055480
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: 技术债务 工作积累 CRY2833
 title: 技术债务是如何引入的？
+type: text/vnd.tiddlywiki
 
 在关于开发者生产力的研究中，开发者通常被迫引入新的技术债务，''因为公司不断地以牺牲质量为代价，追求短期目标，比如新潮的功能''。
 
 然而，技术债务不仅影响整个组织，还影响到了''开发者的幸福感、工作满意度和士气''。
+
+声级计的开发就是这个情况

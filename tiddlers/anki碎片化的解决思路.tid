@@ -1,9 +1,20 @@
+annotate-colour: dodgerblue
 created: 20241127143450053
 creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241204012421114
+elapsed_days: 0
+lapses: 0
+last_review: 20241128012421114
 modified: 20241127143520100
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: anki ?
 title: anki碎片化的解决思路
+type: text/vnd.tiddlywiki
 
 # 编写多张相关内容卡片
 # 在卡片间建立跳转链接

@@ -1,4 +1,7 @@
 {
+    "150724988": "{\"rating\":4,\"elapsed_days\":0.5098559143518518,\"scheduled_days\":3,\"review\":\"20241128150703955\",\"state\":1}",
+    "150746279": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20241128150727556\",\"state\":0}",
+    "150831186": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241128150830889\",\"state\":0}",
     "01234880": "{\"rating\":4,\"elapsed_days\":0.9116559837962963,\"scheduled_days\":2,\"review\":\"20241128012343981\",\"state\":3}",
     "01235653": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241128012350578\",\"state\":0}",
     "012419660": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241128012418627\",\"state\":0}",
