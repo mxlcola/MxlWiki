@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241128122350938
 difficulty: 4.93
-due: 20241128152114748
-elapsed_days: 0
+due: 20241202130635805
+elapsed_days: 0.9134381597222222
 lapses: 0
-last_review: 20241128151114748
+last_review: 20241129130635805
 modified: 20241128122505955
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 技术债务 工作积累
 title: 偿还技术债务
 type: text/vnd.tiddlywiki

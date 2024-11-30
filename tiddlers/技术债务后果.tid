@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241128122732479
+difficulty: 3.9899999999999998
+due: 20241205130648686
+elapsed_days: 0
+lapses: 0
+last_review: 20241129130648686
 modified: 20241128122858070
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 技术债务 工作积累
 title: 技术债务后果
+type: text/vnd.tiddlywiki
 
 如果你将短期代码修复（也称为“''打补丁''”）放在第一位，而不是精心设计能够长期使用的代码和流程，就会积累债务，''最终只能通过未来重写代码来偿还''。
 

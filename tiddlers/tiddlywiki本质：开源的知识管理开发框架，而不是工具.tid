@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241123140930143
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241129142318393
-elapsed_days: 0
+difficulty: 3.148
+due: 20250111130618411
+elapsed_days: 5.946528020833333
 lapses: 0
-last_review: 20241123142318393
+last_review: 20241129130618411
 modified: 20241123141613743
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 43
+stability: 42.94624385615608
 state: 2
 tags: TiddlyWiki ?
 title: tiddlywiki本质：开源的知识管理开发框架，而不是工具
