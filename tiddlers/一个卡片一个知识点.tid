@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124141801571
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241201140316500
-elapsed_days: 0
+difficulty: 3.148
+due: 20250111042349092
+elapsed_days: 5.597599444444445
 lapses: 0
-last_review: 20241125140316500
+last_review: 20241201042349092
 modified: 20241124142053698
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 41
+stability: 40.886797648991575
 state: 2
 tags: anki ?
 title: 一个卡片一个知识点

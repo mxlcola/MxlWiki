@@ -1,18 +1,19 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241102123639244
 creator: mxlcola
-difficulty: 3.9994
-due: 20241130121428199
-elapsed_days: 6.026725914351852
+difficulty: 3.157306
+due: 20250409042008083
+elapsed_days: 20.670600497685186
 lapses: 0
-last_review: 20241110121428199
+last_review: 20241201042008083
 modified: 20241102123650339
 modifier: mxlcola
-reps: 2
-scheduled_days: 20
-stability: 20.212862474300255
+reps: 3
+scheduled_days: 129
+stability: 128.50042654613353
 state: 2
 tags: ? 思维模型
 title: 康奈尔笔记法
+type: text/vnd.tiddlywiki
 
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241102203119604.png]]

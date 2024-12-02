@@ -1,19 +1,20 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241104145331275
 creator: mxlcola
-difficulty: 3.9994
-due: 20241201141304818
-elapsed_days: 6.082023541666667
+difficulty: 3.157306
+due: 20250403042453549
+elapsed_days: 19.591536261574074
 lapses: 0
-last_review: 20241111141304818
+last_review: 20241201042453549
 modified: 20241104145550843
 modifier: mxlcola
-reps: 2
-scheduled_days: 20
-stability: 20.337211015844296
+reps: 3
+scheduled_days: 123
+stability: 123.23135262793087
 state: 2
 tags: 栈 ?
 title: 堆和栈方向之说？
+type: text/vnd.tiddlywiki
 
 1. 堆没有方向之说，每个堆都是散落的
 
