@@ -1,0 +1,18 @@
+created: 20241202134415743
+creator: mxlcola
+modified: 20241202135014115
+modifier: mxlcola
+tags: DMA ?
+title: DMA传输方向设置
+
+```c
+DMA_InitStructure.DMA_DIR = DMA_DIR_PeripheralDST;
+
+```
+作用：定义数据从哪里传到哪里。
+
+可选项：
+
+# DMA_DIR_PeripheralSRC：外设到内存（常用于接收数据）。
+# DMA_DIR_PeripheralDST：内存到外设（常用于发送数据）。
+# DMA_DIR_MemoryToMemory：内存到内存（需支持此模式的DMA控制器）。

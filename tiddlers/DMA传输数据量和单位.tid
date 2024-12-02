@@ -1,0 +1,23 @@
+created: 20241202135036641
+creator: mxlcola
+modified: 20241202135221947
+modifier: mxlcola
+tags: DMA ?
+title: DMA传输数据量和单位
+
+! 数据量
+
+```html
+DMA_InitStructure.DMA_BufferSize = 100;  // 传输100个数据项
+```
+
+! 数据宽度（Data Width）
+
+作用：定义每次传输的数据宽度。
+
+可选项：
+
+# DMA_PeripheralDataSize_Byte：8位（1字节）。
+# DMA_PeripheralDataSize_HalfWord：16位（2字节）。
+# DMA_PeripheralDataSize_Word：32位（4字节）。
+
