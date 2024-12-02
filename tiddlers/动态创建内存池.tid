@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109013928459
-difficulty: 4.078599999999999
-due: 20241201232305539
-elapsed_days: 2.495665150462963
+difficulty: 3.2357139999999993
+due: 20250327120502507
+elapsed_days: 18.5291315625
 lapses: 0
-last_review: 20241113232305539
+last_review: 20241202120502507
 modified: 20241109014109719
-reps: 3
-scheduled_days: 18
-stability: 17.661513306312944
+reps: 4
+scheduled_days: 115
+stability: 115.31508819910884
 state: 2
 tags: 管理内存池的函数接口 ?
 title: 动态创建内存池

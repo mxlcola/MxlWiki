@@ -1,21 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241126130509966
-difficulty: 3.9899999999999998
-<<<<<<< Updated upstream
-due: 20241202131104254
-elapsed_days: 0
+difficulty: 3.9994
+due: 20241222120714509
+elapsed_days: 5.890010844907407
 lapses: 0
-last_review: 20241126131104254
-=======
-due: 20241202144537572
-elapsed_days: 0
-lapses: 0
-last_review: 20241126144537572
->>>>>>> Stashed changes
+last_review: 20241202120714509
 modified: 20241126130721523
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 20
+stability: 19.90484204730879
 state: 2
 tags: 互斥量 ?
 title: 互斥量结构体

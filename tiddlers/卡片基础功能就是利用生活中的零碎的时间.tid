@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241126140651058
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241202144450415
-elapsed_days: 0
+difficulty: 3.148
+due: 20250114120653512
+elapsed_days: 5.890313611111111
 lapses: 0
-last_review: 20241126144450415
+last_review: 20241202120653512
 modified: 20241126140742714
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 43
+stability: 42.615420532277554
 state: 2
 tags: 抽认卡 anki supermemo ?
 title: 卡片基础功能就是利用生活中的零碎的时间

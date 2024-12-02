@@ -1,21 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241126071034893
-difficulty: 3.9899999999999998
-<<<<<<< Updated upstream
-due: 20241202131140502
-elapsed_days: 0
+difficulty: 3.9994
+due: 20241222120735508
+elapsed_days: 5.8901018287037035
 lapses: 0
-last_review: 20241126131140502
-=======
-due: 20241202144550714
-elapsed_days: 0
-lapses: 0
-last_review: 20241126144550714
->>>>>>> Stashed changes
+last_review: 20241202120735508
 modified: 20241126071242815
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 20
+stability: 19.905047313282235
 state: 2
 tags: 折线图 ?
 title: 设置折线图线条宽度

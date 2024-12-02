@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241126021109686
-difficulty: 3.9899999999999998
-due: 20241202031858902
-elapsed_days: 0
+difficulty: 3.148
+due: 20250116120556506
+elapsed_days: 6.365944467592593
 lapses: 0
-last_review: 20241126031858902
+last_review: 20241202120556506
 modified: 20241126021300199
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 45
+stability: 45.402890851259635
 state: 2
 tags: LVGL ?
 title: 过滤点击事件

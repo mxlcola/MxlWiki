@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241102114129880
 creator: mxlcola
-difficulty: 3.9994
-due: 20241130121609830
-elapsed_days: 6.027372800925926
+difficulty: 3.157306
+due: 20250408042035412
+elapsed_days: 20.669740532407406
 lapses: 0
-last_review: 20241110121609830
+last_review: 20241201042035412
 modified: 20241102114154840
 modifier: mxlcola
-reps: 2
-scheduled_days: 20
-stability: 20.21431792722578
+reps: 3
+scheduled_days: 128
+stability: 128.4970022721661
 state: 2
 tags: 墨水屏 ?
 title: 墨水屏显示原理

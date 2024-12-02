@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241109012026023
 creator: mxlcola
-difficulty: 4.078599999999999
-due: 20241130232428953
-elapsed_days: 2.383404270833333
+difficulty: 3.2357139999999993
+due: 20250319042132330
+elapsed_days: 17.20628912037037
 lapses: 0
-last_review: 20241113232428953
+last_review: 20241201042132330
 modified: 20241111141220514
 modifier: mxlcola
-reps: 3
-scheduled_days: 17
-stability: 17.013929258119102
+reps: 4
+scheduled_days: 108
+stability: 108.36788803979123
 state: 2
 tags: RT-Thread内存管理 ? 内存池
 title: 内存池管理
