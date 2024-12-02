@@ -20,5 +20,6 @@
     "120700294": "{\"rating\":3,\"elapsed_days\":5.889998518518518,\"scheduled_days\":20,\"review\":\"20241202120659512\",\"state\":2}",
     "120717436": "{\"rating\":3,\"elapsed_days\":5.890010844907407,\"scheduled_days\":20,\"review\":\"20241202120714509\",\"state\":2}",
     "120723371": "{\"rating\":4,\"elapsed_days\":5.890026539351852,\"scheduled_days\":43,\"review\":\"20241202120720509\",\"state\":2}",
-    "120731392": "{\"rating\":4,\"elapsed_days\":5.890077858796296,\"scheduled_days\":43,\"review\":\"20241202120729515\",\"state\":2}"
+    "120731392": "{\"rating\":4,\"elapsed_days\":5.890077858796296,\"scheduled_days\":43,\"review\":\"20241202120729515\",\"state\":2}",
+    "120746249": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241202120744499\",\"state\":0}"
 }
