@@ -1,7 +1,17 @@
+annotate-colour: dodgerblue
 created: 20241202132914701
 creator: mxlcola
-modified: 20241202134227447
+difficulty: 3.9899999999999998
+due: 20241209003314334
+elapsed_days: 0
+lapses: 0
+last_review: 20241203003314334
+modified: 20241203003313741
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: DMA ?
 title: 什么是DMA？
 
@@ -11,7 +21,7 @@ DMA（Direct Memory Access，直接存储器访问）提供在[[外设]]与内�
 
 ! DMA好处
 
-给CPU减负，dma搬运数据，cpu处理指令和计算
+''给CPU减负，dma搬运数据，cpu处理指令和计算''
 
 1. 数据搬运的工作比较耗时间；
 

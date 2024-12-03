@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241127081241652
-difficulty: 3.9899999999999998
-due: 20241203131433078
-elapsed_days: 0
+difficulty: 3.148
+due: 20250112003248276
+elapsed_days: 5.471009212962963
 lapses: 0
-last_review: 20241127131433078
+last_review: 20241203003248276
 modified: 20241127081527177
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 40
+stability: 40.136093137033704
 state: 2
 tags: CRY2833 ? 注意事项
 title: LN精度调整为0.2 算法库使用方式
