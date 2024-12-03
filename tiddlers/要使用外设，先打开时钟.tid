@@ -1,0 +1,13 @@
+created: 20241202134232305
+creator: mxlcola
+modified: 20241202134345723
+modifier: mxlcola
+tags: 外设 ?
+title: 要使用外设，先打开时钟
+
+[[DMA]] 属于 AHB 总线的外设，需要首先打开时钟，否则无法正常使用
+
+```c
+RCC_AHBPeriphClockCmd(RCC_AHBPeriph_DMA1, ENABLE);
+
+```

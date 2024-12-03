@@ -1,0 +1,20 @@
+created: 20241202132914701
+creator: mxlcola
+modified: 20241202134227447
+modifier: mxlcola
+tags: DMA ?
+title: 什么是DMA？
+
+! 什么是DMA?
+
+DMA（Direct Memory Access，直接存储器访问）提供在[[外设]]与内存、存储器和存储器之间的高速数据传输使用。它允许不同速度的硬件装置来沟通，而不需要依赖于CPU
+
+! DMA好处
+
+给CPU减负，dma搬运数据，cpu处理指令和计算
+
+1. 数据搬运的工作比较耗时间；
+
+2. 数据搬运工作时效要求高（有数据来就要搬走）；
+
+3. 没啥技术含量（CPU 节约出来的时间可以处理更重要的事）

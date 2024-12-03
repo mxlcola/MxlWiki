@@ -1,0 +1,13 @@
+created: 20241202134807320
+creator: mxlcola
+modified: 20241202134949754
+modifier: mxlcola
+tags: DMA ?
+title: DMA地址递增与否
+
+地址递增与否取决于目标的特性（如内存递增、[[外设]]地址固定）。
+
+```c
+	DMA_InitStructure.DMA_PeripheralInc = DMA_PeripheralInc_Disable;
+	DMA_InitStructure.DMA_MemoryInc = DMA_MemoryInc_Enable;
+```
