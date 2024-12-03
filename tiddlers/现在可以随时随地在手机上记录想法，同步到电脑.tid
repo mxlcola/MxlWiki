@@ -1,22 +1,22 @@
 annotate-colour: dodgerblue
 created: 20241110143558073
 creator: 老乐
-difficulty: 4.078599999999999
-due: 20241203033238520
-elapsed_days: 0.5990623148148149
+difficulty: 3.2357139999999993
+due: 20250115034650486
+elapsed_days: 6.009860717592592
 lapses: 0
-last_review: 20241127033238520
-modified: 20241110143830169
+last_review: 20241203034650486
+modified: 20241203034643876
 modifier: 老乐
-reps: 3
-scheduled_days: 6
-stability: 6.234377227322503
+reps: 4
+scheduled_days: 43
+stability: 43.05734769465072
 state: 2
 tags: 想法
 title: 现在可以随时随地在手机上记录想法，同步到电脑
 type: text/vnd.tiddlywiki
 
-手机和电脑同步测试下来有一个限制就是两个必须在同一个局域网内
+手机和电脑同步测试下来有一个限制就是两个必须在同一个[[局域网]]内
 
 有个比较坑的地方就是
 
