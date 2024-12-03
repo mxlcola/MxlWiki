@@ -1,15 +1,25 @@
+annotate-colour: dodgerblue
 created: 20241202135623989
 creator: mxlcola
-modified: 20241202135707140
+difficulty: 3.9899999999999998
+due: 20241209003902471
+elapsed_days: 0
+lapses: 0
+last_review: 20241203003902471
+modified: 20241203003902068
 modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: DMA ?
 title: DMA优先级管理方式
 
 ! 优先级管理采用软件+硬件：
 
-软件： 每个通道的优先级可以在DMA_CCRx寄存器中设置，有4个等级
+''软件''： 每个通道的优先级可以在''DMA_CCRx寄存器''中设置，有4个等级
 
 最高级>高级>中级>低级
 
- 硬件： 如果2个请求，它们的软件优先级相同，则''较低编号的通道比较高编号的通道有较高的优先权''。比如：如果软件优先级相同，通道2优先于通道4
+'' 硬件''： 如果2个请求，它们的软件优先级相同，则''较低编号的通道比较高编号的通道有较高的优先权''。比如：如果软件优先级相同，通道2优先于通道4
 
