@@ -1,11 +1,13 @@
 annotate-colour: dodgerblue
 created: 20241127040450143
+creator: mxlcola
 difficulty: 3.9899999999999998
 due: 20241204025149293
 elapsed_days: 0
 lapses: 0
 last_review: 20241128025149293
-modified: 20241127040531732
+modified: 20241203131659102
+modifier: mxlcola
 reps: 1
 scheduled_days: 6
 stability: 5.8
@@ -15,3 +17,7 @@ title: 对于系统的信任
 type: text/vnd.tiddlywiki
 
 当我想找一篇文章或者一样事物的时候，它一定在这里
+
+!! 对于时间、任务管理 信任系统的快乐
+
+我们不需要担心其他事情，因为它们已经处于系统中，并且系统可以做出筛选，让我们知道自己当下最佳的行动是什么。对[[下一步行动]]有明确的认知，才有勇气选择最佳的行动，而执行最佳行动的过程，才是感到快乐的真正来源
