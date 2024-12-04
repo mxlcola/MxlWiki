@@ -6,7 +6,7 @@ due: 20241209003908130
 elapsed_days: 0
 lapses: 0
 last_review: 20241203003908130
-modified: 20241202135617897
+modified: 20241204004249672
 modifier: mxlcola
 reps: 1
 scheduled_days: 6
@@ -16,6 +16,8 @@ tags: DMA ?
 title: DMA传输数据优先级怎么确定？
 
 STM32F103 有 2 个 DMA 控制器，DMA1 有 7 个通道，DMA 2 有 5 个通道。
+
+{{什么是DMA通道？怎么选择通道？}}
 
 一个通道每次只能搬运一个外设的数据！！ 如果同时有多个外设的 DMA 请求，则按照''优先级进行响应。''
 
