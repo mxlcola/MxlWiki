@@ -1,0 +1,6 @@
+created: 20241204024612666
+modified: 20241204024710974
+tags: LVGL图层 ?
+title: LVGL模式对话框
+
+使用lvgl实现模式对话框的关键点就是利用 layer_sys 和 layer_top 的特点。也就是说创建对话框的时候在 layer_sys 和 layer_top 之上创建即可。
