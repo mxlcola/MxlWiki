@@ -1,0 +1,21 @@
+created: 20241204113141705
+modified: 20241204113256093
+tags: PWM ? 低功耗
+title: 如何在关闭背光时降低功耗？可以通过停止定时器或关闭背光驱动电路实现吗？
+
+''停止PWM输出：''
+
+调用HAL_TIM_PWM_Stop停止定时器PWM通道。
+
+''关闭背光驱动电路：''
+
+如果背光通过MOS管或驱动芯片控制，可以将其使能引脚（如EN）置为低电平，完全切断LED供电。
+示例：
+
+```c
+HAL_GPIO_WritePin(BACKLIGHT_EN_PORT, BACKLIGHT_EN_PIN, GPIO_PIN_RESET); // 关闭背光电源
+```
+低功耗的最佳实践：
+
+# 停止定时器并禁用PWM引脚。
+# 关闭背光电路的供电，避免空载功耗。

@@ -1,0 +1,25 @@
+created: 20241204112555234
+modified: 20241204112710700
+tags: PW ?
+title: 如果需要动态调节占空比，例如按键控制亮度，如何高效修改CCR值？
+
+```c
+
+void AdjustPWM_DutyCycle(uint8_t channel, uint16_t dutyCycle) {
+    if (dutyCycle > 100) dutyCycle = 100; // 限制占空比为0-100%
+    uint16_t ccr_value = (dutyCycle * TIM1->ARR) / 100; // 计算CCR值
+
+    switch (channel) {
+        case 1: TIM1->CCR1 = ccr_value; break; // 调节通道1
+        case 2: TIM1->CCR2 = ccr_value; break; // 调节通道2
+        case 3: TIM1->CCR3 = ccr_value; break; // 调节通道3
+        case 4: TIM1->CCR4 = ccr_value; break; // 调节通道4
+        default: break;
+    }
+}
+
+
+```
+关联
+
+[[如何通过修改CCR值来改变占空比？]]

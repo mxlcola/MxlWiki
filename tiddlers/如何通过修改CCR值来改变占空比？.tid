@@ -1,0 +1,12 @@
+created: 20241204110438397
+modified: 20241204110510283
+tags: PWM ?
+title: 如何通过修改CCR值来改变占空比？
+
+```c
+void SetPWM_DutyCycle(uint8_t dutyCycle) {
+    if (dutyCycle > 100) dutyCycle = 100; // 限制占空比为0-100%
+    uint16_t ccr_value = (dutyCycle * TIM1->ARR) / 100; // 计算CCR值
+    TIM1->CCR1 = ccr_value; // 设置占空比
+}
+```
