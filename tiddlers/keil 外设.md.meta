@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241204105556324
 difficulty: 4.93
-due: 20241205005847989
-elapsed_days: 0
+due: 20241208145640795
+elapsed_days: 0.588805636574074
 lapses: 0
-last_review: 20241205004847989
+last_review: 20241205145640795
 modified: 20241204105802260
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: KEIL调试 工作积累
 title: keil 外设
 type: text/markdown
