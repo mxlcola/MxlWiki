@@ -1,0 +1,118 @@
+created: 20241205113630562
+modified: 20241205113842275
+tags: CRY2833
+title: 固件升级flash参数兼容
+
+当修改 DeviceConfig_t 结构体时，由于 CRC 校验是基于整个结构体计算的，所以会导致校验失败
+
+```c
+#pragma pack(push, 1)
+typedef struct {
+    uint8_t startByte1;       // 起始字节1
+    uint8_t startByte2;       // 起始字节2
+    uint32_t version;         // 添加版本号
+    uint32_t crc32;
+    uint32_t addr;
+    // ... 其余结构体成员 ...
+} DeviceConfig_t;
+#pragma pack(pop)
+```
+
+!! 实现版本迁移
+
+```c
+
+#define CURRENT_CONFIG_VERSION 1
+
+typedef struct {
+    // 保存旧版本的结构体定义
+    uint8_t startByte1;
+    uint8_t startByte2;
+    uint32_t crc32;
+    uint32_t addr;
+    // ... 旧版本的其他字段
+} DeviceConfig_V0_t;
+
+static int migrate_config_data(void* old_data, uint32_t old_version, DeviceConfig_t* new_config) {
+    switch(old_version) {
+        case 0: {
+            DeviceConfig_V0_t* old_config = (DeviceConfig_V0_t*)old_data;
+            // 复制共同字段
+            new_config->startByte1 = old_config->startByte1;
+            new_config->startByte2 = old_config->startByte2;
+            new_config->addr = old_config->addr;
+            // 设置新字段的默认值
+            // ...
+            return 0;
+        }
+        // 添加其他版本的迁移代码
+        default:
+            return -1;
+    }
+}
+
+```
+
+!! 修改读取函数
+
+```c
+static int flashex_read_deviceConf_check(DeviceConfig_t *flash_conf) {
+    Exit_MemoryMappedMode();
+    cry_extflash_DeInit();
+    cry_extflash_init();
+
+    if (flash_conf == NULL) {
+        return -1;
+    }
+
+    void* read_buffer = rt_malloc(STM_SECTOR_SIZE);  // 分配足够大的缓冲区
+    if (!read_buffer) {
+        return -RT_ENOMEM;
+    }
+
+    int ret = -1;
+    for (int i = 0; i < BACKUP_BLOCK_NUMS; ++i) {
+        uint32_t read_addr = flash_conf->addr + i * STM_SECTOR_SIZE;
+        
+        // 先读取头部信息
+        cry_extflash_FastRead(read_buffer, read_addr, sizeof(DeviceConfig_t));
+        DeviceConfig_t* temp_conf = (DeviceConfig_t*)read_buffer;
+        
+        // 检查魔数
+        if (temp_conf->startByte1 != 0x23 || temp_conf->startByte2 != 0x23) {
+            continue;
+        }
+
+        // 获取版本号
+        uint32_t stored_version = temp_conf->version;
+        
+        if (stored_version == CURRENT_CONFIG_VERSION) {
+            // 版本相同，直接验证CRC
+            size_t data_size = sizeof(DeviceConfig_t) - offsetof(DeviceConfig_t, addr);
+            uint32_t calculated_crc = crc32_calculate((uint8_t*)&temp_conf->addr, data_size);
+            
+            if (calculated_crc == temp_conf->crc32) {
+                memcpy(flash_conf, temp_conf, sizeof(DeviceConfig_t));
+                ret = 0;
+                break;
+            }
+        } else {
+            // 版本不同，需要迁移
+            if (migrate_config_data(read_buffer, stored_version, flash_conf) == 0) {
+                // 迁移成功，更新版本号和CRC
+                flash_conf->version = CURRENT_CONFIG_VERSION;
+                size_t data_size = sizeof(DeviceConfig_t) - offsetof(DeviceConfig_t, addr);
+                flash_conf->crc32 = crc32_calculate((uint8_t*)&flash_conf->addr, data_size);
+                
+                // 写回更新后的数据
+                flashex_write_deviceConf_check(flash_conf);
+                ret = 0;
+                break;
+            }
+        }
+    }
+
+    rt_free(read_buffer);
+    return ret;
+}
+```
