@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241128074007557
-difficulty: 3.9899999999999998
-due: 20241205130740896
-elapsed_days: 0
+difficulty: 3.9994
+due: 20241224004753152
+elapsed_days: 5.486252962962963
 lapses: 0
-last_review: 20241129130740896
+last_review: 20241205004753152
 modified: 20241128074047592
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 19
+stability: 18.99026506242254
 state: 2
 tags: SDIO 工作积累
 title: SDIO引脚检测注意事项

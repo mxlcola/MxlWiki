@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241108123020483
 creator: mxlcola
-difficulty: 3.9994
-due: 20241205000329185
-elapsed_days: 5.952381770833333
+difficulty: 3.157306
+due: 20250409003556170
+elapsed_days: 20.022534560185186
 lapses: 0
-last_review: 20241115000329185
+last_review: 20241205003556170
 modified: 20241108123423988
 modifier: mxlcola
-reps: 2
-scheduled_days: 20
-stability: 20.04546822967058
+reps: 3
+scheduled_days: 125
+stability: 125.2027249992849
 state: 2
 tags: 卡片笔记法 ?
 title: 以文章为思想单位存储存在的问题？

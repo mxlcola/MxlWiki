@@ -1,0 +1,15 @@
+{
+    "003603846": "{\"rating\":4,\"elapsed_days\":20.022534560185186,\"scheduled_days\":125,\"review\":\"20241205003556170\",\"state\":2}",
+    "003622412": "{\"rating\":4,\"elapsed_days\":20.022706111111113,\"scheduled_days\":125,\"review\":\"20241205003619932\",\"state\":2}",
+    "003706860": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205003656751\",\"state\":0}",
+    "003743580": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205003709661\",\"state\":0}",
+    "00375038": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205003746618\",\"state\":0}",
+    "003837858": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205003753294\",\"state\":0}",
+    "003925670": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20241205003840554\",\"state\":0}",
+    "003934216": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205003928880\",\"state\":0}",
+    "004022182": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205003936996\",\"state\":0}",
+    "004043495": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205004025015\",\"state\":0}",
+    "004049336": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205004046526\",\"state\":0}",
+    "004100788": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205004052320\",\"state\":0}",
+    "004110794": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241205004104064\",\"state\":0}"
+}
