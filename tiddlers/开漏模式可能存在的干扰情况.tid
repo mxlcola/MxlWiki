@@ -1,0 +1,8 @@
+created: 20241209115954454
+modified: 20241209120058250
+tags: 开漏模式 ?
+title: 开漏模式可能存在的干扰情况
+
+!! GPIO容易受到外界环境影响
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209200023546.png" alt="image-20241209200023546" style="zoom: 33%;" />

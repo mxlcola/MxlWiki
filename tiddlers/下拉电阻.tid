@@ -1,0 +1,8 @@
+created: 20241209120258528
+modified: 20241209120519696
+tags: ? GPIO
+title: 下拉电阻
+
+电阻连接在GND和IO口之间
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209200449305.png" alt="image-20241209200449305" style="zoom:50%;" />

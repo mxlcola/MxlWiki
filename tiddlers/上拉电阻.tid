@@ -1,4 +1,8 @@
 created: 20241129130729498
-modified: 20241205004717205
-tags: GPIO
+modified: 20241209120431117
+tags: GPIO ?
 title: 上拉电阻
+
+电阻连接在VCC和IO口之间
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209200354348.png" alt="image-20241209200354348" style="zoom:33%;" />
