@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241129084314543
-difficulty: 3.9899999999999998
-due: 20241208120744499
-elapsed_days: 0
+difficulty: 3.148
+due: 20250126080845986
+elapsed_days: 6.834044976851851
 lapses: 0
-last_review: 20241202120744499
+last_review: 20241209080845986
 modified: 20241129084748818
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 48
+stability: 48.12066071231426
 state: 2
 tags: LVGL基础知识 ?
 title: lvgl对象

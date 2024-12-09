@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241202135036641
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241209003810799
-elapsed_days: 0
+difficulty: 3.148
+due: 20250123080956675
+elapsed_days: 6.313725405092592
 lapses: 0
-last_review: 20241203003810799
+last_review: 20241209080956675
 modified: 20241202135221947
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 45
+stability: 45.09814227500634
 state: 2
 tags: DMA ?
 title: DMA传输数据量和单位

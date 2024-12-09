@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241202135419640
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241209003908130
-elapsed_days: 0
+difficulty: 3.148
+due: 20250123081008519
+elapsed_days: 6.313198946759259
 lapses: 0
-last_review: 20241203003908130
+last_review: 20241209081008519
 modified: 20241204004249672
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 45
+stability: 45.09506827460114
 state: 2
 tags: DMA ?
 title: DMA传输数据优先级怎么确定？

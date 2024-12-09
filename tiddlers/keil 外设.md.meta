@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204105556324
-difficulty: 4.93
-due: 20241208145640795
-elapsed_days: 0.588805636574074
+difficulty: 4.078599999999999
+due: 20250102081140035
+elapsed_days: 3.7187411921296296
 lapses: 0
-last_review: 20241205145640795
+last_review: 20241209081140035
 modified: 20241204105802260
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 24
+stability: 24.49614571639549
 state: 2
 tags: KEIL调试 工作积累
 title: keil 外设
