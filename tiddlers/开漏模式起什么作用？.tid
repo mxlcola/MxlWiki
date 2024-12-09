@@ -1,5 +1,5 @@
 created: 20241209114803185
-modified: 20241209115113011
+modified: 20241209122140059
 tags: 开漏模式 ?
 title: 开漏模式起什么作用？
 
@@ -7,7 +7,7 @@ title: 开漏模式起什么作用？
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209194851370.png" alt="image-20241209194851370" style="zoom:33%;" />
 
-!! 多个GPIO控制一个电路
+!! 多个GPIO控制一个电路，开漏输出的线与特性
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209195103057.png" alt="image-20241209195103057" style="zoom:33%;" />
 
