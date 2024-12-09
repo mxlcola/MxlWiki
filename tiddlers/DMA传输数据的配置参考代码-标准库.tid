@@ -1,19 +1,25 @@
 annotate-colour: dodgerblue
 created: 20241202134617564
 creator: mxlcola
-difficulty: 4.93
-due: 20241207003644922
-elapsed_days: 0.9990972916666667
+difficulty: 4.078599999999999
+due: 20250109004955400
+elapsed_days: 5.009149074074074
 lapses: 0
-last_review: 20241204003644922
-modified: 20241204062205617
+last_review: 20241209004955400
+modified: 20241209003838499
 modifier: mxlcola
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 31
+stability: 31.290965496316133
 state: 2
 tags: DMA ?
 title: DMA传输数据的配置参考代码-标准库
+
+[[什么是DMA通道？怎么选择通道？]]
+
+[[STM32 F4系列的数据流和通道]]
+
+[[DMA传输数据量和单位]]
 
 ```c
 DMA_InitTypeDef DMA_InitStructure;
