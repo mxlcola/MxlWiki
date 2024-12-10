@@ -1,9 +1,11 @@
 created: 20241210142347005
 creator: mxlcola
-modified: 20241210142638755
+modified: 20241210143150060
 modifier: mxlcola
 tags: 地址映射 ?
 title: 地址映射表
+
+''memory map''
 
 !! 地址映射表包括哪些东西？
 #ROM
@@ -14,3 +16,5 @@ CPU可以读写地址空间内的存储器内容，也就是寄存器的内容
 因为[[寄存器的本质-RAM存储器]]
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210221848879.png" alt="image-20241210221848879" style="zoom:25%;" />
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210223127640.png" alt="image-20241210223127640" style="zoom:33%;" />
