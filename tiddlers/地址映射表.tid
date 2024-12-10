@@ -1,0 +1,16 @@
+created: 20241210142347005
+creator: mxlcola
+modified: 20241210142638755
+modifier: mxlcola
+tags: 地址映射 ?
+title: 地址映射表
+
+!! 地址映射表包括哪些东西？
+#ROM
+#RAM
+#外设寄存器的映射
+
+CPU可以读写地址空间内的存储器内容，也就是寄存器的内容
+因为[[寄存器的本质-RAM存储器]]
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210221848879.png" alt="image-20241210221848879" style="zoom:25%;" />

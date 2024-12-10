@@ -1,0 +1,13 @@
+created: 20241210141737725
+creator: mxlcola
+modified: 20241210142417188
+modifier: mxlcola
+tags: 寄存器 ?
+title: 硬件外设的工作是由谁来控制?
+
+外设内部的寄存器（硬件控制器）
+
+[[地址映射]]
+
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210221848879.png" alt="image-20241210221848879" style="zoom:25%;" />
