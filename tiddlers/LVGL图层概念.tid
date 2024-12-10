@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204024335865
-difficulty: 3.9899999999999998
-due: 20241210060711177
-elapsed_days: 0
+difficulty: 3.148
+due: 20250121003730504
+elapsed_days: 5.771057037037037
 lapses: 0
-last_review: 20241204060711177
+last_review: 20241210003730504
 modified: 20241204024552169
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 42
+stability: 41.9123664228377
 state: 2
 tags: LVGL图层 ?
 title: LVGL图层概念

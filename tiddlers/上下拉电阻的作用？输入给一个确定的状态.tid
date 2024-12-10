@@ -1,6 +1,16 @@
+annotate-colour: dodgerblue
 created: 20241209120717020
-modified: 20241209121312800
-tags: 开漏模式 上拉电阻 下拉电阻
+difficulty: 3.9899999999999998
+due: 20241216004020072
+elapsed_days: 0
+lapses: 0
+last_review: 20241210004020072
+modified: 20241210003926874
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 开漏模式 上拉电阻 下拉电阻 ?
 title: 上下拉电阻的作用？输入给一个确定的状态
 
 输入没有信号时，''给输入一个确定的状态，而不是高阻不确定状态''

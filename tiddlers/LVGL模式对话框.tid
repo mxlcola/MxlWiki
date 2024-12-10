@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204024612666
-difficulty: 3.9899999999999998
-due: 20241210062002394
-elapsed_days: 0
+difficulty: 3.148
+due: 20250121003748897
+elapsed_days: 5.762343831018518
 lapses: 0
-last_review: 20241204062002394
+last_review: 20241210003748897
 modified: 20241204024710974
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 42
+stability: 41.86093397736022
 state: 2
 tags: LVGL图层 ?
 title: LVGL模式对话框
