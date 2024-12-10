@@ -1,6 +1,16 @@
 created: 20241210134452933
 creator: mxlcola
-modified: 20241210134508424
+modified: 20241210135048150
 modifier: mxlcola
-tags: 寄存器
+tags: 寄存器 ?
 title: 寄存器有哪几类？
+
+!! 寄存器分类
+
+#普通寄存器
+#* 进行运算存储
+# 特殊功能寄存器
+#* 控制硬件电路开关
+
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210214821475.png" alt="image-20241210214821475" style="zoom: 33%;" />

@@ -1,0 +1,10 @@
+created: 20241210135504762
+creator: mxlcola
+modified: 20241210135630461
+modifier: mxlcola
+tags: 寄存器 ?
+title: STM32里面的寄存器
+
+''stm32 里面的32表示的是寄存器32位一组''
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210215529611.png" alt="image-20241210215529611" style="zoom:33%;" />

@@ -1,6 +1,14 @@
 created: 20241210134513233
 creator: mxlcola
-modified: 20241210134541467
+modified: 20241210135454093
 modifier: mxlcola
-tags: 寄存器
+tags: 寄存器 ?
 title: 是如何通过控制寄存器操作硬件的？
+
+!! 寄存器控制电灯为例
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210215240163.png" alt="image-20241210215240163" style="zoom:33%;" />
+
+!! 寄存器地址赋值
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210215401143.png" alt="image-20241210215401143" style="zoom:33%;" />
