@@ -1,6 +1,10 @@
 created: 20241206083258089
-modified: 20241206083336979
+creator: mxlcola
+modified: 20241210132528391
+modifier: mxlcola
 tags: GPIO
 title: GPIO基础认识
 
 [[什么GPIO?]]
+
+[[STM32中的GPIO]]

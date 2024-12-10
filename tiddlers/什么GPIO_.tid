@@ -1,16 +1,18 @@
 annotate-colour: dodgerblue
 created: 20241206083342040
+creator: mxlcola
 difficulty: 3.9899999999999998
 due: 20241212085010302
 elapsed_days: 0
 lapses: 0
 last_review: 20241206085010302
-modified: 20241206085009706
+modified: 20241210132208355
+modifier: mxlcola
 reps: 1
 scheduled_days: 6
 stability: 5.8
 state: 2
-tags: ?
+tags: ? GPIO
 title: 什么GPIO?
 
 !! GPIO定义
@@ -20,3 +22,5 @@ GPIO 是''通用输入/输出端口''的简称
 !! GPIO功能
 
 GPIO 的引脚与外部硬件设备连接，可实现与''外部通讯''、''控制外部硬件''或者''采集外部硬件数据''的功能。
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210212149060.png" alt="image-20241210212149060" style="zoom:50%;" />
