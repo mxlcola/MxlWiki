@@ -1,6 +1,6 @@
 created: 20241211131137298
 creator: mxlcola
-modified: 20241211131421277
+modified: 20241211132858670
 modifier: mxlcola
 tags: GPIO寄存器 ?
 title: 配置寄存器：GPIOx_CRL、GPIOx_CRH
@@ -10,5 +10,5 @@ title: 配置寄存器：GPIOx_CRL、GPIOx_CRH
 
 配置寄存器高字CRH对应配置  高8位引脚Px8、Px9、……Px15
 
-<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405174701781-1643412185.png" alt="img" style="zoom:33%;" />
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405174701781-1643412185.png" alt="img" style="zoom:50%;" />
 

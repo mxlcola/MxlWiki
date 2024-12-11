@@ -1,0 +1,29 @@
+created: 20241211132358590
+creator: mxlcola
+modified: 20241211132601351
+modifier: mxlcola
+tags: GPIO基础认识 ?
+title: GPIO输出模式-寄存器名称
+
+
+typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都未使用低两位
+
+```c
+
+typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都未使用低两位
+{
+ 	GPIO_Mode_AIN = 0x0, 				// 模拟输入 (0000 0000)b
+ 	GPIO_Mode_IN_FLOATING = 0x04, 		 // 浮空输入 (0000 0100)b
+ 	GPIO_Mode_IPD = 0x28, 				// 下拉输入 (0010 1000)b
+ 	GPIO_Mode_IPU = 0x48, 				// 上拉输入 (0100 1000)b
+ 
+ 	GPIO_Mode_Out_OD = 0x14, 			// 开漏输出 (0001 0100)b
+ 	GPIO_Mode_Out_PP = 0x10, 			// 推挽输出 (0001 0000)b
+ 	GPIO_Mode_AF_OD = 0x1C, 			// 复用开漏输出 (0001 1100)b
+ 	GPIO_Mode_AF_PP = 0x18 				// 复用推挽输出 (0001 1000)b
+} GPIOMode_TypeDef;
+
+
+
+```
+
