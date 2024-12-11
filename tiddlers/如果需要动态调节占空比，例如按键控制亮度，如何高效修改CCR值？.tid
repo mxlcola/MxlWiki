@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204112555234
-difficulty: 3.9899999999999998
-due: 20241211003753294
-elapsed_days: 0
+difficulty: 3.148
+due: 20250126130053204
+elapsed_days: 6.5159711574074075
 lapses: 0
-last_review: 20241205003753294
+last_review: 20241211130053204
 modified: 20241204112710700
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 46
+stability: 46.276686611006134
 state: 2
 tags: PW ?
 title: 如果需要动态调节占空比，例如按键控制亮度，如何高效修改CCR值？

@@ -1,0 +1,8 @@
+created: 20241211131533356
+creator: mxlcola
+modified: 20241211131547228
+modifier: mxlcola
+tags: GPIO寄存器 ?
+title: 位控寄存器：GPIOx_BSRR、GPIOx_BRR
+
+用来控制某引脚为1或0

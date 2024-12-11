@@ -1,8 +1,20 @@
+annotate-colour: green
 created: 20241210132529652
 creator: mxlcola
-modified: 20241210132622938
+difficulty: 4.93
+due: 20241211131705327
+elapsed_days: 0
+lapses: 0
+last_review: 20241211130705327
+modified: 20241211131113226
 modifier: mxlcola
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
 tags: GPIO基础认识 ?
 title: GPIO寄存器
+
+!! 实现对GPIO端口初始化配置和数据输入输出控制
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210212612224.png" alt="image-20241210212612224" style="zoom:33%;" />

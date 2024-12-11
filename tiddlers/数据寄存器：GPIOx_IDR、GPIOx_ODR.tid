@@ -1,0 +1,12 @@
+created: 20241211131435433
+creator: mxlcola
+modified: 20241211131811346
+modifier: mxlcola
+tags: GPIO寄存器 ?
+title: 数据寄存器：GPIOx_IDR、GPIOx_ODR
+
+数据寄存器：''GPIOx_IDR、GPIOx_ODR''
+
+用来保存引脚输入电平或输出电平
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405174852335-1710152054.png" alt="img" style="zoom: 33%;" />

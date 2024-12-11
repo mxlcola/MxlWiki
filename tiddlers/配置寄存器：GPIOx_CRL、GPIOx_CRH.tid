@@ -1,0 +1,14 @@
+created: 20241211131137298
+creator: mxlcola
+modified: 20241211131421277
+modifier: mxlcola
+tags: GPIO寄存器 ?
+title: 配置寄存器：GPIOx_CRL、GPIOx_CRH
+
+配置寄存器低字CRL对应配置  低8位引脚Px0、Px1、……Px7
+
+
+配置寄存器高字CRH对应配置  高8位引脚Px8、Px9、……Px15
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405174701781-1643412185.png" alt="img" style="zoom:33%;" />
+
