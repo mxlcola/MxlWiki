@@ -1,17 +1,19 @@
 annotate-colour: dodgerblue
 created: 20241209114647734
+creator: mxlcola
 difficulty: 3.9899999999999998
 due: 20241216004211469
 elapsed_days: 0
 lapses: 0
 last_review: 20241210004211469
-modified: 20241210004149484
+modified: 20241210133628475
+modifier: mxlcola
 reps: 1
 scheduled_days: 6
 stability: 5.8
 state: 2
 tags: GPIO ?
-title: 开漏模式
+title: 开漏输出模式
 
 [[高阻态]]
 

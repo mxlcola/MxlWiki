@@ -1,0 +1,18 @@
+annotate-colour: dodgerblue
+created: 20241210132339940
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241217130720678
+elapsed_days: 0
+lapses: 0
+last_review: 20241211130720678
+modified: 20241210132419285
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: ? GPIO
+title: STM32中的GPIO
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210212406940.png" alt="image-20241210212406940" style="zoom:33%;" />

@@ -1,16 +1,17 @@
 annotate-colour: dodgerblue
 created: 20241209114803185
 difficulty: 4.93
-due: 20241214003836543
-elapsed_days: 0.9954664236111112
+due: 20241213131814779
+elapsed_days: 0.5229923032407408
 lapses: 0
-last_review: 20241211003836543
-modified: 20241209122140059
+last_review: 20241210131814779
+modified: 20241210133628478
+modifier: mxlcola
 reps: 2
 scheduled_days: 3
 stability: 2.4
 state: 2
-tags: 开漏模式 ?
+tags: 开漏输出模式 ?
 title: 开漏模式起什么作用？
 
 !! 可以实现5V单片机对3.3 V电路的控制

@@ -1,19 +1,21 @@
 annotate-colour: dodgerblue
 created: 20241204110228762
-difficulty: 3.9899999999999998
-due: 20241211004046526
-elapsed_days: 0
+creator: mxlcola
+difficulty: 3.148
+due: 20250126130539225
+elapsed_days: 6.5172765625
 lapses: 0
-last_review: 20241205004046526
-modified: 20241204110259152
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20241211130539225
+modified: 20241211130538764
+modifier: mxlcola
+reps: 2
+scheduled_days: 46
+stability: 46.28427823631229
 state: 2
 tags: PWM ?
 title: 自动重装载值（ARR）
 
 ARR（自动重装载值）：
 
-* 决定了定时器计数器的周期。
-* 定时器每次计数从0递增到ARR后溢出并重新计数，这个周期决定了PWM信号的总周期时间。
+* 决定了定时器计数器的''周期''。
+* 定时器每次计数从0递增到ARR后溢出并重新计数，这个周期决定了''PWM信号的总周期时间''。

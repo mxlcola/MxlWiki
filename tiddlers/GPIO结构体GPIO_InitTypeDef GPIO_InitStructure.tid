@@ -1,0 +1,61 @@
+created: 20241211132631090
+creator: mxlcola
+modified: 20241211133347998
+modifier: mxlcola
+tags: GPIO基础认识 ?
+title: GPIO结构体GPIO_InitTypeDef GPIO_InitStructure
+
+[[GPIO结构体和寄存器的对应关系]]
+
+```c
+//这是外设库STM32f10x_gpio.h中GPIO结构体相关的定义
+typedef struct //GPIO结构体定义
+{
+  uint16_t GPIO_Pin;             /*!< Specifies the GPIO pins to be configured.
+                                      This parameter can be any value of @ref GPIO_pins_define */
+ 
+  GPIOSpeed_TypeDef GPIO_Speed;  /*!< Specifies the speed for the selected pins.
+                                      This parameter can be a value of @ref GPIOSpeed_TypeDef */
+ 
+  GPIOMode_TypeDef GPIO_Mode;    /*!< Specifies the operating mode for the selected pins.
+                                      This parameter can be a value of @ref GPIOMode_TypeDef */
+}GPIO_InitTypeDef;
+ 
+typedef enum //输出速度枚举定义，注意一个细节，只使用了bit0和bit1低两位
+{
+	GPIO_Speed_10MHz = 1, 				 // 10MHZ (01)b
+	GPIO_Speed_2MHz, 						// 2MHZ (10)b
+	GPIO_Speed_50MHz 						// 50MHZ (11)b
+} GPIOSpeed_TypeDef;
+ 
+typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都未使用低两位
+{
+ 	GPIO_Mode_AIN = 0x0, 				// 模拟输入 (0000 0000)b
+ 	GPIO_Mode_IN_FLOATING = 0x04, 		 // 浮空输入 (0000 0100)b
+ 	GPIO_Mode_IPD = 0x28, 				// 下拉输入 (0010 1000)b
+ 	GPIO_Mode_IPU = 0x48, 				// 上拉输入 (0100 1000)b
+ 
+ 	GPIO_Mode_Out_OD = 0x14, 			// 开漏输出 (0001 0100)b
+ 	GPIO_Mode_Out_PP = 0x10, 			// 推挽输出 (0001 0000)b
+ 	GPIO_Mode_AF_OD = 0x1C, 			// 复用开漏输出 (0001 1100)b
+ 	GPIO_Mode_AF_PP = 0x18 				// 复用推挽输出 (0001 1000)b
+} GPIOMode_TypeDef;
+ 
+#define GPIO_Pin_0                 ((uint16_t)0x0001)  /*!< Pin 0 selected */
+#define GPIO_Pin_1                 ((uint16_t)0x0002)  /*!< Pin 1 selected */
+#define GPIO_Pin_2                 ((uint16_t)0x0004)  /*!< Pin 2 selected */
+#define GPIO_Pin_3                 ((uint16_t)0x0008)  /*!< Pin 3 selected */
+#define GPIO_Pin_4                 ((uint16_t)0x0010)  /*!< Pin 4 selected */
+#define GPIO_Pin_5                 ((uint16_t)0x0020)  /*!< Pin 5 selected */
+#define GPIO_Pin_6                 ((uint16_t)0x0040)  /*!< Pin 6 selected */
+#define GPIO_Pin_7                 ((uint16_t)0x0080)  /*!< Pin 7 selected */
+#define GPIO_Pin_8                 ((uint16_t)0x0100)  /*!< Pin 8 selected */
+#define GPIO_Pin_9                 ((uint16_t)0x0200)  /*!< Pin 9 selected */
+#define GPIO_Pin_10                ((uint16_t)0x0400)  /*!< Pin 10 selected */
+#define GPIO_Pin_11                ((uint16_t)0x0800)  /*!< Pin 11 selected */
+#define GPIO_Pin_12                ((uint16_t)0x1000)  /*!< Pin 12 selected */
+#define GPIO_Pin_13                ((uint16_t)0x2000)  /*!< Pin 13 selected */
+#define GPIO_Pin_14                ((uint16_t)0x4000)  /*!< Pin 14 selected */
+#define GPIO_Pin_15                ((uint16_t)0x8000)  /*!< Pin 15 selected */
+#define GPIO_Pin_All               ((uint16_t)0xFFFF)  /*!< All pins selected */
+```

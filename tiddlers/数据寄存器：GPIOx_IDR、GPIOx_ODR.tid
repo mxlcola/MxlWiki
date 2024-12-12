@@ -1,0 +1,19 @@
+created: 20241211131435433
+creator: mxlcola
+modified: 20241211132054316
+modifier: mxlcola
+tags: GPIO寄存器 ?
+title: 数据寄存器：GPIOx_IDR、GPIOx_ODR
+
+数据寄存器：''GPIOx_IDR、GPIOx_ODR''
+
+用来保存引脚输入电平或输出电平
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405174852335-1710152054.png" alt="img" style="zoom: 50%;" />
+
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405175219993-1508623369.png" alt="img" style="zoom:50%;" />
+
+!! 数据寄存器都只使用低16位，对应16个GPIO引脚
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/2424918-20230405175232859-825427567.png" alt="img" style="zoom:50%;" />

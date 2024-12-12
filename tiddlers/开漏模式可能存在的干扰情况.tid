@@ -1,20 +1,19 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241209115954454
 difficulty: 4.93
-due: 20241213003832568
-elapsed_days: 0.9973904861111111
+due: 20241213131810192
+elapsed_days: 0.5249092824074074
 lapses: 0
-last_review: 20241211003832568
-modified: 20241211003825977
+last_review: 20241210131810192
+modified: 20241210133628478
+modifier: mxlcola
 reps: 2
-scheduled_days: 2
+scheduled_days: 3
 stability: 2.4
 state: 2
-tags: 开漏模式 ?
+tags: 开漏输出模式 ?
 title: 开漏模式可能存在的干扰情况
 
 !! GPIO容易受到外界环境影响
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209200023546.png" alt="image-20241209200023546" style="zoom: 33%;" />
-
-[[浮空输入]]

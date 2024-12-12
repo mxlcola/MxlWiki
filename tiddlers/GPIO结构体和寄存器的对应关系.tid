@@ -1,0 +1,11 @@
+created: 20241211133119078
+creator: mxlcola
+modified: 20241211133342262
+modifier: mxlcola
+tags: GPIO基础认识 ?
+title: GPIO结构体和寄存器的对应关系
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/55543576845dca864cbed061aa5b494e.png" alt="img" style="zoom: 60%;" />
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/b15388eaf2a1cb977fa96413fbc2793e.png" alt="img" style="zoom:80%;" />
+

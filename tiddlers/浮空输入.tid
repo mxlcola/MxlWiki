@@ -1,4 +1,26 @@
+annotate-colour: dodgerblue
 created: 20241205004704152
-modified: 20241205004706860
-tags: GPIO
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241217130214263
+elapsed_days: 0
+lapses: 0
+last_review: 20241211130214263
+modified: 20241211130206305
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: GPIO GPIO八种模式 ?
 title: 浮空输入
+
+''最常用的一种模式''
+
+''优点''：输入阻抗高，''MCU采集的状态是单纯的外部信号''
+
+''缺点''：没有信号时，读取的端口状态不确定
+
+!! 当输入信号不稳定的时候怎么办？
+
+一般选择[[上拉输入模式]]，[[下拉输入模式]]不常用

@@ -1,16 +1,18 @@
 annotate-colour: dodgerblue
 created: 20241204110828453
-difficulty: 3.9899999999999998
-due: 20241211003746618
-elapsed_days: 0
+creator: mxlcola
+difficulty: 3.148
+due: 20250126130027788
+elapsed_days: 6.515754305555555
 lapses: 0
-last_review: 20241205003746618
-modified: 20241209122235302
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20241211130027788
+modified: 20241210132850542
+modifier: mxlcola
+reps: 2
+scheduled_days: 46
+stability: 46.27542548305251
 state: 2
-tags: ? GPIO
+tags: ? GPIO GPIO八种模式
 title: 复用推挽输出模式
 
 （GPIO_MODE_AF_PP）。

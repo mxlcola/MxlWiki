@@ -1,0 +1,30 @@
+annotate-colour: dodgerblue
+created: 20241210142347005
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241217130618018
+elapsed_days: 0
+lapses: 0
+last_review: 20241211130618018
+modified: 20241210143150060
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 地址映射 ?
+title: 地址映射表
+
+''memory map''
+
+!! 地址映射表包括哪些东西？
+#ROM
+#RAM
+#外设寄存器的映射
+
+CPU可以读写地址空间内的存储器内容，也就是寄存器的内容
+因为[[寄存器的本质-RAM存储器]]
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210221848879.png" alt="image-20241210221848879" style="zoom:25%;" />
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210223127640.png" alt="image-20241210223127640" style="zoom:33%;" />

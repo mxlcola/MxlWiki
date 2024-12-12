@@ -1,0 +1,24 @@
+annotate-colour: dodgerblue
+created: 20241210133910766
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241217130422892
+elapsed_days: 0
+lapses: 0
+last_review: 20241211130422892
+modified: 20241210143226706
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 寄存器 ?
+title: 寄存器的本质-RAM存储器
+
+!! 类比生活中的电路开关
+
+通过控制开关，从而控制设备
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210214627303.png" alt="image-20241210214627303" style="zoom:33%;" />
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210214821475.png" alt="image-20241210214821475" style="zoom: 33%;" />

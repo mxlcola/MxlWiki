@@ -1,0 +1,23 @@
+annotate-colour: dodgerblue
+created: 20241210142136232
+creator: mxlcola
+difficulty: 3.9899999999999998
+due: 20241217130612045
+elapsed_days: 0
+lapses: 0
+last_review: 20241211130612045
+modified: 20241210142338468
+modifier: mxlcola
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 寄存器 ?
+title: 单片机控制硬件的原理-读写寄存器控制
+
+CPU本身是不能直接控制硬件的，硬件一般是由其对应的控制器来控制，处理器中将各个硬件控制器的''寄存器映射到了CPU地址空间中的一段范围''，这样CPU就可以''通过读写寄存器''来间接控制硬件
+
+[[硬件外设的工作是由谁来控制?]]
+
+[[地址映射]]
+
