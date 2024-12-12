@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241209123010589
-difficulty: 5.869999999999999
-due: 20241212131746769
-elapsed_days: 0.522058761574074
+difficulty: 5.009199999999998
+due: 20241221003737197
+elapsed_days: 1.472111423611111
 lapses: 0
-last_review: 20241210131746769
+last_review: 20241212003737197
 modified: 20241209123143686
-reps: 2
-scheduled_days: 2
-stability: 0.6
+reps: 3
+scheduled_days: 9
+stability: 9.140903738037526
 state: 2
 tags: GPIO ?
 title: GPIO内部原理图

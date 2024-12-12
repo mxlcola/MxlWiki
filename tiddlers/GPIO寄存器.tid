@@ -1,17 +1,17 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241210132529652
 creator: mxlcola
 difficulty: 4.93
-due: 20241211131705327
-elapsed_days: 0
+due: 20241215003410064
+elapsed_days: 0.477138125
 lapses: 0
-last_review: 20241211130705327
+last_review: 20241212003410064
 modified: 20241211131113226
 modifier: mxlcola
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: GPIO基础认识 ?
 title: GPIO寄存器
 
