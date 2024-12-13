@@ -1,18 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241209122250088
-difficulty: 4.93
-due: 20241213131740816
-elapsed_days: 0.5269715972222222
+difficulty: 4.078599999999999
+due: 20241231004326305
+elapsed_days: 2.4762209375
 lapses: 0
-last_review: 20241210131740816
-modified: 20241210003844038
-reps: 2
-scheduled_days: 3
-stability: 2.4
+last_review: 20241213004326305
+modified: 20241213004309244
+reps: 3
+scheduled_days: 18
+stability: 17.549598124139845
 state: 2
 tags: GPIO ?
 title: 复用推挽输出和普通推挽输出有什么区别？
 
 GPIO是否和[[外设]]连接
+
+[[GPIO寄存器]]
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209202436127.png" alt="image-20241209202436127" style="zoom:33%;" />

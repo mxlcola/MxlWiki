@@ -1,0 +1,14 @@
+{
+    "003755958": "{\"rating\":4,\"elapsed_days\":1.0027880902777777,\"scheduled_days\":3,\"review\":\"20241213003749551\",\"state\":1}",
+    "003804268": "{\"rating\":4,\"elapsed_days\":0.9991552314814814,\"scheduled_days\":3,\"review\":\"20241213003759272\",\"state\":1}",
+    "003829784": "{\"rating\":4,\"elapsed_days\":0.9993816319444444,\"scheduled_days\":3,\"review\":\"20241213003827353\",\"state\":1}",
+    "003835699": "{\"rating\":3,\"elapsed_days\":0.9991635416666667,\"scheduled_days\":2,\"review\":\"20241213003832598\",\"state\":1}",
+    "003840901": "{\"rating\":4,\"elapsed_days\":19.090677395833332,\"scheduled_days\":120,\"review\":\"20241213003838099\",\"state\":2}",
+    "003846451": "{\"rating\":4,\"elapsed_days\":19.088228252314813,\"scheduled_days\":120,\"review\":\"20241213003844851\",\"state\":2}",
+    "004332929": "{\"rating\":4,\"elapsed_days\":2.4762209375,\"scheduled_days\":18,\"review\":\"20241213004326305\",\"state\":2}",
+    "004454718": "{\"rating\":4,\"elapsed_days\":2.476726388888889,\"scheduled_days\":18,\"review\":\"20241213004443940\",\"state\":2}",
+    "004512420": "{\"rating\":4,\"elapsed_days\":2.477078402777778,\"scheduled_days\":18,\"review\":\"20241213004509764\",\"state\":2}",
+    "004521695": "{\"rating\":4,\"elapsed_days\":2.4770169675925926,\"scheduled_days\":18,\"review\":\"20241213004514896\",\"state\":2}",
+    "004535403": "{\"rating\":4,\"elapsed_days\":2.4770508680555556,\"scheduled_days\":18,\"review\":\"20241213004524335\",\"state\":2}",
+    "004602833": "{\"rating\":4,\"elapsed_days\":2.4771185185185187,\"scheduled_days\":18,\"review\":\"20241213004538110\",\"state\":2}"
+}

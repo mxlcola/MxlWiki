@@ -1,15 +1,15 @@
 annotate-colour: dodgerblue
 created: 20241209114803185
-difficulty: 4.93
-due: 20241213131814779
-elapsed_days: 0.5229923032407408
+difficulty: 4.078599999999999
+due: 20241231004443940
+elapsed_days: 2.476726388888889
 lapses: 0
-last_review: 20241210131814779
-modified: 20241210133628478
+last_review: 20241213004443940
+modified: 20241213004443451
 modifier: mxlcola
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 18
+stability: 17.552508677560407
 state: 2
 tags: 开漏输出模式 ?
 title: 开漏模式起什么作用？
@@ -19,6 +19,7 @@ title: 开漏模式起什么作用？
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209194851370.png" alt="image-20241209194851370" style="zoom:33%;" />
 
 !! 多个GPIO控制一个电路，开漏输出的线与特性
+
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209195103057.png" alt="image-20241209195103057" style="zoom:33%;" />
 
