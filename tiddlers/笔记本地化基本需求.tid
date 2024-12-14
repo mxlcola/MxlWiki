@@ -6,7 +6,7 @@ due: 20250402000614170
 elapsed_days: 20.494429166666666
 lapses: 0
 last_review: 20241126000614170
-modified: 20241102104114408
+modified: 20241214112104994
 modifier: mxlcola
 reps: 4
 scheduled_days: 127
@@ -17,7 +17,7 @@ title: 笔记本地化基本需求
 type: text/vnd.tiddlywiki
 
 
-''基本需求：''
+!! ''基本需求：''
 
 # 数据存在于本地
 # 单独一个笔记就是一个文件，而不是放在数据库
