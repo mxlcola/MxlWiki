@@ -1,18 +1,25 @@
 annotate-colour: dodgerblue
 created: 20241210133440004
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241217130212063
-elapsed_days: 0
+difficulty: 3.148
+due: 20250210071055260
+elapsed_days: 7.75605550925926
 lapses: 0
-last_review: 20241211130212063
-modified: 20241213003939167
+last_review: 20241219071055260
+modified: 20241219071054871
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 53
+stability: 53.40075735684522
 state: 2
 tags: GPIO八种模式 ?
 title: 上拉输入模式
+
+```c
+GPIO_Mode_IPU = 0x48, 				// 上拉输入 (0100 1000)b
+```
+
+
+[[GPIO结构体GPIO_InitTypeDef GPIO_InitStructure]]
 
 [[上拉电阻]]

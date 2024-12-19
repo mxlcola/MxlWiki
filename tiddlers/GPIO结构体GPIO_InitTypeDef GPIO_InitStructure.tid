@@ -2,15 +2,15 @@ annotate-colour: green
 created: 20241211132631090
 creator: mxlcola
 difficulty: 4.93
-due: 20241215003832598
-elapsed_days: 0.9991635416666667
+due: 20250104070757777
+elapsed_days: 6.270430289351852
 lapses: 0
-last_review: 20241213003832598
+last_review: 20241219070757777
 modified: 20241211133347998
 modifier: mxlcola
-reps: 2
-scheduled_days: 2
-stability: 2.4
+reps: 3
+scheduled_days: 16
+stability: 15.867385745129104
 state: 2
 tags: GPIO基础认识 ?
 title: GPIO结构体GPIO_InitTypeDef GPIO_InitStructure

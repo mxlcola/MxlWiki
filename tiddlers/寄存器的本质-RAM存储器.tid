@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241210133910766
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241217130422892
-elapsed_days: 0
+difficulty: 3.148
+due: 20250210071442684
+elapsed_days: 7.757173518518519
 lapses: 0
-last_review: 20241211130422892
+last_review: 20241219071442684
 modified: 20241210143226706
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 53
+stability: 53.407101729911844
 state: 2
 tags: 寄存器 ?
 title: 寄存器的本质-RAM存储器

@@ -5,11 +5,11 @@ due: 20250102081046122
 elapsed_days: 3.7181583564814815
 lapses: 0
 last_review: 20241209081046122
-modified: 20241204103809428
+modified: 20241219071638892
 reps: 3
 scheduled_days: 24
 stability: 24.492982566802112
 state: 2
-tags: PWM 工作积累
+tags: PWM ?
 title: 什么是PWM信号？PWM的占空比和频率分别表示什么含义？
 type: text/markdown

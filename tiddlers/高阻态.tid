@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: orange
 created: 20241209121320153
-difficulty: 3.9899999999999998
-due: 20241216004023976
-elapsed_days: 0
+difficulty: 4.8508
+due: 20241231071422321
+elapsed_days: 9.27359195601852
 lapses: 0
-last_review: 20241210004023976
+last_review: 20241219071422321
 modified: 20241213004039297
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 12
+stability: 12.031694931054963
 state: 2
 tags: GPIO ?
 title: 高阻态
