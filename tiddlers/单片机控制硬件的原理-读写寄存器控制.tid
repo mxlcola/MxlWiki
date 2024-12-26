@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241210142136232
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241217130612045
-elapsed_days: 0
+difficulty: 3.148
+due: 20250326035444118
+elapsed_days: 14.617037893518518
 lapses: 0
-last_review: 20241211130612045
+last_review: 20241226035444118
 modified: 20241210142338468
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 90
+stability: 89.84728544931825
 state: 2
 tags: 寄存器 ?
 title: 单片机控制硬件的原理-读写寄存器控制

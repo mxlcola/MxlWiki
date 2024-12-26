@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241210132339940
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241217130720678
-elapsed_days: 0
+difficulty: 3.148
+due: 20250326035536221
+elapsed_days: 14.616846539351851
 lapses: 0
-last_review: 20241211130720678
+last_review: 20241226035536221
 modified: 20241210132419285
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 90
+stability: 89.84633446191528
 state: 2
 tags: ? GPIO
 title: STM32中的GPIO
