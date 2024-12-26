@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241211131553348
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241218003906897
-elapsed_days: 0
+difficulty: 3.148
+due: 20250324085109063
+elapsed_days: 14.341691747685186
 lapses: 0
-last_review: 20241212003906897
+last_review: 20241226085109063
 modified: 20241211131618583
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 88
+stability: 88.4753024017073
 state: 2
 tags: GPIO寄存器 ?
 title: 锁定寄存器：GPIOx_LCKR

@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241126130509966
-difficulty: 3.9994
-due: 20241222120714509
-elapsed_days: 5.890010844907407
+difficulty: 3.157306
+due: 20250519085314588
+elapsed_days: 23.865278703703705
 lapses: 0
-last_review: 20241202120714509
+last_review: 20241226085314588
 modified: 20241126130721523
-reps: 2
-scheduled_days: 20
-stability: 19.90484204730879
+reps: 3
+scheduled_days: 144
+stability: 143.94865321220541
 state: 2
 tags: 互斥量 ?
 title: 互斥量结构体

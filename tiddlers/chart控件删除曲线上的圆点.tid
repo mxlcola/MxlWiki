@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241126074435180
-difficulty: 3.9994
-due: 20241222120659512
-elapsed_days: 5.889998518518518
+difficulty: 3.157306
+due: 20250519085301467
+elapsed_days: 23.86530042824074
 lapses: 0
-last_review: 20241202120659512
+last_review: 20241226085301467
 modified: 20241126084634939
-reps: 2
-scheduled_days: 20
-stability: 19.90481423806238
+reps: 3
+scheduled_days: 144
+stability: 143.9487431470611
 state: 2
 tags: 折线图 ?
 title: chart控件删除曲线上的圆点

@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241128054420502
-difficulty: 4.078599999999999
-due: 20241222115213353
-elapsed_days: 2.948942627314815
+difficulty: 3.2357139999999993
+due: 20250518085255537
+elapsed_days: 23.875488275462963
 lapses: 0
-last_review: 20241202115213353
+last_review: 20241226085255537
 modified: 20241128055124578
-reps: 3
-scheduled_days: 20
-stability: 20.241093220157627
+reps: 4
+scheduled_days: 143
+stability: 142.78131524203664
 state: 2
 tags: SDIO ? 工作积累
 title: SD卡结构

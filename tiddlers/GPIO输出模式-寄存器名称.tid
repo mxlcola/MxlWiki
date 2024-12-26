@@ -1,25 +1,23 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241211132358590
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241218004001969
-elapsed_days: 0
+difficulty: 3.9994
+due: 20250201085142316
+elapsed_days: 14.341439189814816
 lapses: 0
-last_review: 20241212004001969
-modified: 20241211132601351
+last_review: 20241226085142316
+modified: 20241226085141659
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 37
+stability: 37.47587765353479
 state: 2
 tags: GPIO基础认识 ?
 title: GPIO输出模式-寄存器名称
 
-
 typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都未使用低两位
 
 ```c
-
 typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都未使用低两位
 {
  	GPIO_Mode_AIN = 0x0, 				// 模拟输入 (0000 0000)b
@@ -32,8 +30,6 @@ typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都
  	GPIO_Mode_AF_OD = 0x1C, 			// 复用开漏输出 (0001 1100)b
  	GPIO_Mode_AF_PP = 0x18 				// 复用推挽输出 (0001 1000)b
 } GPIOMode_TypeDef;
-
-
 
 ```
 
