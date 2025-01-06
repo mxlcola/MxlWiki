@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241102140942645
 creator: mxlcola
-difficulty: 3.148
-due: 20241223121818164
-elapsed_days: 6.0284091203703705
+difficulty: 2.31442
+due: 20251210064442778
+elapsed_days: 56.768340439814814
 lapses: 0
-last_review: 20241110121818164
+last_review: 20250106064442778
 modified: 20241110121738963
 modifier: mxlcola
-reps: 2
-scheduled_days: 43
-stability: 43.42745529914856
+reps: 3
+scheduled_days: 338
+stability: 338.32433706485074
 state: 2
 tags: 知识结构 ?
 title: 自上而下和自下而上

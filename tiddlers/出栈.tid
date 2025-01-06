@@ -1,16 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241104150007137
 creator: mxlcola
-difficulty: 3.148
-due: 20241225141252824
-elapsed_days: 6.081928796296296
+difficulty: 3.16582
+due: 20250610064618995
+elapsed_days: 55.68988623842593
 lapses: 0
-last_review: 20241111141252824
+last_review: 20250106064618995
 modified: 20241105121447539
 modifier: mxlcola
-reps: 2
-scheduled_days: 44
-stability: 43.741564982159396
+reps: 3
+scheduled_days: 155
+stability: 154.683606690431
 state: 2
 tags: ? 栈
 title: 出栈
