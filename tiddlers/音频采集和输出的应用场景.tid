@@ -1,0 +1,12 @@
+created: 20250109113132122
+modified: 20250109113259039
+tags: I2S ? ADC DAC
+title: 音频采集和输出的应用场景
+
+* I2S RX方向：麦克风在机械振动下将声音信号转变为电压信号，电压信号经过放大等处理，给到ADC采样，将模拟信号转化为数字信号；音频在ADC与DSP之间的传输协议就是使用的I2S协议。
+
+
+* I2S TX方向：数字信号经过编码、存储、压缩等技术后，发送给解码器-DAC（DSP、专用解码器），将数字信号还原为模拟信号，最后给到喇叭完成声音/音频的播放。音频在DAC与DSP之间的传输就是使用I2S协议。
+
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/v2-d5d820543ba725cf355548fe5a405852_r.jpg" alt="img" style="zoom:80%;" />

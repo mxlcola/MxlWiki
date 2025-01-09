@@ -1,0 +1,13 @@
+created: 20250109113320022
+modified: 20250109113541478
+tags: I2S ?
+title: I2S基本信号
+
+! I2S基本信号线
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/v2-60e03fd331856f006d86ec7830583381_r.jpg" alt="img" style="zoom:80%;" />
+
+
+# ''[[时钟线]]（Continues Serial Clock，SCK）''：SCK线提供了同步音频数据传输的时钟信号。确定了数据传输的速度和时序。该时钟也称为Bit Clock（BCLK）。SCK的频率=2x采样频率x位宽
+# ''左/右声道线（Left-Right Clock，LRCK）''：LRCK线指示了当前传输的是左声道的音频数据还是右声道的音频数据。它被称为帧同步信号。LRCK的频率=采样频率
+# ''[[数据线]]（Serial Data，SD ）''：SD线用于传输实际的音频数据。数据的位宽可以根据具体应用而变化，通常为16位或32位。TX方向为：Serial Data Out（SDOUT）；RX方向为：Serial Data In（SDIN）
