@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241128123010422
-difficulty: 4.078599999999999
-due: 20241222115221871
-elapsed_days: 2.9485604050925924
+difficulty: 3.2357139999999993
+due: 20250825032423068
+elapsed_days: 41.647236087962966
 lapses: 0
-last_review: 20241202115221871
+last_review: 20250113032423068
 modified: 20241128151055480
-reps: 3
-scheduled_days: 20
-stability: 20.23894150376763
+reps: 4
+scheduled_days: 224
+stability: 223.7798779784979
 state: 2
 tags: 技术债务 工作积累 CRY2833
 title: 技术债务是如何引入的？

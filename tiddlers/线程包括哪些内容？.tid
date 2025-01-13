@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241105132151114
 creator: mxlcola
-difficulty: 3.148
-due: 20241229150149882
-elapsed_days: 6.586431157407407
+difficulty: 2.31442
+due: 20260111032233524
+elapsed_days: 61.514394027777776
 lapses: 0
-last_review: 20241112150149882
+last_review: 20250113032233524
 modified: 20241106005721615
 modifier: mxlcola
-reps: 2
-scheduled_days: 47
-stability: 46.68616821370937
+reps: 3
+scheduled_days: 363
+stability: 362.8311281549987
 state: 2
 tags: 线程的概念与保存 ?
 title: 线程包括哪些内容？

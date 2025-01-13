@@ -1,15 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: orange
 created: 20241209114803185
-difficulty: 4.078599999999999
-due: 20241231004443940
-elapsed_days: 2.476726388888889
+difficulty: 4.938513999999999
+due: 20250217032251606
+elapsed_days: 31.109810949074074
 lapses: 0
-last_review: 20241213004443940
+last_review: 20250113032251606
 modified: 20241213004443451
 modifier: mxlcola
-reps: 3
-scheduled_days: 18
-stability: 17.552508677560407
+reps: 4
+scheduled_days: 35
+stability: 35.05956058919488
 state: 2
 tags: 开漏输出模式 ?
 title: 开漏模式起什么作用？

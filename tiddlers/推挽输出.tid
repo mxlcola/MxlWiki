@@ -1,16 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: orange
 created: 20241209123329028
 creator: mxlcola
-difficulty: 4.078599999999999
-due: 20241231004538110
-elapsed_days: 2.4771185185185187
+difficulty: 4.938513999999999
+due: 20250217032317879
+elapsed_days: 31.10948806712963
 lapses: 0
-last_review: 20241213004538110
+last_review: 20250113032317879
 modified: 20241210132837191
 modifier: mxlcola
-reps: 3
-scheduled_days: 18
-stability: 17.55476663876591
+reps: 4
+scheduled_days: 35
+stability: 35.06156068973616
 state: 2
 tags: ? GPIO GPIO八种模式
 title: 推挽输出
