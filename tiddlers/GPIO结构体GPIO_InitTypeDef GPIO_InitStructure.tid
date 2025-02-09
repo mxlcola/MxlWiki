@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241211132631090
 creator: mxlcola
-difficulty: 4.93
-due: 20241215003832598
-elapsed_days: 0.9991635416666667
+difficulty: 4.078599999999999
+due: 20250708011607225
+elapsed_days: 58.02609519675926
 lapses: 0
-last_review: 20241213003832598
+last_review: 20250209011607225
 modified: 20241211133347998
 modifier: mxlcola
-reps: 2
-scheduled_days: 2
-stability: 2.4
+reps: 3
+scheduled_days: 149
+stability: 149.22879180645836
 state: 2
 tags: GPIO基础认识 ?
 title: GPIO结构体GPIO_InitTypeDef GPIO_InitStructure
