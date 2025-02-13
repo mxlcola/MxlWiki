@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241205004704152
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241217130214263
-elapsed_days: 0
+difficulty: 3.148
+due: 20250210071427471
+elapsed_days: 7.75848619212963
 lapses: 0
-last_review: 20241211130214263
+last_review: 20241219071427471
 modified: 20241211130206305
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 53
+stability: 53.41455058739349
 state: 2
 tags: GPIO GPIO八种模式 ?
 title: 浮空输入

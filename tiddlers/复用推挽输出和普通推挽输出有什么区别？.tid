@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241209122250088
 difficulty: 3.2357139999999993
-due: 20251124011600319
-elapsed_days: 58.02261591435185
+due: 20250707032245030
+elapsed_days: 31.11063340277778
 lapses: 0
-last_review: 20250209011600319
+last_review: 20250113032245030
 modified: 20241213004309244
 reps: 4
-scheduled_days: 288
-stability: 288.1503770407981
+scheduled_days: 175
+stability: 175.11791195852263
 state: 2
 tags: GPIO ?
 title: 复用推挽输出和普通推挽输出有什么区别？

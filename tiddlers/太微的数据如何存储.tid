@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241030134139021
 creator: 老乐
-difficulty: 3.148
-due: 20241224144030440
-elapsed_days: 6.119754351851852
+difficulty: 2.31442
+due: 20251210064607898
+elapsed_days: 56.67057243055555
 lapses: 0
-last_review: 20241110144030440
+last_review: 20250106064607898
 modified: 20241104114803084
 modifier: 老乐
-reps: 2
-scheduled_days: 44
-stability: 43.963363687050325
+reps: 3
+scheduled_days: 338
+stability: 338.1486112998432
 state: 2
 tags: 太微入门 ?
 title: 太微的数据如何存储

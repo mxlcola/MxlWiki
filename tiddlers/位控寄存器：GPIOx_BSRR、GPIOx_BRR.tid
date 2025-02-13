@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241211131533356
 creator: mxlcola
-difficulty: 4.93
-due: 20250409011801620
-elapsed_days: 58.027804976851854
+difficulty: 4.078599999999999
+due: 20250126070836223
+elapsed_days: 6.271261030092592
 lapses: 0
-last_review: 20250209011801620
+last_review: 20241219070836223
 modified: 20241211131547228
 modifier: mxlcola
 reps: 3
-scheduled_days: 59
-stability: 58.656863179710996
+scheduled_days: 38
+stability: 37.55388092657493
 state: 2
 tags: GPIO寄存器 ?
 title: 位控寄存器：GPIOx_BSRR、GPIOx_BRR

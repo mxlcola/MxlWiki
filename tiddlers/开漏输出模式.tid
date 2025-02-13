@@ -1,19 +1,24 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241209114647734
 creator: mxlcola
-difficulty: 3.9899999999999998
-due: 20241216004211469
-elapsed_days: 0
+difficulty: 3.9994
+due: 20250115071208031
+elapsed_days: 9.270793553240742
 lapses: 0
-last_review: 20241210004211469
-modified: 20241213004109771
+last_review: 20241219071208031
+modified: 20241219071207393
 modifier: mxlcola
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 27
+stability: 27.282697221046543
 state: 2
 tags: GPIO ?
 title: 开漏输出模式
+
+```c
+GPIO_Mode_Out_OD
+
+```
 
 [[高阻态]]
 

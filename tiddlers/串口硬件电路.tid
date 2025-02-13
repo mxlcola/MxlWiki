@@ -1,0 +1,14 @@
+created: 20241219122206316
+modified: 20241219122454716
+tags: 串口 ? RS232 RS485
+title: 串口硬件电路
+
+!! 硬件电路
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241219202158436.png" alt="image-20241219202158436" style="zoom:80%;" />
+
+!! 串口电平标准：
+
+* TTL电平:+33v/5V表示1.0v示0
+* RS232电平:3~+5V表示1.+3^+15V表示0
+* RS485平:两线压差+2~+6V表示1,-2V~-6v表示0(差分信号)所以单端和双端是用来表示电平标准

@@ -2,15 +2,15 @@ annotate-colour: dodgerblue
 created: 20241119135914164
 creator: mxlcola
 difficulty: 3.157306
-due: 20260205011532623
-elapsed_days: 76.02987369212963
+due: 20250425011336194
+elapsed_days: 21.02852613425926
 lapses: 0
-last_review: 20250209011532623
+last_review: 20241216011336194
 modified: 20241119140853156
 modifier: mxlcola
 reps: 3
-scheduled_days: 361
-stability: 360.8822655577934
+scheduled_days: 130
+stability: 129.50469470565722
 state: 2
 tags: 信号量 ?
 title: 信号量结构体

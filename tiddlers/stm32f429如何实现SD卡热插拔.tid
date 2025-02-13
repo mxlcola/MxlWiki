@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241128053629954
-difficulty: 3.9994
-due: 20241223061304862
-elapsed_days: 5.628170972222223
+difficulty: 3.157306
+due: 20250510085648016
+elapsed_days: 22.11369388888889
 lapses: 0
-last_review: 20241204061304862
+last_review: 20241226085648016
 modified: 20241128150822417
-reps: 2
-scheduled_days: 19
-stability: 19.312570548391253
+reps: 3
+scheduled_days: 135
+stability: 135.09273978491944
 state: 2
 tags: 热插拔问题 ?
 title: stm32f429如何实现SD卡热插拔

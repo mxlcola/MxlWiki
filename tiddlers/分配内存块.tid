@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109014340057
-difficulty: 4.078599999999999
-due: 20241230140911179
-elapsed_days: 6.600705127314815
+difficulty: 3.2357139999999993
+due: 20251102032238978
+elapsed_days: 54.55101618055556
 lapses: 0
-last_review: 20241119140911179
+last_review: 20250113032238978
 modified: 20241109014442320
-reps: 4
-scheduled_days: 41
-stability: 41.39576404656018
+reps: 5
+scheduled_days: 293
+stability: 292.71990100126226
 state: 2
 tags: 管理内存池的函数接口 ?
 title: 分配内存块

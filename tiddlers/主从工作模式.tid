@@ -1,0 +1,15 @@
+created: 20250109113556201
+modified: 20250109113805963
+tags: I2S ?
+title: 主从工作模式
+
+I2S工作模式可以是[[主模式]]（Master Mode）或[[从模式]]（Slave Mode）。两者唯一的区别是：Master Mode提供时钟信号（[[SCK]]）和帧同步信号（LRCK）。如下图所示，一共存在三种工作模式，分别是：
+
+1.发射器（transmitter）为Master，接收器（receiver）为Slave，此时由发射器提供SCK和LRCK
+
+2.接收器（receiver）为Master，发射器（transmitter）为Slave，此时由接收器提供SCK和LRCK
+
+3.发射器（transmitter）和接收器（receiver）均为Slave，由系统中其他模块提供SCK和LRCK
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/v2-cb51089200236c663d577d96608cc4bb_r.jpg" alt="img" style="zoom:80%;" />
+

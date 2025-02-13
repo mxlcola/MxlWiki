@@ -2,15 +2,15 @@ annotate-colour: dodgerblue
 created: 20241211133119078
 creator: mxlcola
 difficulty: 4.078599999999999
-due: 20250708011804864
-elapsed_days: 58.02751752314815
+due: 20250126070841510
+elapsed_days: 6.270997222222222
 lapses: 0
-last_review: 20250209011804864
+last_review: 20241219070841510
 modified: 20241211133342262
 modifier: mxlcola
 reps: 3
-scheduled_days: 149
-stability: 149.2301403600169
+scheduled_days: 38
+stability: 37.55260940133544
 state: 2
 tags: GPIO基础认识 ?
 title: GPIO结构体和寄存器的对应关系

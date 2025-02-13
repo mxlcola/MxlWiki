@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20241128073659624
-difficulty: 3.9994
-due: 20241224004721747
-elapsed_days: 5.485934756944444
+difficulty: 4.008706
+due: 20250417032454734
+elapsed_days: 39.109409560185185
 lapses: 0
-last_review: 20241205004721747
-modified: 20241205004653203
-reps: 2
-scheduled_days: 19
-stability: 18.989541370527736
+last_review: 20250113032454734
+modified: 20241219071954115
+reps: 3
+scheduled_days: 94
+stability: 93.71702063133978
 state: 2
 tags: SDIO 工作积累
 title: SDIO检测引脚
