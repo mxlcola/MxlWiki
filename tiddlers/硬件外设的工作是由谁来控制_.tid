@@ -2,15 +2,15 @@ annotate-colour: dodgerblue
 created: 20241210141737725
 creator: mxlcola
 difficulty: 3.148
-due: 20250210071454688
-elapsed_days: 7.755504490740741
+due: 20251026122556151
+elapsed_days: 63.971493645833334
 lapses: 0
-last_review: 20241219071454688
+last_review: 20250213122556151
 modified: 20241210142417188
 modifier: mxlcola
 reps: 2
-scheduled_days: 53
-stability: 53.397630437712884
+scheduled_days: 255
+stability: 255.4080194849753
 state: 2
 tags: 寄存器 ?
 title: 硬件外设的工作是由谁来控制?

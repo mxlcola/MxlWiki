@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241128122350938
 difficulty: 3.2357139999999993
-due: 20250825032432509
-elapsed_days: 41.64718241898148
+due: 20260128122629174
+elapsed_days: 73.02353270833333
 lapses: 0
-last_review: 20250113032432509
+last_review: 20250213122629174
 modified: 20241128122505955
 reps: 4
-scheduled_days: 224
-stability: 223.77985955323152
+scheduled_days: 349
+stability: 348.8870913941194
 state: 2
 tags: 技术债务 工作积累
 title: 偿还技术债务

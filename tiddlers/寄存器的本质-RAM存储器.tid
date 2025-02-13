@@ -2,17 +2,17 @@ annotate-colour: dodgerblue
 created: 20241210133910766
 creator: mxlcola
 difficulty: 3.148
-due: 20250210071442684
-elapsed_days: 7.757173518518519
+due: 20251026122530387
+elapsed_days: 63.97300341435185
 lapses: 0
-last_review: 20241219071442684
-modified: 20241210143226706
+last_review: 20250213122530387
+modified: 20250213123037539
 modifier: mxlcola
 reps: 2
-scheduled_days: 53
-stability: 53.407101729911844
+scheduled_days: 255
+stability: 255.41141036120527
 state: 2
-tags: 寄存器 ?
+tags: 寄存器 ? RAM
 title: 寄存器的本质-RAM存储器
 
 !! 类比生活中的电路开关
@@ -20,5 +20,6 @@ title: 寄存器的本质-RAM存储器
 通过控制开关，从而控制设备
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210214627303.png" alt="image-20241210214627303" style="zoom:33%;" />
+
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210214821475.png" alt="image-20241210214821475" style="zoom: 33%;" />

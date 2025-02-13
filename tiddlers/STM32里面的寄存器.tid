@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241210135504762
 creator: mxlcola
-difficulty: 3.9994
-due: 20250202035531938
-elapsed_days: 14.616849560185186
+difficulty: 3.148
+due: 20251026122549555
+elapsed_days: 63.971220127314815
 lapses: 0
-last_review: 20241226035531938
-modified: 20241210135630461
+last_review: 20250213122549555
+modified: 20250213122548859
 modifier: mxlcola
 reps: 2
-scheduled_days: 38
-stability: 38.00166646544367
+scheduled_days: 255
+stability: 255.407405166514
 state: 2
 tags: 寄存器 ?
 title: STM32里面的寄存器
