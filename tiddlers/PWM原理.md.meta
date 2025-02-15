@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20241204103330872
-difficulty: 3.9994
-due: 20250101130603838
-elapsed_days: 6.51735849537037
+difficulty: 4.008706
+due: 20250703020111092
+elapsed_days: 65.53827837962963
 lapses: 0
-last_review: 20241211130603838
+last_review: 20250215020111092
 modified: 20241204103418630
-reps: 2
-scheduled_days: 21
-stability: 21.311400273180592
+reps: 3
+scheduled_days: 138
+stability: 137.98560646153197
 state: 2
 tags: PWM ?
 title: PWM原理

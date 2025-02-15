@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241128122732479
-difficulty: 3.148
-due: 20250114004303815
-elapsed_days: 5.483508391203704
+difficulty: 2.31442
+due: 20260330020144290
+elapsed_days: 72.05463511574074
 lapses: 0
-last_review: 20241205004303815
+last_review: 20250215020144290
 modified: 20241128122858070
-reps: 2
-scheduled_days: 40
-stability: 40.21029994371702
+reps: 3
+scheduled_days: 408
+stability: 408.4545168404433
 state: 2
 tags: 技术债务 工作积累
 title: 技术债务后果

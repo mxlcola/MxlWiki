@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241112144334829
 creator: mxlcola
-difficulty: 3.148
-due: 20241231133313920
-elapsed_days: 5.937434722222222
+difficulty: 2.31442
+due: 20260615020054335
+elapsed_days: 88.51921776620371
 lapses: 0
-last_review: 20241118133313920
+last_review: 20250215020054335
 modified: 20241112144707116
 modifier: mxlcola
-reps: 2
-scheduled_days: 43
-stability: 42.89275461601241
+reps: 3
+scheduled_days: 485
+stability: 484.5447677457847
 state: 2
 tags: 齐格尼克效应 ?
 title: 如何解决奇格尼克效应？
