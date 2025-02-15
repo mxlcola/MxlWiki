@@ -1,22 +1,21 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241104114903858
-difficulty: 3.148
-due: 20250115115359957
-elapsed_days: 6.112065706018519
+difficulty: 3.16582
+due: 20250824142828251
+elapsed_days: 75.10727193287038
 lapses: 0
-last_review: 20241202115359957
-modified: 20241104115300646
-reps: 2
-scheduled_days: 44
-stability: 43.918293068834295
+last_review: 20250215142828251
+modified: 20250215142811598
+reps: 3
+scheduled_days: 190
+stability: 189.84107452317912
 state: 2
 tags: 想法 时间管理
 title: todo和日历结合，知道自己时间用在了哪里
 type: text/vnd.tiddlywiki
 
-
 额外增加：
 
 微软todo同步到苹果待办事项和日历上面
 
-番茄工作法利用起来，目前20min比较适合
+[[番茄工作法]]利用起来，目前20min比较适合
