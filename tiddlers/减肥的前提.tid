@@ -1,17 +1,17 @@
-annotate-colour: dodgerblue
+annotate-colour: red
 created: 20231203033535553
 creator: 老乐
-difficulty: 3.148
-due: 20250128120850513
-elapsed_days: 8.431826423611112
-lapses: 0
-last_review: 20241202120850513
+difficulty: 4.86862
+due: 20250215023908906
+elapsed_days: 74.60090736111111
+lapses: 1
+last_review: 20250215023408906
 modified: 20241124012828322
 modifier: mxlcola
-reps: 2
-scheduled_days: 57
-stability: 57.2102066676406
-state: 2
+reps: 3
+scheduled_days: 0
+stability: 7.199634388141294
+state: 3
 tags: 乐天记录减肥法 减肥
 title: 减肥的前提
 type: text/vnd.tiddlywiki
