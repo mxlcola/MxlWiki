@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241109012754139
-difficulty: 3.148
-due: 20241231133309880
-elapsed_days: 5.937698611111111
+difficulty: 2.31442
+due: 20260615015956253
+elapsed_days: 88.51859228009259
 lapses: 0
-last_review: 20241118133309880
+last_review: 20250215015956253
 modified: 20241109012801634
-reps: 2
-scheduled_days: 43
-stability: 42.89430701804237
+reps: 3
+scheduled_days: 485
+stability: 484.5431229350223
 state: 2
 tags: ? RT-Thread内存管理
 title: 内存碎片化
