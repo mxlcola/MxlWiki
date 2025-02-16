@@ -11,6 +11,7 @@
         "title": "$:/plugins/linonetwo/source-control-management",
         "type": "application/json",
         "version": "0.2.3",
-        "Modern.TiddlyDev#SHA256-Hashed": "8c6d9fc0b8f9b22f1704f3fa7b9f55af45e74722cebcc9b985c1358de1129fbf"
+        "Modern.TiddlyDev#SHA256-Hashed": "8c6d9fc0b8f9b22f1704f3fa7b9f55af45e74722cebcc9b985c1358de1129fbf",
+        "revision": "0"
     }
 ]

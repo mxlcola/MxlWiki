@@ -5,6 +5,7 @@ description: Organize, prioritize, and plan your work
 list: readme license history
 name: Todolist
 plugin-type: plugin
+revision: 0
 source: https://github.com/kookma/TW-Todolist
 title: $:/plugins/kookma/todolist
 type: application/json

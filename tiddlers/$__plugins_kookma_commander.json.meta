@@ -6,6 +6,7 @@ list: readme license history
 name: Tiddler Commander
 parent-plugin: 
 plugin-type: plugin
+revision: 0
 source: https://github.com/kookma/TW-Commander
 title: $:/plugins/kookma/commander
 type: application/json

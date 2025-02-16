@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "0.2.0",
         "Modern.TiddlyDev#SHA256-Hashed": "2da9b66ac9b7fd8d4bfe5aa16a2ad40d7069e403027ccf090648584b467b183c",
-        "name": "in-tagtree-of"
+        "name": "in-tagtree-of",
+        "revision": "0"
     }
 ]

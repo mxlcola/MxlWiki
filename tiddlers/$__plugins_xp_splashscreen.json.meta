@@ -6,6 +6,7 @@ list: readme
 modified: 20231004050404986
 name: Splash Screen
 plugin-type: plugin
+revision: 0
 title: $:/plugins/xp/splashscreen
 type: application/json
 version: 0.2.2

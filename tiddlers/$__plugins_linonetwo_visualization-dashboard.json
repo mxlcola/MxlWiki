@@ -12,6 +12,7 @@
         "type": "application/json",
         "version": "1.1.0",
         "Modern.TiddlyDev#SHA256-Hashed": "9b2412952cbd833007da79d1b93575c09d712a44b6f6fff5349e5d382d872c44",
-        "core-version": ">=5.3.0"
+        "core-version": ">=5.3.0",
+        "revision": "0"
     }
 ]

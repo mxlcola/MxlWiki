@@ -12,6 +12,7 @@
         "title": "$:/themes/linonetwo/itonnote",
         "type": "application/json",
         "version": "1.1.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "f1c1ef24ace6cdca827cce9f8eb58a200c08772e6016681de31dfc4edd08168b"
+        "Modern.TiddlyDev#SHA256-Hashed": "f1c1ef24ace6cdca827cce9f8eb58a200c08772e6016681de31dfc4edd08168b",
+        "revision": "0"
     }
 ]

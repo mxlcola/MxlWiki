@@ -11,6 +11,7 @@
         "title": "$:/plugins/linonetwo/opened-tiddlers-bar",
         "type": "application/json",
         "version": "0.3.1",
-        "Modern.TiddlyDev#SHA256-Hashed": "719b62d2c1e2c88a1980820aea3c39207333150b8b34444b5df451123041430b"
+        "Modern.TiddlyDev#SHA256-Hashed": "719b62d2c1e2c88a1980820aea3c39207333150b8b34444b5df451123041430b",
+        "revision": "0"
     }
 ]

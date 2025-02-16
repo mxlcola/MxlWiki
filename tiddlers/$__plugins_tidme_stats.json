@@ -12,6 +12,7 @@
         "title": "$:/plugins/tidme/stats",
         "type": "application/json",
         "version": "1.0.1",
-        "Modern.TiddlyDev#SHA256-Hashed": "96c2e04881191301cace7f749b9d424d2147901e0a16394dc02a0c52a9ec2025"
+        "Modern.TiddlyDev#SHA256-Hashed": "96c2e04881191301cace7f749b9d424d2147901e0a16394dc02a0c52a9ec2025",
+        "revision": "0"
     }
 ]

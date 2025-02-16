@@ -2,6 +2,7 @@ created: 20241104133436764
 creator: mxlcola
 modified: 20241104133438070
 modifier: mxlcola
+revision: 0
 title: PC寄存器
 
 PC寄存器指示了当前线程代码的执行位置，必须保存，以便恢复执行。

@@ -5,6 +5,7 @@ description: Extract the content and stand out specific lines and/or line ranges
 list: readme license history
 name: Highlight Selected Lines
 plugin-type: plugin
+revision: 0
 source: https://github.com/kookma/TW-Hsl
 title: $:/plugins/kookma/hsl
 type: application/json

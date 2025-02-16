@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "0.8.9",
         "Modern.TiddlyDev#SHA256-Hashed": "a1b9cdbb4f9e34c3ef9265c9f2e9031ad1b9c9140fb87a3f51201cb98674b2fa",
-        "name": "TidGi Mobile Sync"
+        "name": "TidGi Mobile Sync",
+        "revision": "0"
     }
 ]

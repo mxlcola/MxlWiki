@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "2.0.0",
         "Modern.TiddlyDev#SHA256-Hashed": "c3bd404a1fa9077f3df9ebe582dacd8a271151effd85edc89760bc8cef72a28a",
-        "name": "copy-on-select"
+        "name": "copy-on-select",
+        "revision": "0"
     }
 ]

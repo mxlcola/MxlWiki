@@ -11,6 +11,7 @@
         "title": "$:/plugins/linonetwo/itonnote",
         "type": "application/json",
         "version": "3.0.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "03bb8cf07d0b30d3499c3b744f3377b298b70889d00dbbfffeb0dbe3769bd89f"
+        "Modern.TiddlyDev#SHA256-Hashed": "03bb8cf07d0b30d3499c3b744f3377b298b70889d00dbbfffeb0dbe3769bd89f",
+        "revision": "0"
     }
 ]

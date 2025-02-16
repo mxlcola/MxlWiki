@@ -10,6 +10,7 @@
         "title": "$:/plugins/Gk0Wk/focused-tiddler",
         "type": "application/json",
         "version": "0.0.3",
-        "Modern.TiddlyDev#SHA256-Hashed": "a824f67b3fa431b7fa496185264a3cd2cdfcbce53df02f19bdad115283c88e3e"
+        "Modern.TiddlyDev#SHA256-Hashed": "a824f67b3fa431b7fa496185264a3cd2cdfcbce53df02f19bdad115283c88e3e",
+        "revision": "0"
     }
 ]

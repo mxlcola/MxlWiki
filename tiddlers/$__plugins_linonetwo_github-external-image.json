@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "0.1.0",
         "Modern.TiddlyDev#SHA256-Hashed": "2cf4ce1c737b75662b44f8410e606dea90312442d42e9cb4f139e8d92b57eff5",
-        "name": "github-external-image"
+        "name": "github-external-image",
+        "revision": "0"
     }
 ]

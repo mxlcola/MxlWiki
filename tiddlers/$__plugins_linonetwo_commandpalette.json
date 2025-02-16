@@ -12,6 +12,7 @@
         "type": "application/json",
         "version": "1.5.0",
         "Modern.TiddlyDev#SHA256-Hashed": "a5fd899fcda8791c8b0eb251b33448fde7bcca97bbbddfdab7abf45be9a3cc95",
-        "name": "Command Palette 命令菜单"
+        "name": "Command Palette 命令菜单",
+        "revision": "0"
     }
 ]

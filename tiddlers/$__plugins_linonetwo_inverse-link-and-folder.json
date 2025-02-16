@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "0.1.0",
         "Modern.TiddlyDev#SHA256-Hashed": "6ef722aa414ff90f9089ae977cd3102db0a622a7b77d21c42b8acf8c52d9bd90",
-        "name": "inverse-link-and-folder"
+        "name": "inverse-link-and-folder",
+        "revision": "0"
     }
 ]
