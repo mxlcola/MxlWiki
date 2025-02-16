@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104130741386
 creator: mxlcola
-difficulty: 3.148
-due: 20250101150140214
-elapsed_days: 7.111649930555555
+difficulty: 2.31442
+due: 20260723125419922
+elapsed_days: 95.9115706712963
 lapses: 0
-last_review: 20241112150140214
+last_review: 20250216125419922
 modified: 20241104130840882
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 50
-stability: 49.720560419900316
+reps: 3
+scheduled_days: 522
+stability: 521.9446767330883
 state: 2
 tags: RT-Thread内部机制 ?
 title: RT-Thread核心机制：链表、定时器

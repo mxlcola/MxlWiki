@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104133850370
 creator: mxlcola
-difficulty: 3.148
-due: 20250101150007359
-elapsed_days: 7.110885034722222
+difficulty: 2.31442
+due: 20260723125352308
+elapsed_days: 95.91232578703703
 lapses: 0
-last_review: 20241112150007359
+last_review: 20250216125352308
 modified: 20241112145951756
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 50
-stability: 49.71616421266204
+reps: 3
+scheduled_days: 522
+stability: 521.9450100550292
 state: 2
 tags: 线程的概念与保存 ? 栈
 title: CPU寄存器状态保存在哪里？
