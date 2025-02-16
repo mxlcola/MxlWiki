@@ -1,8 +1,18 @@
+annotate-colour: dodgerblue
 created: 20241104133436764
 creator: mxlcola
-modified: 20241104133438070
+difficulty: 3.9899999999999998
+due: 20250222124221893
+elapsed_days: 0
+lapses: 0
+last_review: 20250216124221893
+modified: 20250216124221135
 modifier: mxlcola
-revision: 0
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: ? 寄存器
 title: PC寄存器
 
 PC寄存器指示了当前线程代码的执行位置，必须保存，以便恢复执行。

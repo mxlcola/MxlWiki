@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104133235541
 creator: mxlcola
-difficulty: 3.148
-due: 20250101145928491
-elapsed_days: 7.110694918981482
+difficulty: 2.31442
+due: 20260723124225272
+elapsed_days: 95.90482384259259
 lapses: 0
-last_review: 20241112145928491
+last_review: 20250216124225272
 modified: 20241104133648773
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 50
-stability: 49.71507151997104
+reps: 3
+scheduled_days: 522
+stability: 521.9112573193468
 state: 2
 tags: 线程的概念与保存 ?
 title: 线程切换时，需要保存哪些内容？
