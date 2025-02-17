@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241114151235831
 creator: mxlcola
-difficulty: 3.148
-due: 20250102223238014
-elapsed_days: 5.373353263888889
+difficulty: 3.16582
+due: 20250909122840727
+elapsed_days: 85.58058693287037
 lapses: 0
-last_review: 20241123223238014
+last_review: 20250217122840727
 modified: 20241114151330569
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 40
-stability: 39.55567930771786
+reps: 3
+scheduled_days: 204
+stability: 204.11792883749698
 state: 2
 tags: 情绪管理 ?
 title: 情绪分类和相关形容

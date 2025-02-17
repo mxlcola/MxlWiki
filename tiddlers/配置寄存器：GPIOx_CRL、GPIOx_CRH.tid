@@ -1,17 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241211131137298
 creator: mxlcola
-difficulty: 4.93
-due: 20250104070827853
-elapsed_days: 6.271276655092593
+difficulty: 4.078599999999999
+due: 20251103123023369
+elapsed_days: 60.223559224537034
 lapses: 0
-last_review: 20241219070827853
+last_review: 20250217123023369
 modified: 20241211132858670
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 16
-stability: 15.868948749768306
+reps: 4
+scheduled_days: 259
+stability: 259.45432977441436
 state: 2
 tags: GPIO寄存器 ?
 title: 配置寄存器：GPIOx_CRL、GPIOx_CRH

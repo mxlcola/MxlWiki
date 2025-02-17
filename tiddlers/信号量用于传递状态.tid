@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241119134649631
 creator: mxlcola
-difficulty: 3.148
-due: 20250104003246630
-elapsed_days: 5.422072615740741
+difficulty: 3.16582
+due: 20250908122900364
+elapsed_days: 84.49738118055555
 lapses: 0
-last_review: 20241125003246630
+last_review: 20250217122900364
 modified: 20241119135408275
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 40
-stability: 39.84538183911259
+reps: 3
+scheduled_days: 203
+stability: 202.53997375380493
 state: 2
 tags: 信号量 ?
 title: 信号量用于传递状态
