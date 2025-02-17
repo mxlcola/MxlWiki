@@ -12,7 +12,6 @@
         "title": "$:/plugins/linonetwo/slate-write",
         "type": "application/json",
         "version": "0.5.2",
-        "Modern.TiddlyDev#SHA256-Hashed": "c2a1cd9dbcafcf26736cbda9b4cc773f6d521b26f6f24789a7a1a8ed8513877b",
-        "revision": "0"
+        "Modern.TiddlyDev#SHA256-Hashed": "c2a1cd9dbcafcf26736cbda9b4cc773f6d521b26f6f24789a7a1a8ed8513877b"
     }
 ]

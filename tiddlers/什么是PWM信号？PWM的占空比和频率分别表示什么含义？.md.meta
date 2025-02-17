@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204103228900
-difficulty: 4.078599999999999
-due: 20250102081046122
-elapsed_days: 3.7181583564814815
+difficulty: 3.2357139999999993
+due: 20260127120601736
+elapsed_days: 70.16337518518519
 lapses: 0
-last_review: 20241209081046122
+last_review: 20250217120601736
 modified: 20241219071638892
-reps: 3
-revision: 0
-scheduled_days: 24
-stability: 24.492982566802112
+reps: 4
+scheduled_days: 344
+stability: 344.13664952687344
 state: 2
 tags: PWM ?
 title: 什么是PWM信号？PWM的占空比和频率分别表示什么含义？

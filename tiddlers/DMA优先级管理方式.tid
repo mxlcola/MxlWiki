@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241202135623989
 creator: mxlcola
-difficulty: 3.148
-due: 20250123081001776
-elapsed_days: 6.313186412037037
+difficulty: 2.31442
+due: 20260327123143458
+elapsed_days: 70.18173243055556
 lapses: 0
-last_review: 20241209081001776
+last_review: 20250217123143458
 modified: 20241203003902068
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 45
-stability: 45.09499508372382
+reps: 3
+scheduled_days: 403
+stability: 402.7151329929417
 state: 2
 tags: DMA ?
 title: DMA优先级管理方式

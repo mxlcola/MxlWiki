@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241202134617564
 creator: mxlcola
-difficulty: 4.078599999999999
-due: 20250109004955400
-elapsed_days: 5.009149074074074
+difficulty: 3.2357139999999993
+due: 20260204123209692
+elapsed_days: 70.48766541666667
 lapses: 0
-last_review: 20241209004955400
+last_review: 20250217123209692
 modified: 20241209003838499
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 31
-stability: 31.290965496316133
+reps: 4
+scheduled_days: 352
+stability: 351.96472173677654
 state: 2
 tags: DMA ?
 title: DMA传输数据的配置参考代码-标准库
