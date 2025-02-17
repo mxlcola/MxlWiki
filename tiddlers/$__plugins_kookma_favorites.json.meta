@@ -5,6 +5,7 @@ description: Create bookmarks, shortcuts and favorite items as flat and structur
 list: readme license history
 name: Favorites
 plugin-type: plugin
+revision: 0
 source: https://github.com/kookma/TW-Favorites
 title: $:/plugins/kookma/favorites
 type: application/json

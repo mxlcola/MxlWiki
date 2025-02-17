@@ -5,6 +5,7 @@ description: Small tools for authors and developers
 list: readme license history
 name: Utility
 plugin-type: plugin
+revision: 0
 source: https://github.com/kookma/TW-Utility
 title: $:/plugins/kookma/utility
 type: application/json

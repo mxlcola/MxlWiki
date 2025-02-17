@@ -1,23 +1,29 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241112150549972
 creator: 老乐
-difficulty: 3.148
-due: 20250115115337611
-elapsed_days: 6.112836423611111
+difficulty: 3.16582
+due: 20250824142712259
+elapsed_days: 75.10665100694445
 lapses: 0
-last_review: 20241202115337611
-modified: 20241112150733577
+last_review: 20250215142712259
+modified: 20250215142712231
 modifier: mxlcola
-reps: 2
-scheduled_days: 44
-stability: 43.92281130342398
+reps: 3
+revision: 0
+scheduled_days: 190
+stability: 189.84382596518992
 state: 2
 tags: 想法 注意事项
 title: 洗衣服一定要注意的事项
 type: text/vnd.tiddlywiki
+wysiwyg: yes
 
 一定
 
 一定
 
 一定要拿出纸巾！！！！
+
+
+
+不然的话清理起来实在很麻烦

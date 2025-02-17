@@ -5,6 +5,7 @@ description: Allow using ReactJS Components in TW widget.
 list: readme tree
 name: ReactJS
 plugin-type: plugin
+revision: 0
 title: $:/plugins/linonetwo/tw-react
 type: application/json
 version: 0.7.0

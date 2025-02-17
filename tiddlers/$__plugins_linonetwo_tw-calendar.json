@@ -11,6 +11,7 @@
         "title": "$:/plugins/linonetwo/tw-calendar",
         "type": "application/json",
         "version": "1.3.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "aa78b86745e89e0a4613501a3676e3865373d1a524a8d7f37c1d43dd2bd5cc0f"
+        "Modern.TiddlyDev#SHA256-Hashed": "aa78b86745e89e0a4613501a3676e3865373d1a524a8d7f37c1d43dd2bd5cc0f",
+        "revision": "0"
     }
 ]

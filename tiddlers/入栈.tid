@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241104145802817
 creator: mxlcola
-difficulty: 3.148
-due: 20250101145919443
-elapsed_days: 7.11081082175926
+difficulty: 2.31442
+due: 20260723123701348
+elapsed_days: 95.90117944444444
 lapses: 0
-last_review: 20241112145919443
+last_review: 20250216123701348
 modified: 20241105121945025
 modifier: mxlcola
-reps: 2
-scheduled_days: 50
-stability: 49.71573767318155
+reps: 3
+scheduled_days: 522
+stability: 521.8956741516438
 state: 2
 tags: ? 栈
 title: 入栈

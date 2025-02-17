@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "0.0.1",
         "Modern.TiddlyDev#SHA256-Hashed": "69127cd49bc848a2cec9170c558f1ac5b0fe54d20010eff26f676b3d88ac6acd",
-        "name": "tag-tree-picker-macro"
+        "name": "tag-tree-picker-macro",
+        "revision": "0"
     }
 ]

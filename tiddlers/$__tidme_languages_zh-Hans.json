@@ -12,6 +12,7 @@
         "title": "$:/tidme/languages/zh-Hans",
         "type": "application/json",
         "version": "1.4.6",
-        "Modern.TiddlyDev#SHA256-Hashed": "561cbc842b864911aebd3c0f403fdb566d207b8e3e0dae5e99223ee290968f8e"
+        "Modern.TiddlyDev#SHA256-Hashed": "561cbc842b864911aebd3c0f403fdb566d207b8e3e0dae5e99223ee290968f8e",
+        "revision": "0"
     }
 ]

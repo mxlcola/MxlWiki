@@ -12,6 +12,7 @@
         "title": "$:/plugins/tidme/read",
         "type": "application/json",
         "version": "1.5.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "c6a35748c61412e3ce682c40d688956eff17a3d25456473fe8566ed34809d020"
+        "Modern.TiddlyDev#SHA256-Hashed": "c6a35748c61412e3ce682c40d688956eff17a3d25456473fe8566ed34809d020",
+        "revision": "0"
     }
 ]

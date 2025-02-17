@@ -118,7 +118,7 @@ eMBInit( eMBMode eMode, UCHAR ucSlaveAddress, UCHAR ucPort, ULONG ulBaudRate, eM
 
 
 
-```
+```c
 /*函数功能 
 *1:设置接收状态机eRcvState为STATE_RX_INIT； 
 *2:使能串口接收,禁止串口发送,作为从机,等待主机传送的数据; 

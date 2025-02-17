@@ -10,6 +10,7 @@
         "title": "$:/plugins/linonetwo/tidgi-external-attachments",
         "type": "application/json",
         "version": "1.2.1",
-        "Modern.TiddlyDev#SHA256-Hashed": "c806889a74ba9d86a0cb501ba0415aed2f411cca1edb602a5ee6d15e53df017e"
+        "Modern.TiddlyDev#SHA256-Hashed": "c806889a74ba9d86a0cb501ba0415aed2f411cca1edb602a5ee6d15e53df017e",
+        "revision": "0"
     }
 ]

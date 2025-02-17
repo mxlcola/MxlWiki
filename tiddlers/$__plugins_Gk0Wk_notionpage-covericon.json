@@ -11,6 +11,7 @@
         "title": "$:/plugins/Gk0Wk/notionpage-covericon",
         "type": "application/json",
         "version": "0.0.14",
-        "Modern.TiddlyDev#SHA256-Hashed": "41191204d65f465fab22532b23cb6dae06d9531a34d3435c0b1ac9023dd84174"
+        "Modern.TiddlyDev#SHA256-Hashed": "41191204d65f465fab22532b23cb6dae06d9531a34d3435c0b1ac9023dd84174",
+        "revision": "0"
     }
 ]

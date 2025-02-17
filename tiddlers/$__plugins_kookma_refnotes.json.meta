@@ -6,6 +6,7 @@ list:
 name: Refnotes
 parent-plugin: 
 plugin-type: plugin
+revision: 0
 source: https://github.com/kookma/TW-Refnotes
 title: $:/plugins/kookma/refnotes
 type: application/json

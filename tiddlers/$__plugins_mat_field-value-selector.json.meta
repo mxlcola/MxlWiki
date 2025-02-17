@@ -6,6 +6,7 @@ description: Shows a dropdown listing existing field values for that field name.
 list: readme
 modified: 20211017092928672
 plugin-type: plugin
+revision: 0
 title: $:/plugins/mat/field-value-selector
 type: application/json
 version: 0.0.1

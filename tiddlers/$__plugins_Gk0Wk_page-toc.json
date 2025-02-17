@@ -11,6 +11,7 @@
         "title": "$:/plugins/Gk0Wk/page-toc",
         "type": "application/json",
         "version": "0.0.5",
-        "Modern.TiddlyDev#SHA256-Hashed": "6f71bcc34f5a179510ae8d550a86821fd3ae698002a035fae23623ad24f32b12"
+        "Modern.TiddlyDev#SHA256-Hashed": "6f71bcc34f5a179510ae8d550a86821fd3ae698002a035fae23623ad24f32b12",
+        "revision": "0"
     }
 ]

@@ -6,6 +6,7 @@ list: readme
 name: Relink Markdown
 parent-plugin: $:/plugins/flibbles/relink
 plugin-type: plugin
+revision: 0
 source: https://github.com/flibbles/tw5-relink
 title: $:/plugins/flibbles/relink-markdown
 type: application/json

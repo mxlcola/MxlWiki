@@ -11,6 +11,7 @@
         "title": "$:/plugins/linonetwo/open-in-external-app",
         "type": "application/json",
         "version": "0.1.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "ccc9efeca114a7acb725b552a4ad976b39cc08ebbf81ee9f982b7e4a49714d20"
+        "Modern.TiddlyDev#SHA256-Hashed": "ccc9efeca114a7acb725b552a4ad976b39cc08ebbf81ee9f982b7e4a49714d20",
+        "revision": "0"
     }
 ]

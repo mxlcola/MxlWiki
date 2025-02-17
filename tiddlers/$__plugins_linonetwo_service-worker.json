@@ -11,6 +11,7 @@
         "type": "application/json",
         "version": "0.1.0",
         "Modern.TiddlyDev#SHA256-Hashed": "66ff0eb962dc301efa64065f6ef1d068303d9e0a3816b76d43df4e6115e93e43",
-        "name": "service-worker"
+        "name": "service-worker",
+        "revision": "0"
     }
 ]

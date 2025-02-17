@@ -4,6 +4,7 @@ description: Markdown parser based on markdown-it
 list: readme config syntax license
 name: Markdown
 plugin-type: plugin
+revision: 0
 stability: STABILITY_2_STABLE
 title: $:/plugins/tiddlywiki/markdown
 type: application/json

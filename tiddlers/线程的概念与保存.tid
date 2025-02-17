@@ -2,5 +2,6 @@ created: 20241104132732859
 creator: mxlcola
 modified: 20241104132735625
 modifier: mxlcola
+revision: 0
 tags: RT-Thread内部机制
 title: 线程的概念与保存

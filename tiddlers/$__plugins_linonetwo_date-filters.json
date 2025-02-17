@@ -10,6 +10,7 @@
         "title": "$:/plugins/linonetwo/date-filters",
         "type": "application/json",
         "version": "1.1.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "e3d250b70985ab7145db9640e697bde19e64b5cba63e64f28c21c6bafbfaf90b"
+        "Modern.TiddlyDev#SHA256-Hashed": "e3d250b70985ab7145db9640e697bde19e64b5cba63e64f28c21c6bafbfaf90b",
+        "revision": "0"
     }
 ]

@@ -1,25 +1,4 @@
 {
-    "12033853": "{\"rating\":4,\"elapsed_days\":8.9029759375,\"scheduled_days\":60,\"review\":\"20241202120335511\",\"state\":2}",
-    "12052446": "{\"rating\":4,\"elapsed_days\":6.459215960648148,\"scheduled_days\":46,\"review\":\"20241202120523509\",\"state\":2}",
-    "12073788": "{\"rating\":3,\"elapsed_days\":5.8901018287037035,\"scheduled_days\":20,\"review\":\"20241202120735508\",\"state\":2}",
-    "120317927": "{\"rating\":4,\"elapsed_days\":8.931207997685185,\"scheduled_days\":60,\"review\":\"20241202120317507\",\"state\":2}",
-    "120324197": "{\"rating\":4,\"elapsed_days\":8.903714606481481,\"scheduled_days\":60,\"review\":\"20241202120323512\",\"state\":2}",
-    "120331307": "{\"rating\":4,\"elapsed_days\":8.903107268518518,\"scheduled_days\":60,\"review\":\"20241202120329508\",\"state\":2}",
-    "120344888": "{\"rating\":4,\"elapsed_days\":19.512410150462962,\"scheduled_days\":120,\"review\":\"20241202120344507\",\"state\":2}",
-    "120351303": "{\"rating\":4,\"elapsed_days\":19.512274930555556,\"scheduled_days\":120,\"review\":\"20241202120350510\",\"state\":2}",
-    "120440392": "{\"rating\":4,\"elapsed_days\":21.9938021875,\"scheduled_days\":135,\"review\":\"20241202120439519\",\"state\":2}",
-    "120446865": "{\"rating\":4,\"elapsed_days\":21.891996944444443,\"scheduled_days\":135,\"review\":\"20241202120444500\",\"state\":2}",
-    "120504631": "{\"rating\":4,\"elapsed_days\":18.5291315625,\"scheduled_days\":115,\"review\":\"20241202120502507\",\"state\":2}",
-    "120538320": "{\"rating\":2,\"elapsed_days\":6.3657693981481485,\"scheduled_days\":10,\"review\":\"20241202120535516\",\"state\":2}",
-    "120557691": "{\"rating\":4,\"elapsed_days\":6.365944467592593,\"scheduled_days\":45,\"review\":\"20241202120556506\",\"state\":2}",
-    "120601988": "{\"rating\":4,\"elapsed_days\":5.357721956018518,\"scheduled_days\":30,\"review\":\"20241202120600053\",\"state\":2}",
-    "120627413": "{\"rating\":4,\"elapsed_days\":20.912438530092594,\"scheduled_days\":129,\"review\":\"20241202120626509\",\"state\":2}",
-    "120643636": "{\"rating\":4,\"elapsed_days\":5.889942256944445,\"scheduled_days\":43,\"review\":\"20241202120641503\",\"state\":2}",
-    "120648586": "{\"rating\":4,\"elapsed_days\":5.890290844907407,\"scheduled_days\":43,\"review\":\"20241202120647517\",\"state\":2}",
-    "120653970": "{\"rating\":4,\"elapsed_days\":5.890313611111111,\"scheduled_days\":43,\"review\":\"20241202120653512\",\"state\":2}",
-    "120700294": "{\"rating\":3,\"elapsed_days\":5.889998518518518,\"scheduled_days\":20,\"review\":\"20241202120659512\",\"state\":2}",
-    "120717436": "{\"rating\":3,\"elapsed_days\":5.890010844907407,\"scheduled_days\":20,\"review\":\"20241202120714509\",\"state\":2}",
-    "120723371": "{\"rating\":4,\"elapsed_days\":5.890026539351852,\"scheduled_days\":43,\"review\":\"20241202120720509\",\"state\":2}",
-    "120731392": "{\"rating\":4,\"elapsed_days\":5.890077858796296,\"scheduled_days\":43,\"review\":\"20241202120729515\",\"state\":2}",
-    "120746249": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20241202120744499\",\"state\":0}"
+    "123254843": "{\"rating\":4,\"elapsed_days\":1.936759548611111,\"scheduled_days\":2,\"review\":\"20241202123253677\",\"state\":1}",
+    "123257491": "{\"rating\":4,\"elapsed_days\":1.9387172569444444,\"scheduled_days\":2,\"review\":\"20241202123256343\",\"state\":3}"
 }

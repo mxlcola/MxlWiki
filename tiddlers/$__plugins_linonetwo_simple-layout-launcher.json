@@ -10,6 +10,7 @@
         "title": "$:/plugins/linonetwo/simple-layout-launcher",
         "type": "application/json",
         "version": "0.5.0",
-        "Modern.TiddlyDev#SHA256-Hashed": "a4102b699f44b5a455c8130d9c93736e7b33f01619778f24d5cd4a5bda8c9ed8"
+        "Modern.TiddlyDev#SHA256-Hashed": "a4102b699f44b5a455c8130d9c93736e7b33f01619778f24d5cd4a5bda8c9ed8",
+        "revision": "0"
     }
 ]

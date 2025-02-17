@@ -5,6 +5,7 @@ list: readme license history
 name: Single Tiddler View
 packaged-by: Gatha on 21st May 2023, 19:33:06
 plugin-type: plugin
+revision: 0
 source: https://yaisog.tiddlyhost.com/
 tags: 
 title: $:/plugins/yaisog/single-tiddler-view
