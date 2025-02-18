@@ -17,5 +17,7 @@
     "123100125": "{\"rating\":4,\"elapsed_days\":89.93165072916666,\"scheduled_days\":494,\"review\":\"20250217123054523\",\"state\":2}",
     "123146775": "{\"rating\":4,\"elapsed_days\":70.18173243055556,\"scheduled_days\":403,\"review\":\"20250217123143458\",\"state\":2}",
     "123211889": "{\"rating\":4,\"elapsed_days\":70.48766541666667,\"scheduled_days\":352,\"review\":\"20250217123209692\",\"state\":2}",
-    "123316686": "{\"rating\":4,\"elapsed_days\":53.359823668981484,\"scheduled_days\":238,\"review\":\"20250217123314285\",\"state\":2}"
+    "123316686": "{\"rating\":4,\"elapsed_days\":53.359823668981484,\"scheduled_days\":238,\"review\":\"20250217123314285\",\"state\":2}",
+    "143032810": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20250217143030482\",\"state\":0}",
+    "143359357": "{\"rating\":4,\"elapsed_days\":0.08687770833333333,\"scheduled_days\":8,\"review\":\"20250217143356344\",\"state\":3}"
 }

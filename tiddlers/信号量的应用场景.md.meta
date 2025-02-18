@@ -1,17 +1,17 @@
-annotate-colour: red
+annotate-colour: dodgerblue
 created: 20241119135535087
 creator: mxlcola
 difficulty: 4.86862
-due: 20250217123350110
-elapsed_days: 84.49734344907408
+due: 20250225143356344
+elapsed_days: 0.08687770833333333
 lapses: 1
-last_review: 20250217122850110
+last_review: 20250217143356344
 modified: 20241119135838233
 modifier: mxlcola
-reps: 3
-scheduled_days: 0
+reps: 4
+scheduled_days: 8
 stability: 6.622928345523372
-state: 3
+state: 2
 tags: 信号量 ?
 title: 信号量的应用场景
 type: text/markdown
