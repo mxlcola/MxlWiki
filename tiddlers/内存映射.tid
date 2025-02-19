@@ -1,15 +1,25 @@
+annotate-colour: dodgerblue
 created: 20250217123815412
-modified: 20250217124319744
+difficulty: 3.9899999999999998
+due: 20250224003029293
+elapsed_days: 0
+lapses: 0
+last_review: 20250218003029293
+modified: 20250218003007124
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ?
 title: 内存映射
 
 在以下情况下使用内存映射模式：
 
-（1）用于阅读操作。
+''（1）用于阅读操作。''
 
-（2）像使用内部Flash一样使用外部QSPI Flash， 任何AHB总线主控都可以自主读取数据。
+''（2）像使用内部Flash一样使用外部QSPI Flash， 任何AHB总线主控都可以自主读取数据。''
 
-（2）用于从外部QSPI Flash执行代码。
+''（3）用于从外部QSPI Flash执行代码。''
 
 QSPI接口能够管理多达256 MB的内存，在内存映射模式下地址范围是0x9000 0000到0x9FFF FFFF。
 

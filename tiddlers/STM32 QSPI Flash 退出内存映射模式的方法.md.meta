@@ -1,5 +1,15 @@
+annotate-colour: dodgerblue
 created: 20250217122641079
+difficulty: 3.9899999999999998
+due: 20250224003011856
+elapsed_days: 0
+lapses: 0
+last_review: 20250218003011856
 modified: 20250217123659064
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: QSPI flash W25Q64 片外flash ? 内存映射
 title: STM32 QSPI Flash 退出内存映射模式的方法
 type: text/markdown
