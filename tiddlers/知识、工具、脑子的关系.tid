@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124143205522
 creator: mxlcola
-difficulty: 3.148
-due: 20250111042416983
-elapsed_days: 5.597743645833333
+difficulty: 2.31442
+due: 20260510035127237
+elapsed_days: 79.97720200231481
 lapses: 0
-last_review: 20241201042416983
+last_review: 20250219035127237
 modified: 20241124143322264
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 41
-stability: 40.887651712163645
+reps: 3
+scheduled_days: 445
+stability: 444.9881635184873
 state: 2
 tags: anki ?
 title: 知识、工具、脑子的关系

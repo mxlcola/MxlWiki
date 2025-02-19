@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124141227638
 creator: mxlcola
-difficulty: 3.148
-due: 20250111042315588
-elapsed_days: 5.597307152777778
+difficulty: 2.31442
+due: 20260510035103091
+elapsed_days: 79.97763313657407
 lapses: 0
-last_review: 20241201042315588
+last_review: 20250219035103091
 modified: 20241124143800382
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 41
-stability: 40.88506648235776
+reps: 3
+scheduled_days: 445
+stability: 444.9883479171595
 state: 2
 tags: anki ?
 title: 学习不在于工具而是人

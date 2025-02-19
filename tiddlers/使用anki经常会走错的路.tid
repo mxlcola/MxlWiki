@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124143427241
 creator: mxlcola
-difficulty: 3.148
-due: 20250111042238238
-elapsed_days: 5.5971689583333335
+difficulty: 2.31442
+due: 20260510035013021
+elapsed_days: 79.9774858912037
 lapses: 0
-last_review: 20241201042238238
+last_review: 20250219035013021
 modified: 20241124144142141
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 41
-stability: 40.884247989516446
+reps: 3
+scheduled_days: 445
+stability: 444.98712698275403
 state: 2
 tags: anki ?
 title: 使用anki经常会走错的路

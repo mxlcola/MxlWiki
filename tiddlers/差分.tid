@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241219121420982
 difficulty: 4.93
-due: 20250217124013640
-elapsed_days: 0
+due: 20250222034843039
+elapsed_days: 1.6378402662037037
 lapses: 0
-last_review: 20250217123013640
+last_review: 20250219034843039
 modified: 20241219121515703
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 串口 ?
 title: 差分
 

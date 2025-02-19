@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250215142031986
-difficulty: 4.93
-due: 20250219010310261
-elapsed_days: 0.4453258912037037
+difficulty: 4.078599999999999
+due: 20250312034817001
+elapsed_days: 3.1146613541666666
 lapses: 0
-last_review: 20250216010310261
-modified: 20250215142153491
-reps: 2
-revision: 1
-scheduled_days: 3
-stability: 2.4
+last_review: 20250219034817001
+modified: 20250219034818930
+reps: 3
+scheduled_days: 21
+stability: 21.170315598379734
 state: 2
 tags: 想法 TiddlyWiki
 title: 2025-2-15 增加所见即所得插件
@@ -17,4 +16,4 @@ wysiwyg: yes
 
 现在所见即所得插件比之前要好用了
 
-不会出现动不动就内部报错的情况，可以说很欣慰了
+不会出现动不动就内部报错的情况，可以说很欣慰了  

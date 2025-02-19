@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124143810962
 creator: mxlcola
-difficulty: 3.148
-due: 20250111042326466
-elapsed_days: 5.597384606481482
+difficulty: 2.31442
+due: 20260510035111805
+elapsed_days: 79.97760811342593
 lapses: 0
-last_review: 20241201042326466
+last_review: 20250219035111805
 modified: 20241124144041285
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 41
-stability: 40.8855252212465
+reps: 3
+scheduled_days: 445
+stability: 444.98854730889224
 state: 2
 tags: anki ? 笔记软件思考
 title: 学习工具使用方法的时候应该注意什么？

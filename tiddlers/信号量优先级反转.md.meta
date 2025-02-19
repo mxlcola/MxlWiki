@@ -1,16 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: red
 created: 20241126124919056
-difficulty: 3.148
-due: 20250114120641503
-elapsed_days: 5.889942256944445
-lapses: 0
-last_review: 20241202120641503
-modified: 20241128052825349
-reps: 2
-revision: 0
-scheduled_days: 43
-stability: 42.61323387308902
-state: 2
-tags: ? 信号量
+difficulty: 4.86862
+due: 20250219035651252
+elapsed_days: 78.65636282407408
+lapses: 1
+last_review: 20250219035151252
+modified: 20250219035244218
+reps: 3
+scheduled_days: 0
+stability: 6.656906291976579
+state: 3
+tags: ? 信号量 同步
 title: 信号量优先级反转
 type: text/markdown

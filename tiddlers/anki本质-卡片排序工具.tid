@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124140721350
 creator: mxlcola
-difficulty: 3.148
-due: 20250111042202036
-elapsed_days: 5.596507546296296
+difficulty: 2.31442
+due: 20260510034924318
+elapsed_days: 79.97734122685185
 lapses: 0
-last_review: 20241201042202036
+last_review: 20250219034924318
 modified: 20241124141148750
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 41
-stability: 40.88033057206903
+reps: 3
+scheduled_days: 445
+stability: 444.9838084289064
 state: 2
 tags: anki ?
 title: anki本质-卡片排序工具
