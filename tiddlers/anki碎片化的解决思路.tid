@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241127143450053
 creator: mxlcola
-difficulty: 3.148
-due: 20250116003717828
-elapsed_days: 5.967323125
+difficulty: 2.31442
+due: 20260521080018382
+elapsed_days: 81.30764530092593
 lapses: 0
-last_review: 20241204003717828
+last_review: 20250223080018382
 modified: 20241127143520100
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 43
-stability: 43.06852993959147
+reps: 3
+scheduled_days: 452
+stability: 452.44857873969363
 state: 2
 tags: anki ?
 title: anki碎片化的解决思路

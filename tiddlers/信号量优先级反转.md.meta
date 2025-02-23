@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: green
 created: 20241126124919056
 difficulty: 4.86862
-due: 20250219035651252
-elapsed_days: 78.65636282407408
+due: 20250302075852113
+elapsed_days: 4.171537743055556
 lapses: 1
-last_review: 20250219035151252
-modified: 20250219035244218
-reps: 3
-scheduled_days: 0
+last_review: 20250223075852113
+modified: 20250223080710288
+reps: 4
+scheduled_days: 7
 stability: 6.656906291976579
-state: 3
+state: 2
 tags: ? 信号量 同步
 title: 信号量优先级反转
 type: text/markdown

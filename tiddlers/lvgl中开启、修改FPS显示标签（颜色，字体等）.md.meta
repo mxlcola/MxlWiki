@@ -1,5 +1,5 @@
 created: 20250221014036315
-modified: 20250221014210318
-tags: lvgl显示 内存占用
+modified: 20250223080347718
+tags: lvgl显示 内存占用 FPS
 title: lvgl中开启、修改FPS显示标签（颜色，字体等）
 type: text/markdown

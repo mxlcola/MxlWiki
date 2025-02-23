@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241206083342040
 creator: mxlcola
-difficulty: 3.148
-due: 20250122003422083
-elapsed_days: 5.655691886574074
+difficulty: 2.31442
+due: 20260414080855401
+elapsed_days: 73.3156633912037
 lapses: 0
-last_review: 20241212003422083
+last_review: 20250223080855401
 modified: 20241210132208355
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 41
-stability: 41.230663965146654
+reps: 3
+scheduled_days: 415
+stability: 414.89215211389444
 state: 2
 tags: ? GPIO
 title: 什么GPIO?

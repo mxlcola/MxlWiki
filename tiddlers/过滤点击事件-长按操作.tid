@@ -1,18 +1,17 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241126021109686
-difficulty: 3.148
-due: 20250116120556506
-elapsed_days: 6.365944467592593
-lapses: 0
-last_review: 20241202120556506
-modified: 20241126021300199
-reps: 2
-revision: 0
-scheduled_days: 45
-stability: 45.402890851259635
+difficulty: 4.86862
+due: 20250302080934751
+elapsed_days: 0.006127488425925926
+lapses: 1
+last_review: 20250223080934751
+modified: 20250223080044675
+reps: 4
+scheduled_days: 7
+stability: 6.83885670116823
 state: 2
 tags: LVGL ?
-title: 过滤点击事件
+title: 过滤点击事件-长按操作
 type: text/vnd.tiddlywiki
 
 长按事件之后可能会触发点击事件

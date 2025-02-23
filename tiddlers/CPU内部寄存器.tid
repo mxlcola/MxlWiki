@@ -1,17 +1,16 @@
 annotate-colour: green
 created: 20241104140920149
 creator: mxlcola
-difficulty: 4.087113999999999
-due: 20250120033150756
-elapsed_days: 18.102385462962964
+difficulty: 4.095542859999998
+due: 20250912080134592
+elapsed_days: 88.18731291666667
 lapses: 0
-last_review: 20241127033150756
+last_review: 20250223080134592
 modified: 20241112150119291
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 54
-stability: 54.35549884722675
+reps: 5
+scheduled_days: 201
+stability: 201.47955514512932
 state: 2
 tags: ? CPU
 title: CPU内部寄存器
