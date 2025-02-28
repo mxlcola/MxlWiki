@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241203124900422
 creator: mxlcola
-difficulty: 3.148
-due: 20250122003719598
-elapsed_days: 5.996972893518518
+difficulty: 2.31442
+due: 20260523125059317
+elapsed_days: 80.50948746527777
 lapses: 0
-last_review: 20241210003719598
+last_review: 20250228125059317
 modified: 20241203125234274
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 43
-stability: 43.24279867162618
+reps: 3
+scheduled_days: 449
+stability: 448.95862354153877
 state: 2
 tags: DMA ?
 title: STM32 F4系列的数据流和通道

@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: dodgerblue
 created: 20241125114913225
 difficulty: 4.86862
-due: 20250223080626831
-elapsed_days: 82.8305940162037
+due: 20250308124916862
+elapsed_days: 5.199884629629629
 lapses: 1
-last_review: 20250223080126831
+last_review: 20250228124916862
 modified: 20241202120520527
-reps: 3
-scheduled_days: 0
+reps: 4
+scheduled_days: 8
 stability: 6.86172375273114
-state: 3
+state: 2
 tags: 声学基本参数 ? 声学
 title: LAFSD
 

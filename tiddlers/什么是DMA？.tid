@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241202132914701
 creator: mxlcola
-difficulty: 3.148
-due: 20250123080925394
-elapsed_days: 6.316794652777777
+difficulty: 2.31442
+due: 20260527125116724
+elapsed_days: 81.1957330324074
 lapses: 0
-last_review: 20241209080925394
+last_review: 20250228125116724
 modified: 20241203003313741
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 45
-stability: 45.11606303217508
+reps: 3
+scheduled_days: 453
+stability: 453.26750090593094
 state: 2
 tags: DMA ?
 title: 什么是DMA？
