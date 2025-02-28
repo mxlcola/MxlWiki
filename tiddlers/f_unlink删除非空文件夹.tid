@@ -1,0 +1,59 @@
+created: 20250228062602826
+modified: 20250228062645250
+tags: Fatfs 文件系统 递归
+title: f_unlink删除非空文件夹
+
+```c
+int delete_file(const char *path) {
+    /* 静态变量避免递归栈溢出 */
+    static char path_array[256];
+ 
+    DIR dir;
+    FRESULT res = f_opendir(&dir, path);
+ 
+    /* 打开文件夹失败, 可能是文件, 直接删除 */
+    if (res == FR_NO_PATH) {
+        return f_unlink(path);
+    }
+ 
+    /* 其他错误 */
+    if (res != FR_OK) {
+        return res;
+    }
+ 
+    int path_len = strlen(path);
+ 
+    /* 先删除所有子文件夹 */
+    for (;;) {
+        FILINFO info;
+        res = f_readdir(&dir, &info);
+ 
+        /* 文件夹访问失败 */
+        if (res != FR_OK) {
+            f_closedir(&dir);
+            return res;
+        }
+ 
+        /* 到达文件末尾 */
+        if (info.fname[0] == '\0') {
+            break;
+        }
+ 
+        /* 递归删除该子文件或子文件夹 */
+        snprintf(path_array, 256, "%s/%s", path, info.fname);
+        res = delete_file(path_array);
+        if (res != FR_OK) {
+            return res;
+        }
+ 
+        path_array[path_len] = '\0';
+    }
+ 
+    f_closedir(&dir);
+ 
+    /* 再删除文件夹本身 */
+    res = f_unlink(path);
+    return res;
+}
+```
+
