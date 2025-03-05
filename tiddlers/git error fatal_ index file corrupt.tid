@@ -1,0 +1,17 @@
+created: 20250303112819954
+modified: 20250303112937581
+tags: git异常 git
+title: git error fatal: index file corrupt
+
+场景复现：在使用git add .提交代码到缓冲区时电脑宕机，重启后再次提交代码会出现该提示
+
+原因分析：.git目录下的index文件损坏
+
+```c
+# 删除索引文件
+rm -f .git/index   
+
+# 回滚到未添加缓冲区的版本
+git reset
+
+```
