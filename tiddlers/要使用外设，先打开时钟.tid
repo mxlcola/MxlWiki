@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241202134232305
 creator: mxlcola
-difficulty: 3.148
-due: 20250123080937312
-elapsed_days: 6.316888287037037
+difficulty: 3.16582
+due: 20250917125124343
+elapsed_days: 81.19568325231481
 lapses: 0
-last_review: 20241209080937312
+last_review: 20250228125124343
 modified: 20241202134345723
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 45
-stability: 45.11660972775783
+reps: 3
+scheduled_days: 201
+stability: 201.4963082398952
 state: 2
 tags: 外设 ?
 title: 要使用外设，先打开时钟

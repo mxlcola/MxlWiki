@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241204024612666
-difficulty: 3.148
-due: 20250121003748897
-elapsed_days: 5.762343831018518
+difficulty: 2.31442
+due: 20260522125054422
+elapsed_days: 80.50909173611112
 lapses: 0
-last_review: 20241210003748897
-modified: 20241204024710974
-reps: 2
-revision: 0
-scheduled_days: 42
-stability: 41.86093397736022
+last_review: 20250228125054422
+modified: 20250228125053742
+reps: 3
+scheduled_days: 448
+stability: 448.0439613332366
 state: 2
-tags: LVGL图层 ?
+tags: LVGL图层 ? 模态
 title: LVGL模式对话框
 
 使用lvgl实现模式对话框的关键点就是利用 layer_sys 和 layer_top 的特点。也就是说创建对话框的时候在 layer_sys 和 layer_top 之上创建即可。

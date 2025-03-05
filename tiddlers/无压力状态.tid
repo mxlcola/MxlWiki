@@ -1,19 +1,18 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241203131407933
 creator: mxlcola
-difficulty: 3.148
-due: 20250121003737203
-elapsed_days: 5.763172488425926
+difficulty: 3.16582
+due: 20250913125032135
+elapsed_days: 80.5089691087963
 lapses: 0
-last_review: 20241210003737203
-modified: 20241203131419975
+last_review: 20250228125032135
+modified: 20250228125016643
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 42
-stability: 41.86582577269337
+reps: 3
+scheduled_days: 197
+stability: 197.49067657113406
 state: 2
-tags: ? GTD
+tags: ? GTD 压力
 title: 无压力状态
 
-并不是完全不需要再做任何事情，而是明确地知道自己现在应该做什么事情、应该优先开展什么行动。
+''并不是完全不需要再做任何事情，而是明确地知道自己现在应该做什么事情、应该优先开展什么行动。''
