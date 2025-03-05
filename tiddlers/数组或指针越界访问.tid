@@ -1,0 +1,16 @@
+created: 20250305125004296
+modified: 20250305130139142
+tags: 内存溢出 数组 指针
+title: 数组或指针越界访问
+
+```c
+#include <stdio.h>
+
+int main() {
+    int arr[5];
+    arr[10] = 100; // 越界访问
+    printf("%d\n", arr[10]);
+    return 0;
+}
+
+```
