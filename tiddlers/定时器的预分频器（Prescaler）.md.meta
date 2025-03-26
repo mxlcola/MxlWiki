@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204112129451
-difficulty: 3.148
-due: 20250126130009994
-elapsed_days: 6.515976087962963
+difficulty: 2.31442
+due: 20261006130712248
+elapsed_days: 105.00488724537037
 lapses: 0
-last_review: 20241211130009994
-modified: 20241204112407838
-reps: 2
-revision: 0
-scheduled_days: 46
-stability: 46.27671528518028
+last_review: 20250326130712248
+modified: 20250326130706307
+reps: 3
+scheduled_days: 559
+stability: 558.8622020018561
 state: 2
 tags: PWM ? 定时器
 title: 定时器的预分频器（Prescaler）

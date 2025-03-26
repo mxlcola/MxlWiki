@@ -1,17 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241102113707110
 creator: mxlcola
-difficulty: 2.3405758000000003
-due: 20250126123539830
-elapsed_days: 0.0011597916666666666
+difficulty: 1.5150700420000003
+due: 20270416130633137
+elapsed_days: 131.0214503125
 lapses: 0
-last_review: 20241115123539830
+last_review: 20250326130633137
 modified: 20241110121547253
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 72
-stability: 71.3127401129041
+reps: 5
+scheduled_days: 751
+stability: 751.1409799593383
 state: 2
 tags: 墨水屏 ?
 title: 墨水屏本质

@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204110310828
-difficulty: 3.148
-due: 20250126125957276
-elapsed_days: 6.515978310185186
+difficulty: 2.31442
+due: 20261006130642743
+elapsed_days: 105.0046929050926
 lapses: 0
-last_review: 20241211125957276
+last_review: 20250326130642743
 modified: 20241204110323843
-reps: 2
-revision: 0
-scheduled_days: 46
-stability: 46.27672820875078
+reps: 3
+scheduled_days: 559
+stability: 558.8613809252187
 state: 2
 tags: PWM ?
 title: 捕获比较值（CCR）

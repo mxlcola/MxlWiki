@@ -1,4 +1,4 @@
 created: 20250219034841867
-list: DMA地址递增与否
-modified: 20250228125136057
+list: 如果需要动态调节占空比，例如按键控制亮度，如何高效修改CCR值？
+modified: 20250326130724036
 title: $:/Deck/default/study

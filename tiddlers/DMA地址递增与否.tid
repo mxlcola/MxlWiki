@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241202134807320
 creator: mxlcola
-difficulty: 3.148
-due: 20250123081018591
-elapsed_days: 6.313235497685185
+difficulty: 2.31442
+due: 20261014130515656
+elapsed_days: 107.20482715277778
 lapses: 0
-last_review: 20241209081018591
+last_review: 20250326130515656
 modified: 20241202134949754
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 45
-stability: 45.09528169720326
+reps: 3
+scheduled_days: 567
+stability: 567.2424865385847
 state: 2
 tags: DMA ?
 title: DMA地址递增与否
