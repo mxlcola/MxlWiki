@@ -1,0 +1,5 @@
+created: 20250326135921479
+modified: 20250326140247080
+tags: HardFault问题 ?
+title: 查看 LR 寄存器中的值，确定当时使用堆栈为 MSP 还是 PSP
+type: text/markdown
