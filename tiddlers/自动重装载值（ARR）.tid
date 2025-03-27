@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241204110228762
 creator: mxlcola
-difficulty: 3.148
-due: 20250126130539225
-elapsed_days: 6.5172765625
+difficulty: 2.31442
+due: 20261009012249584
+elapsed_days: 105.51192546296296
 lapses: 0
-last_review: 20241211130539225
+last_review: 20250327012249584
 modified: 20241211130538764
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 46
-stability: 46.28427823631229
+reps: 3
+scheduled_days: 561
+stability: 561.0368170244892
 state: 2
 tags: PWM ?
 title: 自动重装载值（ARR）

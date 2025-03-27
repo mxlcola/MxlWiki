@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204110438397
-difficulty: 3.148
-due: 20250126130058164
-elapsed_days: 6.514922268518519
+difficulty: 2.31442
+due: 20261009012241731
+elapsed_days: 105.51508758101852
 lapses: 0
-last_review: 20241211130058164
+last_review: 20250327012241731
 modified: 20241204110510283
-reps: 2
-revision: 0
-scheduled_days: 46
-stability: 46.27058662154739
+reps: 3
+scheduled_days: 561
+stability: 561.0390874225566
 state: 2
 tags: PWM ?
 title: 如何通过修改CCR值来改变占空比？
