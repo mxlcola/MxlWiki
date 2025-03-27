@@ -1,0 +1,10 @@
+{
+    "01221364": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20250327012209620\",\"state\":0}",
+    "012225654": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20250327012213699\",\"state\":0}",
+    "012239760": "{\"rating\":4,\"elapsed_days\":105.51507209490741,\"scheduled_days\":561,\"review\":\"20250327012235433\",\"state\":2}",
+    "012243911": "{\"rating\":4,\"elapsed_days\":105.51508758101852,\"scheduled_days\":561,\"review\":\"20250327012241731\",\"state\":2}",
+    "012247496": "{\"rating\":4,\"elapsed_days\":105.51500495370371,\"scheduled_days\":561,\"review\":\"20250327012245798\",\"state\":2}",
+    "012252207": "{\"rating\":4,\"elapsed_days\":105.51192546296296,\"scheduled_days\":561,\"review\":\"20250327012249584\",\"state\":2}",
+    "012302855": "{\"rating\":1,\"elapsed_days\":105.51192350694444,\"scheduled_days\":0,\"review\":\"20250327012254335\",\"state\":2}",
+    "012308716": "{\"rating\":4,\"elapsed_days\":123.48484664351852,\"scheduled_days\":651,\"review\":\"20250327012304926\",\"state\":2}"
+}

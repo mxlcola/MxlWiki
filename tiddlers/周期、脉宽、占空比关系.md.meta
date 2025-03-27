@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241204103514142
-difficulty: 3.148
-due: 20250126130109368
-elapsed_days: 6.514402222222222
+difficulty: 2.31442
+due: 20261009012245798
+elapsed_days: 105.51500495370371
 lapses: 0
-last_review: 20241211130109368
+last_review: 20250327012245798
 modified: 20241204104518139
-reps: 2
-revision: 0
-scheduled_days: 46
-stability: 46.26756215793955
+reps: 3
+scheduled_days: 561
+stability: 561.0362497462851
 state: 2
 tags: PWM ?
 title: 周期、脉宽、占空比关系
