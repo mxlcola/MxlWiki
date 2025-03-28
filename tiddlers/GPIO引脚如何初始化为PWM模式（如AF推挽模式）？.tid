@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: green
 created: 20241204110731404
 difficulty: 4.86862
-due: 20250327012754335
-elapsed_days: 105.51192350694444
+due: 20250403134146135
+elapsed_days: 0.513099525462963
 lapses: 1
-last_review: 20250327012254335
+last_review: 20250327134146135
 modified: 20241204111325012
-reps: 3
-scheduled_days: 0
+reps: 4
+scheduled_days: 7
 stability: 7.19710114815248
-state: 3
+state: 2
 tags: ? PWM GPIO
 title: GPIO引脚如何初始化为PWM模式（如AF推挽模式）？
 
