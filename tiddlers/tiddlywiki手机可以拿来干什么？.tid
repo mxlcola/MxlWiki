@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241123141648172
-difficulty: 3.148
-due: 20250131120323512
-elapsed_days: 8.903714606481481
+difficulty: 2.31442
+due: 20261209073611945
+elapsed_days: 116.81444947916667
 lapses: 0
-last_review: 20241202120323512
+last_review: 20250329073611945
 modified: 20241123141756360
-reps: 2
-revision: 0
-scheduled_days: 60
-stability: 59.840500595912346
+reps: 3
+scheduled_days: 620
+stability: 619.5429598499903
 state: 2
 tags: ? 太微入门 TiddlyWiki
 title: tiddlywiki手机可以拿来干什么？

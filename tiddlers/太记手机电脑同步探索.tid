@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241119153032692
-difficulty: 3.148
-due: 20250131120317507
-elapsed_days: 8.931207997685185
+difficulty: 2.31442
+due: 20261209073608533
+elapsed_days: 116.81447945601852
 lapses: 0
-last_review: 20241202120317507
+last_review: 20250329073608533
 modified: 20241126062640275
-reps: 2
-revision: 0
-scheduled_days: 60
-stability: 59.99299925377924
+reps: 3
+scheduled_days: 620
+stability: 619.6490784622727
 state: 2
 tags: 入门问题 ?
 title: 太记手机电脑同步探索

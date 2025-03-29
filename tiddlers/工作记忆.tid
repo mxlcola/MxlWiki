@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241123134621926
 creator: mxlcola
-difficulty: 3.148
-due: 20250131120329508
-elapsed_days: 8.903107268518518
+difficulty: 2.31442
+due: 20261209073544758
+elapsed_days: 116.81406539351852
 lapses: 0
-last_review: 20241202120329508
+last_review: 20250329073544758
 modified: 20241124013255369
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 60
-stability: 59.837130923670394
+reps: 3
+scheduled_days: 620
+stability: 619.538972650777
 state: 2
 tags: 渐进学习 ?
 title: 工作记忆

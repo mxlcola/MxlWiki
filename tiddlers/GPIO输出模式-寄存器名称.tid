@@ -1,20 +1,20 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241211132358590
 creator: mxlcola
-difficulty: 3.9994
-due: 20250201085142316
-elapsed_days: 14.341439189814816
+difficulty: 3.157306
+due: 20260621073805285
+elapsed_days: 92.94887695601852
 lapses: 0
-last_review: 20241226085142316
+last_review: 20250329073805285
 modified: 20241226085141659
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 37
-stability: 37.47587765353479
+reps: 3
+scheduled_days: 449
+stability: 449.398048904437
 state: 2
 tags: GPIO基础认识 ?
 title: GPIO输出模式-寄存器名称
+type: text/vnd.tiddlywiki
 
 typedef enum//引脚模式输出定义，注意一个细节，所有枚举值都未使用低两位
 

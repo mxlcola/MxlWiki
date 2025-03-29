@@ -1,16 +1,17 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250327134305327
 difficulty: 4.93
-due: 20250327135328358
-elapsed_days: 0
+due: 20250401073535510
+elapsed_days: 1.744527199074074
 lapses: 0
-last_review: 20250327134328358
+last_review: 20250329073535510
 modified: 20250327134327234
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 寄存器 ?
 title: LR寄存器
+type: text/vnd.tiddlywiki
 
 LR (Link Register): 链接寄存器，保存了异常发生前的返回地址

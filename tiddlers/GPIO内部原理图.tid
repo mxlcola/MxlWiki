@@ -1,17 +1,17 @@
-annotate-colour: green
+annotate-colour: red
 created: 20241209123010589
-difficulty: 5.0084079999999975
-due: 20250131085204647
-elapsed_days: 14.343373275462962
-lapses: 0
-last_review: 20241226085204647
+difficulty: 6.710423919999997
+due: 20250329074100861
+elapsed_days: 92.94717836805556
+lapses: 1
+last_review: 20250329073600861
 modified: 20241209123143686
-reps: 4
-revision: 0
-scheduled_days: 36
-stability: 35.83659999107685
-state: 2
+reps: 5
+scheduled_days: 0
+stability: 6.420900761099484
+state: 3
 tags: GPIO ?
 title: GPIO内部原理图
+type: text/vnd.tiddlywiki
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209203031366.png" alt="image-20241209203031366" style="zoom:50%;" />
