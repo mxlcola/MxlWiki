@@ -6,15 +6,16 @@ due: 20250326035526357
 elapsed_days: 14.617065844907408
 lapses: 0
 last_review: 20241226035526357
-modified: 20241210135454093
+modified: 20250330031425464
 modifier: mxlcola
 reps: 2
-revision: 0
 scheduled_days: 90
 stability: 89.84742436117985
 state: 2
 tags: 寄存器 ?
 title: 是如何通过控制寄存器操作硬件的？
+
+通过[[指针]]，操作寄存器的内容
 
 !! 寄存器控制电灯为例
 
