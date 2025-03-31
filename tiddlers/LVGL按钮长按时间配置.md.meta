@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241126021727678
-difficulty: 4.000191999999999
-due: 20250209003527418
-elapsed_days: 9.52073960648148
+difficulty: 3.1580900799999996
+due: 20260910003813321
+elapsed_days: 109.00192019675926
 lapses: 0
-last_review: 20241212003527418
+last_review: 20250331003813321
 modified: 20250223080044677
-reps: 3
-scheduled_days: 59
-stability: 58.65925891832373
+reps: 4
+scheduled_days: 528
+stability: 527.9711601942039
 state: 2
 tags: LVGL ?
 title: LVGL按钮长按时间配置

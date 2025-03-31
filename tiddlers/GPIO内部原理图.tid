@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: dodgerblue
 created: 20241209123010589
 difficulty: 6.710423919999997
-due: 20250329074100861
-elapsed_days: 92.94717836805556
+due: 20250407003737529
+elapsed_days: 1.7094521875
 lapses: 1
-last_review: 20250329073600861
+last_review: 20250331003737529
 modified: 20241209123143686
-reps: 5
-scheduled_days: 0
+reps: 6
+scheduled_days: 7
 stability: 6.420900761099484
-state: 3
+state: 2
 tags: GPIO ?
 title: GPIO内部原理图
 type: text/vnd.tiddlywiki

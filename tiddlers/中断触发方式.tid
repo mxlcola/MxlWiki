@@ -1,6 +1,16 @@
+annotate-colour: green
 created: 20250330030551243
-modified: 20250330030656693
-tags: 什么是中断？
+difficulty: 4.93
+due: 20250331004716819
+elapsed_days: 0
+lapses: 0
+last_review: 20250331003716819
+modified: 20250331003716398
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: 什么是中断？ ?
 title: 中断触发方式
 
 中断触发方式

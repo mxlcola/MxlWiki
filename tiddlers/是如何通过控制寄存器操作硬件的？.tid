@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241210134513233
 creator: mxlcola
-difficulty: 3.148
-due: 20250326035526357
-elapsed_days: 14.617065844907408
+difficulty: 2.31442
+due: 20260923003646412
+elapsed_days: 94.86203768518519
 lapses: 0
-last_review: 20241226035526357
+last_review: 20250331003646412
 modified: 20250330031425464
 modifier: mxlcola
-reps: 2
-scheduled_days: 90
-stability: 89.84742436117985
+reps: 3
+scheduled_days: 541
+stability: 541.3285886756054
 state: 2
 tags: 寄存器 ?
 title: 是如何通过控制寄存器操作硬件的？
