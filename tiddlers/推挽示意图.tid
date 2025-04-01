@@ -1,15 +1,14 @@
 annotate-colour: green
 created: 20241209114359606
-difficulty: 5.789913999999999
-due: 20250220011447057
-elapsed_days: 0.9689857291666667
+difficulty: 5.781314859999998
+due: 20250528003826670
+elapsed_days: 43.97476405092593
 lapses: 1
-last_review: 20250216011447057
+last_review: 20250401003826670
 modified: 20241209114551627
-reps: 6
-revision: 1
-scheduled_days: 4
-stability: 4.24871932318589
+reps: 7
+scheduled_days: 57
+stability: 56.654646527027644
 state: 2
 tags: GPIO基础认识 ?
 title: 推挽示意图

@@ -1,16 +1,15 @@
 annotate-colour: dodgerblue
 created: 20241209120717020
-difficulty: 3.148
-due: 20250219071411745
-elapsed_days: 9.273514756944444
+difficulty: 2.31442
+due: 20261013003820339
+elapsed_days: 102.72509947916667
 lapses: 0
-last_review: 20241219071411745
+last_review: 20250401003820339
 modified: 20241210133628478
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 62
-stability: 61.88482914988964
+reps: 3
+scheduled_days: 560
+stability: 559.7593660663919
 state: 2
 tags: 开漏输出模式 上拉电阻 下拉电阻 ?
 title: 上下拉电阻的作用？输入给一个确定的状态

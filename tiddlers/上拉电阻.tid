@@ -1,15 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241129130729498
-difficulty: 3.148
-due: 20250219070903899
-elapsed_days: 9.270005266203704
+difficulty: 2.31442
+due: 20261013003811215
+elapsed_days: 102.72855688657407
 lapses: 0
-last_review: 20241219070903899
+last_review: 20250401003811215
 modified: 20241210003943292
-reps: 2
-revision: 0
-scheduled_days: 62
-stability: 61.865497419531614
+reps: 3
+scheduled_days: 560
+stability: 559.7626413943464
 state: 2
 tags: GPIO ?
 title: 上拉电阻

@@ -1,16 +1,15 @@
 annotate-colour: dodgerblue
 created: 20241209120153180
-difficulty: 3.148
-due: 20250219070851981
-elapsed_days: 9.269947974537038
+difficulty: 2.31442
+due: 20261013003814794
+elapsed_days: 102.72873627314814
 lapses: 0
-last_review: 20241219070851981
+last_review: 20250401003814794
 modified: 20241210133628478
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 62
-stability: 61.865181822269996
+reps: 3
+scheduled_days: 560
+stability: 559.7632356291515
 state: 2
 tags: 开漏输出模式 ? 上拉电阻 下拉电阻
 title: 没有上下拉电阻导致的短路

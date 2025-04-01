@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250109113320022
-difficulty: 3.9899999999999998
-due: 20250223123011268
-elapsed_days: 0
+difficulty: 3.148
+due: 20251017003958469
+elapsed_days: 42.50679630787037
 lapses: 0
-last_review: 20250217123011268
+last_review: 20250401003958469
 modified: 20250109113541478
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 199
+stability: 199.01468148554034
 state: 2
 tags: I2S ?
 title: I2S基本信号
