@@ -1,5 +1,15 @@
+annotate-colour: dodgerblue
 created: 20250326141005384
+difficulty: 3.9899999999999998
+due: 20250411054801821
+elapsed_days: 0
+lapses: 0
+last_review: 20250405054801821
 modified: 20250326141312818
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: HardFault问题 ? MSP PSP
 title: 分析 HardFault_Handler 硬件中断一般步骤
 type: text/markdown

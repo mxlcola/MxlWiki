@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241104145331275
 creator: mxlcola
-difficulty: 3.157306
-due: 20250403042453549
-elapsed_days: 19.591536261574074
+difficulty: 3.1750329400000004
+due: 20260313054646417
+elapsed_days: 125.05686190972222
 lapses: 0
-last_review: 20241201042453549
+last_review: 20250405054646417
 modified: 20241104145550843
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 123
-stability: 123.23135262793087
+reps: 4
+scheduled_days: 342
+stability: 341.65684614869025
 state: 2
 tags: 栈 ?
 title: 堆和栈方向之说？

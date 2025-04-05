@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241211131435433
 creator: mxlcola
-difficulty: 3.148
-due: 20250324085103435
-elapsed_days: 14.342215451388888
+difficulty: 2.31442
+due: 20261020054308202
+elapsed_days: 99.86949960648148
 lapses: 0
-last_review: 20241226085103435
+last_review: 20250405054308202
 modified: 20241211132054316
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 88
-stability: 88.47791869595437
+reps: 3
+scheduled_days: 563
+stability: 562.8434248118169
 state: 2
 tags: GPIO寄存器 ?
 title: 数据寄存器：GPIOx_IDR、GPIOx_ODR

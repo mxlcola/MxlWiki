@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241110132616300
 creator: mxlcola
-difficulty: 3.2357139999999993
-due: 20250401120344507
-elapsed_days: 19.512410150462962
+difficulty: 2.4012568599999997
+due: 20270214054520736
+elapsed_days: 123.73722486111112
 lapses: 0
-last_review: 20241202120344507
+last_review: 20250405054520736
 modified: 20241112234541037
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 120
-stability: 119.95293221361494
+reps: 5
+scheduled_days: 680
+stability: 679.9660350898153
 state: 2
 tags: ? 入门问题 如何保存
 title: 在桌面端和移动端直接同步数据

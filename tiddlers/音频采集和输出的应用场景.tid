@@ -1,6 +1,15 @@
+annotate-colour: green
 created: 20250109113132122
+difficulty: 4.93
+due: 20250405055841378
+elapsed_days: 0
+lapses: 0
+last_review: 20250405054841378
 modified: 20250215142026679
-revision: 0
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
 tags: I2S ? ADC DAC
 title: 音频采集和输出的应用场景
 

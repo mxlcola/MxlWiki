@@ -1,15 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: orange
 created: 20241204111505528
-difficulty: 4.078599999999999
-due: 20250329085200590
-elapsed_days: 17.029891041666666
+difficulty: 4.938513999999999
+due: 20250822054431758
+elapsed_days: 99.86980518518519
 lapses: 0
-last_review: 20241226085200590
+last_review: 20250405054431758
 modified: 20241204112057057
-reps: 4
-revision: 0
-scheduled_days: 93
-stability: 92.68746203362761
+reps: 5
+scheduled_days: 139
+stability: 138.98145901152213
 state: 2
 tags: ? PWM
 title: 如何配置一个PWM信号，频率为1kHz，占空比为50%？

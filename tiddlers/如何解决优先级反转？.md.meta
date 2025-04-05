@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241126130105517
-difficulty: 4.86862
-due: 20250302080725429
-elapsed_days: 0.00546943287037037
+difficulty: 4.017833799999999
+due: 20250927054107701
+elapsed_days: 40.8984059375
 lapses: 1
-last_review: 20250223080725429
+last_review: 20250405054107701
 modified: 20241126130246738
-reps: 4
-scheduled_days: 7
-stability: 6.719491920088726
+reps: 5
+scheduled_days: 175
+stability: 175.24452734137023
 state: 2
 tags: 信号量 ?
 title: 如何解决优先级反转？

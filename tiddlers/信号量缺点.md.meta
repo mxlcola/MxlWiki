@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20241126124600171
-difficulty: 4.86862
-due: 20250307124920221
-elapsed_days: 5.1963501273148145
+difficulty: 4.8692338
+due: 20250609054234754
+elapsed_days: 35.70364043981481
 lapses: 1
-last_review: 20250228124920221
+last_review: 20250405054234754
 modified: 20250219035220817
-reps: 5
-scheduled_days: 7
-stability: 6.719548762167205
+reps: 6
+scheduled_days: 65
+stability: 65.18518217417225
 state: 2
 tags: 互斥量 ? 信号量 同步
 title: 信号量缺点

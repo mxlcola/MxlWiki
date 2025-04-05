@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250326135921479
-difficulty: 4.93
-due: 20250331073500406
-elapsed_days: 2.1749373842592594
+difficulty: 4.078599999999999
+due: 20250516054445095
+elapsed_days: 6.9234338541666665
 lapses: 0
-last_review: 20250329073500406
+last_review: 20250405054445095
 modified: 20250326140247080
-reps: 3
-scheduled_days: 2
-stability: 2.4
+reps: 4
+scheduled_days: 41
+stability: 40.65111539534343
 state: 2
 tags: HardFault问题 ?
 title: 查看 LR 寄存器中的值，确定当时使用堆栈为 MSP 还是 PSP

@@ -1,6 +1,15 @@
+annotate-colour: dodgerblue
 created: 20241219122206316
+difficulty: 3.9899999999999998
+due: 20250411054727432
+elapsed_days: 0
+lapses: 0
+last_review: 20250405054727432
 modified: 20241219122454716
-revision: 0
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: 串口 ? RS232 RS485
 title: 串口硬件电路
 

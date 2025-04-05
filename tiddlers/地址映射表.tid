@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241210142347005
 creator: mxlcola
-difficulty: 3.148
-due: 20250326035459295
-elapsed_days: 14.61714443287037
+difficulty: 2.31442
+due: 20261022054354728
+elapsed_days: 100.07564157407407
 lapses: 0
-last_review: 20241226035459295
+last_review: 20250405054354728
 modified: 20241210143150060
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 90
-stability: 89.84781492457064
+reps: 3
+scheduled_days: 565
+stability: 564.5730656812259
 state: 2
 tags: 地址映射 ?
 title: 地址映射表

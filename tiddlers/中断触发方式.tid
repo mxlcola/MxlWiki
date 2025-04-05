@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250330030551243
-difficulty: 4.93
-due: 20250403032121748
-elapsed_days: 0.11394592592592592
+difficulty: 4.078599999999999
+due: 20250507054631023
+elapsed_days: 5.100801793981481
 lapses: 0
-last_review: 20250331032121748
+last_review: 20250405054631023
 modified: 20250331003716398
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 32
+stability: 31.758162900292106
 state: 2
 tags: 什么是中断？ ?
 title: 中断触发方式

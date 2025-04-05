@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241101150435923
 creator: mxlcola
-difficulty: 3.2357139999999993
-due: 20250402000614170
-elapsed_days: 20.494429166666666
+difficulty: 2.4012568599999997
+due: 20270318054610477
+elapsed_days: 130.23606836805556
 lapses: 0
-last_review: 20241126000614170
+last_review: 20250405054610477
 modified: 20241214112104994
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 127
-stability: 126.80249841503405
+reps: 5
+scheduled_days: 712
+stability: 711.8125601449116
 state: 2
 tags: 笔记软件思考 ?
 title: 笔记本地化基本需求
