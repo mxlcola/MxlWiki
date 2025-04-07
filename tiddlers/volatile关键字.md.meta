@@ -1,15 +1,15 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20250217143639428
 difficulty: 5.869999999999999
-due: 20250405055650902
-elapsed_days: 0
+due: 20250409142427390
+elapsed_days: 2.3559778472222224
 lapses: 0
-last_review: 20250405055150902
+last_review: 20250407142427390
 modified: 20250217143854500
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 2
 stability: 0.6
-state: 1
+state: 2
 tags: 关键字 ?
 title: volatile关键字
 type: text/markdown
