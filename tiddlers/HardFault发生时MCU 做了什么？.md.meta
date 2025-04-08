@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20250327085731907
-difficulty: 6.81
-due: 20250406055156016
-elapsed_days: 0.0007956712962962963
+difficulty: 6.791199999999999
+due: 20250413003950598
+elapsed_days: 2.783270625
 lapses: 0
-last_review: 20250405055156016
+last_review: 20250408003950598
 modified: 20250327085810821
-reps: 2
-scheduled_days: 1
-stability: 0.4
+reps: 3
+scheduled_days: 5
+stability: 4.683126767402484
 state: 2
 tags: HardFault问题 ?
 title: HardFault发生时MCU 做了什么？

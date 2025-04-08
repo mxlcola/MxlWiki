@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: dodgerblue
 created: 20250217142635945
 difficulty: 4.93
-due: 20250407143019828
-elapsed_days: 2.358715023148148
+due: 20250411003850197
+elapsed_days: 0.4260459375
 lapses: 0
-last_review: 20250407142519828
+last_review: 20250408003850197
 modified: 20250217143029715
-reps: 2
-scheduled_days: 0
+reps: 3
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 指针 ?
 title: 指针变量
 type: text/markdown
