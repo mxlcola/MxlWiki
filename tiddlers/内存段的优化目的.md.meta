@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250407143749782
 difficulty: 4.93
-due: 20250408005228924
-elapsed_days: 0
+due: 20250412023248399
+elapsed_days: 1.0766142939814816
 lapses: 0
-last_review: 20250408004228924
+last_review: 20250409023248399
 modified: 20250407143821221
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 内存段 ?
 title: 内存段的优化目的
 type: text/markdown

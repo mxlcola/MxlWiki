@@ -1,15 +1,15 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20250407143915538
 difficulty: 5.869999999999999
-due: 20250408004748934
-elapsed_days: 0
+due: 20250411023230148
+elapsed_days: 1.0761714351851852
 lapses: 0
-last_review: 20250408004248934
+last_review: 20250409023230148
 modified: 20250407143942817
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 2
 stability: 0.6
-state: 1
+state: 2
 tags: 内存段 ?
 title: 嵌入式系统中的内存布局
 type: text/markdown
