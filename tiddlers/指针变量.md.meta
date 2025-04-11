@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250217142635945
-difficulty: 4.93
-due: 20250411003850197
-elapsed_days: 0.4260459375
+difficulty: 4.078599999999999
+due: 20250502003500574
+elapsed_days: 2.997342337962963
 lapses: 0
-last_review: 20250408003850197
+last_review: 20250411003500574
 modified: 20250217143029715
-reps: 3
-scheduled_days: 3
-stability: 2.4
+reps: 4
+scheduled_days: 21
+stability: 20.51324171745627
 state: 2
 tags: 指针 ?
 title: 指针变量
