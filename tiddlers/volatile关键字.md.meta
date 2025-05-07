@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250217143639428
-difficulty: 5.869999999999999
-due: 20250409142427390
-elapsed_days: 2.3559778472222224
-lapses: 0
-last_review: 20250407142427390
+difficulty: 7.563399999999999
+due: 20250413003334512
+elapsed_days: 1.91633625
+lapses: 1
+last_review: 20250411003334512
 modified: 20250217143854500
-reps: 2
+reps: 4
 scheduled_days: 2
-stability: 0.6
+stability: 0.45513388602826693
 state: 2
 tags: 关键字 ?
 title: volatile关键字

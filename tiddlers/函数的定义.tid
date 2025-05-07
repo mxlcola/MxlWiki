@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250227141419333
 difficulty: 4.93
-due: 20250410142510655
-elapsed_days: 2.358986284722222
+due: 20250421003417059
+elapsed_days: 3.422990775462963
 lapses: 0
-last_review: 20250407142510655
+last_review: 20250411003417059
 modified: 20250227141509637
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 10
+stability: 10.246659394773937
 state: 2
 tags: 第七章：函数 ?
 title: 函数的定义

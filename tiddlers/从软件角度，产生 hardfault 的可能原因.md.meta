@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20250326134944426
 difficulty: 4.93
-due: 20250409142505622
-elapsed_days: 2.359149097222222
+due: 20250415023424196
+elapsed_days: 1.5064649537037038
 lapses: 0
-last_review: 20250407142505622
+last_review: 20250409023424196
 modified: 20250326135110881
-reps: 2
-scheduled_days: 2
-stability: 2.4
+reps: 3
+scheduled_days: 6
+stability: 6.014084654429836
 state: 2
 tags: HardFault问题 ?
 title: 从软件角度，产生 hardfault 的可能原因

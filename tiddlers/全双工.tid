@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241219121631795
-difficulty: 3.9899999999999998
-due: 20250411054824299
-elapsed_days: 0
+difficulty: 3.9994
+due: 20250501003549153
+elapsed_days: 5.782926539351852
 lapses: 0
-last_review: 20250405054824299
+last_review: 20250411003549153
 modified: 20250311144858615
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 20
+stability: 19.662994465748007
 state: 2
 tags: 串口 ?
 title: 全双工
