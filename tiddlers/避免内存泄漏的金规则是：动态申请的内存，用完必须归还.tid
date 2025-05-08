@@ -1,0 +1,41 @@
+created: 20250508151508860
+modified: 20250508151724936
+tags: 内存泄露 野指针
+title: 避免内存泄漏的金规则是：动态申请的内存，用完必须归还
+
+```c
+#include <stdlib.h>
+
+int main() {
+    int *p = malloc(sizeof(int)); // 动态分配内存
+    *p = 10; // 使用内存
+    
+    // ...做一些操作
+    
+    free(p); // 用完归还内存
+    p = NULL; // 避免野指针
+    return 0;
+}
+
+
+```
+!! 更复杂的数据结构，比如链表，记得每个节点用完后都要归还：
+```c
+typedef struct Node {
+    int value;
+    struct Node *next;
+} Node;
+
+// 假设你已经创建了一个链表...
+
+// 删除链表，归还每个节点占用的内存
+void deleteList(Node *head) {
+    Node *temp;
+    while (head != NULL) {
+        temp = head;
+        head = head->next;
+        free(temp);
+    }
+}
+
+```
