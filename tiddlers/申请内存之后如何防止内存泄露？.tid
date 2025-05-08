@@ -1,0 +1,12 @@
+created: 20250508150800346
+modified: 20250508150957491
+tags: 内存泄露
+title: 申请内存之后如何防止内存泄露？
+
+# 处理分配失败：当内存分配失败时，malloc, calloc, 或 realloc 会返回 NULL。因此，总是检查返回值以确保分配成功。
+# ''释放内存：不管是用 malloc, calloc 还是 realloc 分配的内存，最后都必须通过调用 free 来释放。''
+# 避免内存泄漏：在调用 realloc 之后，如果分配成功，原始指针会失效，新的内存地址会被返回。如果这个地址被分配到另一个指针，而原始指针没有及时更新，就可能出现内存泄漏。
+# realloc(NULL, size) 的行为：如果 realloc 的第一个参数是 NULL，那么它的行为等同于 malloc(size)。
+# realloc(ptr, 0) 的行为：如果 realloc 的第二个参数是 0，行为是实现定义的；在某些实现中，它可能等同于 free(ptr)。
+# 初始值：malloc 不会初始化内存，而 calloc 会初始化分配的内存为零。realloc 保留原有内存内容，但新分配的内存不会初始化
+

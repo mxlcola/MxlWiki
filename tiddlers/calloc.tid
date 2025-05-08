@@ -1,0 +1,15 @@
+created: 20250508150506188
+modified: 20250508150602477
+tags: 内存分配
+title: calloc
+
+calloc 分配一块连续的内存块，其大小为 num 个元素，每个元素的大小为 size，通常用于数组的分配。关键点在于 calloc 会初始化分配的内存，将其所有位都设置为 0。
+
+```c
+// 分配一个包含100个int的数组，并将每个元素初始化为0。
+int *array = (int *)calloc(100, sizeof(int));
+
+if (array == NULL) {
+    // 处理分配失败的情况
+}
+```

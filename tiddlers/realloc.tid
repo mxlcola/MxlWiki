@@ -1,0 +1,23 @@
+created: 20250508150616554
+modified: 20250508150725806
+tags: 内存分配
+title: realloc
+
+realloc 用于更改之前使用 malloc, calloc, 或 realloc 分配的内存块的大小。如果新的大小大于原始大小，则新分配的内存不会被初始化；如果新的大小小于原始大小，则可能会丢失数据。
+
+```c
+// 假设ptr之前已经通过malloc或calloc分配了内存。
+int *ptr = (int *)malloc(100 * sizeof(int));
+
+if (ptr == NULL) {
+    // 处理分配失败的情况
+}
+
+// 更改ptr所指向的内存块的大小为200个int。
+ptr = (int *)realloc(ptr, 200 * sizeof(int));
+
+if (ptr == NULL) {
+    // 处理重新分配失败的情况
+}
+
+```

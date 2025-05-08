@@ -1,0 +1,7 @@
+created: 20250508150317506
+modified: 20250508151130914
+tags: 内存泄露 malloc
+title: 内存申请相关的函数
+wysiwyg: yes
+
+在c语言中，与内存申请相关的函数主要有三个[[malloc]], [[calloc]] ,[[realloc]], 这三个函数都是来自标准库stdlib.h 中，其中malloc最为常用
