@@ -1,0 +1,25 @@
+created: 20250508083230201
+modified: 20250508083953980
+tags: lvgl内存泄漏 lvgl样式
+title: 界面切换内存泄漏
+
+!! 问题
+
+在lvgl中，当两个页面之间互相切换时，先将第一个页面的控件全部删除，在创建新页面的控件，但是有时执行后会发现会出现内存泄漏：两个页面来回切换，内存占用不断提高，直到卡死。
+
+!! 解决办法
+
+每次在页面切换时，使用接口将style其释放
+解决代码：
+取消注释event_handler中的lv_style_reset(&style);
+
+
+!! 总结
+
+* 造成内存泄露的核心原因是用户创建的style没有释放，因此在页面切换时不要忘记释放用户定义的style
+* 如果这个style修饰了多个对象，切换界面时释放style仍然会造成内存泄漏，因此在动态界面切换过程中，一个style最好只用来修饰一个界面，除非你知道你正在做什么
+* lvgl的style注释中也详细交代了Do not call lv_style_init on styles that already have some properties because this function won't free the used memory, just sets a default state for the style. In other words be sure to initialize styles only once!
+* 在开发阶段可以尽量多的依赖lvgl的调试宏开关
+* ·#define LV_USE_LOG 1 开启log开关
+* ·#define LV_USE_ASSERT_MALLOC 1 如果内存耗尽，会进入断言
+* ·define LV_USE_ASSERT_STYLE 1 如果出现了style重新初始化，会打印log提醒（本文核心）
