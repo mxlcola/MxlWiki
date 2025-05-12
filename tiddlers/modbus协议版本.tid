@@ -1,0 +1,12 @@
+created: 20250512142518469
+modified: 20250512142617251
+tags: FreeModbus
+title: modbus协议版本
+
+包括[[Modbus RTU]]、Modbus ASCII、[[Modbus TCP/IP]]、Modbus UDP/IP等
+
+Modbus RTU与Modbus ASCII，都使用[[串口通讯协议]]，Modbus RTU使用''二进制格式''进行数据传输，通讯效率更高，Modbus ASCII使用ASCII码进行数据传输，可读性好，但通讯效率更低。
+
+Modbus TCP/IP是基于以太网的一种通讯方式，它将Modbus协议封装在TCP/IP协议栈中，通过以太网传输数据。具有高速、稳定的特点。
+
+Modbus UDP/IP是基于UDP/IP协议的一种通讯方式。与Modbus TCP/IP不同，Modbus UDP/IP采用无连接的通讯方式，不保证数据的可靠性和顺序。相比于Modbus TCP/IP，Modbus UDP/IP的通讯开销较小，可以减少网络负载。
