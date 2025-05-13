@@ -1,0 +1,6 @@
+created: 20250513073258582
+modified: 20250513074142761
+tags: FreeModbus
+title: modbus默认首选大端字节序
+
+modbus RTU协议首选也是大端协议
