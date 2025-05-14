@@ -5,11 +5,11 @@ due: 20250412023248399
 elapsed_days: 1.0766142939814816
 lapses: 0
 last_review: 20250409023248399
-modified: 20250407143821221
+modified: 20250514150326486
 reps: 2
 scheduled_days: 3
 stability: 2.4
 state: 2
-tags: 内存段 ?
+tags: 内存段 ? RAM ROM
 title: 内存段的优化目的
 type: text/markdown
