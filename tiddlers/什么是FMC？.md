@@ -1,0 +1,6 @@
+- **名称**：Flexible Memory Controller（灵活存储控制器）
+- **功能**：提供对**外部并行设备**（[[SRAM]]、NOR/NAND Flash、PSRAM、LCD等）的高效访问
+- **特点**：
+  - 并行总线接口，支持16/32位数据宽度
+  - 自动时序控制
+  - 高速访问，减少CPU负担
