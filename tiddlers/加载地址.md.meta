@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250407150604007
-difficulty: 5.939799999999999
-due: 20250415023313005
-elapsed_days: 1.0762833912037038
+difficulty: 5.929701999999999
+due: 20250707035958416
+elapsed_days: 36.060247824074075
 lapses: 0
-last_review: 20250409023313005
-modified: 20250407150635394
-reps: 3
-scheduled_days: 6
-stability: 5.729723646474725
+last_review: 20250515035958416
+modified: 20250515035957703
+reps: 4
+scheduled_days: 53
+stability: 53.31566405469357
 state: 2
 tags: ? flash
 title: 加载地址
