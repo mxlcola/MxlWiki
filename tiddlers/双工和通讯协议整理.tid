@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241219121922386
 difficulty: 3.148
-due: 20250620072951534
-elapsed_days: 10.070398888888889
+due: 20251119150051543
+elapsed_days: 39.3835934375
 lapses: 0
-last_review: 20250415072951534
+last_review: 20250514150051543
 modified: 20241219122103202
 reps: 2
-scheduled_days: 66
-stability: 66.24028161376285
+scheduled_days: 189
+stability: 189.18360548110073
 state: 2
 tags: 串口 ?
 title: 双工和通讯协议整理

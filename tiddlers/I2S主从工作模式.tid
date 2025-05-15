@@ -1,17 +1,17 @@
 annotate-colour: dodgerblue
 created: 20250109113556201
 difficulty: 3.148
-due: 20251113003425231
-elapsed_days: 37.78053892361111
+due: 20251119150215652
+elapsed_days: 39.383205833333335
 lapses: 0
-last_review: 20250513003425231
-modified: 20250109113805963
+last_review: 20250514150215652
+modified: 20250514150129138
 reps: 2
-scheduled_days: 184
-stability: 183.94436482784303
+scheduled_days: 189
+stability: 189.18235490019993
 state: 2
 tags: I2S ?
-title: 主从工作模式
+title: I2S主从工作模式
 
 I2S工作模式可以是[[主模式]]（Master Mode）或[[从模式]]（Slave Mode）。两者唯一的区别是：Master Mode提供时钟信号（[[SCK]]）和帧同步信号（LRCK）。如下图所示，一共存在三种工作模式，分别是：
 

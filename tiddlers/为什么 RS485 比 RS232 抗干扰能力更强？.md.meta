@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250311145813151
 difficulty: 3.148
-due: 20251113003404788
-elapsed_days: 37.781573888888886
+due: 20251119150107160
+elapsed_days: 39.38368467592593
 lapses: 0
-last_review: 20250513003404788
+last_review: 20250514150107160
 modified: 20250311145946317
 reps: 2
-scheduled_days: 184
-stability: 183.94779121909076
+scheduled_days: 189
+stability: 189.1838998551192
 state: 2
 tags: ?
 title: 为什么 RS485 比 RS232 抗干扰能力更强？
