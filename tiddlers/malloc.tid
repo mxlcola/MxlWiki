@@ -1,6 +1,16 @@
+annotate-colour: dodgerblue
 created: 20250508152030436
-modified: 20250508152149591
-tags: 指针
+difficulty: 3.9899999999999998
+due: 20250521053915201
+elapsed_days: 0
+lapses: 0
+last_review: 20250515053915201
+modified: 20250515053858087
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 指针 ?
 title: malloc
 
 ''因为malloc函数返回值是一个内存地址''，所以保存堆内存的变量一定得是一个指针，当然这个变量可以是一个单指针，也可以是一个多重指针。

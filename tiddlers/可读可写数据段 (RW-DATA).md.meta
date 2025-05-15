@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250407143323460
-difficulty: 3.9899999999999998
-due: 20250414004223456
-elapsed_days: 0
+difficulty: 3.148
+due: 20251113053919650
+elapsed_days: 37.206205949074075
 lapses: 0
-last_review: 20250408004223456
+last_review: 20250515053919650
 modified: 20250407143353647
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 182
+stability: 182.03407604014433
 state: 2
 tags: 段的概念 ?
 title: 可读可写数据段 (RW-DATA)
