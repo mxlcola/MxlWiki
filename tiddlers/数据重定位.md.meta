@@ -5,11 +5,11 @@ due: 20250727054004639
 elapsed_days: 37.20638443287037
 lapses: 0
 last_review: 20250515054004639
-modified: 20250407144639153
+modified: 20250515125847137
 reps: 2
 scheduled_days: 73
 stability: 73.32286301221673
 state: 2
-tags: ? 重定位 ROM RAM 变量
+tags: ? 重定位 变量
 title: 数据重定位
 type: text/markdown
