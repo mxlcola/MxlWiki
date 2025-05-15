@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250407143749782
-difficulty: 4.93
-due: 20250412023248399
-elapsed_days: 1.0766142939814816
+difficulty: 4.078599999999999
+due: 20250914003944114
+elapsed_days: 35.92147817129629
 lapses: 0
-last_review: 20250409023248399
+last_review: 20250515003944114
 modified: 20250514150326486
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 122
+stability: 121.5925054116238
 state: 2
 tags: 内存段 ? RAM ROM
 title: 内存段的优化目的

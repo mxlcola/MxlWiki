@@ -1,17 +1,17 @@
-annotate-colour: orange
+annotate-colour: red
 created: 20241209114647734
 creator: mxlcola
-difficulty: 9.894380770294001
-due: 20250413003344657
-elapsed_days: 1.9175810300925926
-lapses: 3
-last_review: 20250411003344657
+difficulty: 10
+due: 20250515004508722
+elapsed_days: 34.00444520833334
+lapses: 4
+last_review: 20250515004008722
 modified: 20241219071207393
 modifier: mxlcola
-reps: 9
-scheduled_days: 2
-stability: 1.8130586313088457
-state: 2
+reps: 10
+scheduled_days: 0
+stability: 1.9194098807338804
+state: 3
 tags: GPIO ?
 title: 开漏输出模式
 
