@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250109113132122
-difficulty: 4.078599999999999
-due: 20250504003421733
-elapsed_days: 3.4229933912037036
+difficulty: 3.2357139999999993
+due: 20251123022656876
+elapsed_days: 34.07818453703704
 lapses: 0
-last_review: 20250411003421733
+last_review: 20250515022656876
 modified: 20250215142026679
-reps: 3
-scheduled_days: 23
-stability: 22.879795416689017
+reps: 4
+scheduled_days: 192
+stability: 191.83353066104505
 state: 2
 tags: I2S ? ADC DAC
 title: 音频采集和输出的应用场景
