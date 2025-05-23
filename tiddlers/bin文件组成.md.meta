@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250407144908745
-difficulty: 3.9899999999999998
-due: 20250414004343603
-elapsed_days: 0
+difficulty: 3.148
+due: 20251117035349733
+elapsed_days: 38.13201538194444
 lapses: 0
-last_review: 20250408004343603
+last_review: 20250516035349733
 modified: 20250407144943570
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 185
+stability: 185.10468745542784
 state: 2
 tags: 内存段 ?
 title: bin文件组成
