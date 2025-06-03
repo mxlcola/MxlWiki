@@ -1,0 +1,11 @@
+created: 20250603110347694
+modified: 20250603110456447
+tags: lvgl样式
+title: 如何更改系统默认的焦点框
+
+应该设置 outline 部分，下面这两行代码的效果是一样的：
+
+```c
+lv_obj_set_style_outline_opa(btn, LV_OPA_0, LV_PART_MAIN | LV_STATE_FOCUS_KEY);
+lv_obj_set_style_outline_width(btn, 0, LV_PART_MAIN | LV_STATE_FOCUS_KEY);
+```
