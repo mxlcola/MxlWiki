@@ -1,19 +1,18 @@
 annotate-colour: dodgerblue
 created: 20241103024018478
 creator: mxlcola
-difficulty: 3.157306
-due: 20250416120439519
-elapsed_days: 21.9938021875
+difficulty: 2.3236329400000004
+due: 20280110013731742
+elapsed_days: 184.56449331018518
 lapses: 0
-last_review: 20241202120439519
-modified: 20241202120438865
+last_review: 20250605013731742
+modified: 20250605013731073
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 135
-stability: 135.0039683255204
+reps: 4
+scheduled_days: 949
+stability: 949.27610780587
 state: 2
-tags: 《教的更少，学得更多》-序言 ?
+tags: 《教的更少，学得更多》-序言 ? 双链
 title: 机械性学习
 
 机械式学习存储的是没有关联的资讯

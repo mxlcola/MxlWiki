@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: green
 created: 20250407144908745
 difficulty: 5.7021999999999995
-due: 20250515130411316
-elapsed_days: 37.510737407407404
+due: 20250608013630534
+elapsed_days: 20.525916875
 lapses: 1
-last_review: 20250515125911316
+last_review: 20250605013630534
 modified: 20250407144943570
-reps: 2
-scheduled_days: 0
+reps: 3
+scheduled_days: 3
 stability: 3.1657951574972927
-state: 3
+state: 2
 tags: 内存段 ?
 title: bin文件组成
 type: text/markdown
