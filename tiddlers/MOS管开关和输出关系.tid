@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: green
 created: 20241209114214446
-difficulty: 6.632714859999998
-due: 20250421003836211
-elapsed_days: 44.943921886574074
+difficulty: 6.615687711399998
+due: 20250911103235341
+elapsed_days: 68.41248991898148
 lapses: 1
-last_review: 20250401003836211
+last_review: 20250608103235341
 modified: 20241209114239168
-reps: 6
-scheduled_days: 20
-stability: 19.64281644749311
+reps: 7
+scheduled_days: 95
+stability: 94.87559620957781
 state: 2
 tags: GPIO ?
 title: MOS管开关和输出关系

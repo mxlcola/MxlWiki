@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: green
 created: 20250217143639428
-difficulty: 8.388466
-due: 20250518003953102
-elapsed_days: 34.00438185185185
+difficulty: 8.35388134
+due: 20250629103213790
+elapsed_days: 24.411350532407408
 lapses: 1
-last_review: 20250515003953102
+last_review: 20250608103213790
 modified: 20250217143854500
-reps: 5
-scheduled_days: 3
-stability: 3.40765008099109
+reps: 6
+scheduled_days: 21
+stability: 20.595857557691104
 state: 2
 tags: 关键字 ?
 title: volatile关键字
