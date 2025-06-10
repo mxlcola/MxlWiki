@@ -1,14 +1,14 @@
 annotate-colour: orange
 created: 20241126124919056
-difficulty: 5.7206338
-due: 20250428094527483
-elapsed_days: 39.074020520833336
+difficulty: 6.564127462
+due: 20250731053354994
+elapsed_days: 67.82531840277778
 lapses: 1
-last_review: 20250403094527483
+last_review: 20250610053354994
 modified: 20250223080710288
-reps: 5
-scheduled_days: 25
-stability: 24.752526721094267
+reps: 6
+scheduled_days: 51
+stability: 51.07520454126029
 state: 2
 tags: ? 信号量 同步
 title: 信号量优先级反转

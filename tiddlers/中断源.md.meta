@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20250330030443163
-difficulty: 3.9994
-due: 20250425054722541
-elapsed_days: 6.09423755787037
+difficulty: 4.008706
+due: 20251026053325409
+elapsed_days: 65.99031098379629
 lapses: 0
-last_review: 20250405054722541
-modified: 20250405054713942
-reps: 2
-scheduled_days: 20
-stability: 20.364658424540014
+last_review: 20250610053325409
+modified: 20250610053250716
+reps: 3
+scheduled_days: 138
+stability: 137.5731675186394
 state: 2
 tags: ? 中断
 title: 中断源

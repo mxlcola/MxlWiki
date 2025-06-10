@@ -1,16 +1,16 @@
-annotate-colour: orange
+annotate-colour: green
 created: 20241119135535087
 creator: mxlcola
-difficulty: 5.7206338
-due: 20250430094532113
-elapsed_days: 44.79971954861111
+difficulty: 5.712727461999999
+due: 20251005053428364
+elapsed_days: 67.82565108796297
 lapses: 1
-last_review: 20250403094532113
+last_review: 20250610053428364
 modified: 20241119135838233
 modifier: mxlcola
-reps: 5
-scheduled_days: 27
-stability: 26.546205910396374
+reps: 6
+scheduled_days: 117
+stability: 117.32562808553276
 state: 2
 tags: 信号量 ?
 title: 信号量的应用场景
