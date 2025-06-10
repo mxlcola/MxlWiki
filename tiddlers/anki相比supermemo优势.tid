@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241124121817099
 creator: mxlcola
-difficulty: 3.2357139999999993
-due: 20250501070811943
-elapsed_days: 22.150031631944444
+difficulty: 2.4012568599999997
+due: 20271121105752846
+elapsed_days: 173.15950118055557
 lapses: 0
-last_review: 20241219070811943
+last_review: 20250610105752846
 modified: 20241124122231344
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 133
-stability: 133.25814159256976
+reps: 5
+scheduled_days: 894
+stability: 893.8502686554016
 state: 2
 tags: anki supermemo ?
 title: anki相比supermemo优势

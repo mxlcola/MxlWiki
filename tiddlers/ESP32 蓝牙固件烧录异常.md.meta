@@ -1,15 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: red
 created: 20250219034439929
-difficulty: 4.078599999999999
-due: 20250504003425431
-elapsed_days: 3.4228628125
-lapses: 0
-last_review: 20250411003425431
+difficulty: 5.789913999999999
+due: 20250610110352809
+elapsed_days: 60.433650219907406
+lapses: 1
+last_review: 20250610105852809
 modified: 20250219034835921
-reps: 3
-scheduled_days: 23
-stability: 22.879076744662246
-state: 2
+reps: 4
+scheduled_days: 0
+stability: 5.2500726388162375
+state: 3
 tags: ESP32 蓝牙 电路原理 ?
 title: ESP32 蓝牙固件烧录异常
 type: text/markdown

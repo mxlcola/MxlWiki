@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20250326134739342
-difficulty: 3.9994
-due: 20250501054619975
-elapsed_days: 8.675030034722223
+difficulty: 4.008706
+due: 20251101105728360
+elapsed_days: 66.21606925925926
 lapses: 0
-last_review: 20250405054619975
-modified: 20250327082749617
-reps: 2
-scheduled_days: 26
-stability: 26.017953286295675
+last_review: 20250610105728360
+modified: 20250610105719498
+reps: 3
+scheduled_days: 144
+stability: 143.93204487883835
 state: 2
 tags: HardFault问题 ?
 title: hardfalt错误种类

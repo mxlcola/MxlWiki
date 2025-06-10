@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241124133639137
 creator: mxlcola
-difficulty: 3.2357139999999993
-due: 20250501070805353
-elapsed_days: 22.150028113425925
+difficulty: 3.252656859999999
+due: 20260809105732174
+elapsed_days: 173.15933824074074
 lapses: 0
-last_review: 20241219070805353
+last_review: 20250610105732174
 modified: 20241124134117597
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 133
-stability: 133.25820867099338
+reps: 5
+scheduled_days: 425
+stability: 424.6725528516447
 state: 2
 tags: ? GTD
 title: 摩尔定律

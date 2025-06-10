@@ -1,4 +1,11 @@
 {
+    "10591320": "{\"rating\":1,\"elapsed_days\":60.433650219907406,\"scheduled_days\":0,\"review\":\"20250610105852809\",\"state\":2}",
+    "105643543": "{\"rating\":2,\"elapsed_days\":63.42765028935185,\"scheduled_days\":52,\"review\":\"20250610105638549\",\"state\":2}",
+    "105730110": "{\"rating\":3,\"elapsed_days\":66.21606925925926,\"scheduled_days\":144,\"review\":\"20250610105728360\",\"state\":2}",
+    "105750251": "{\"rating\":3,\"elapsed_days\":173.15933824074074,\"scheduled_days\":425,\"review\":\"20250610105732174\",\"state\":2}",
+    "105758545": "{\"rating\":4,\"elapsed_days\":173.15950118055557,\"scheduled_days\":894,\"review\":\"20250610105752846\",\"state\":2}",
+    "105835777": "{\"rating\":3,\"elapsed_days\":90.84054253472222,\"scheduled_days\":205,\"review\":\"20250610105834319\",\"state\":2}",
+    "105850610": "{\"rating\":2,\"elapsed_days\":60.433067962962966,\"scheduled_days\":52,\"review\":\"20250610105837648\",\"state\":2}",
     "053200383": "{\"rating\":4,\"elapsed_days\":60.205848171296296,\"scheduled_days\":290,\"review\":\"20250610053143618\",\"state\":2}",
     "053214545": "{\"rating\":4,\"elapsed_days\":176.17946605324073,\"scheduled_days\":912,\"review\":\"20250610053202057\",\"state\":2}",
     "053329611": "{\"rating\":3,\"elapsed_days\":65.99031098379629,\"scheduled_days\":138,\"review\":\"20250610053325409\",\"state\":2}",

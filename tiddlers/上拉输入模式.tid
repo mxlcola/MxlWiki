@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: orange
 created: 20241210133440004
 creator: mxlcola
-difficulty: 4.8692338
-due: 20250501004049564
-elapsed_days: 7.888567453703704
+difficulty: 5.721241462
+due: 20250801105638549
+elapsed_days: 63.42765028935185
 lapses: 1
-last_review: 20250408004049564
-modified: 20241219071054871
+last_review: 20250610105638549
+modified: 20250610105637926
 modifier: mxlcola
-reps: 5
-scheduled_days: 23
-stability: 23.33761120447202
+reps: 6
+scheduled_days: 52
+stability: 52.19426099090268
 state: 2
 tags: GPIO八种模式 ?
 title: 上拉输入模式
@@ -18,8 +18,5 @@ title: 上拉输入模式
 ```c
 GPIO_Mode_IPU = 0x48, 				// 上拉输入 (0100 1000)b
 ```
-
-
-[[GPIO结构体GPIO_InitTypeDef GPIO_InitStructure]]
 
 [[上拉电阻]]
