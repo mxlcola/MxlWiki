@@ -1,19 +1,18 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241103123712599
 creator: mxlcola
-difficulty: 3.2357139999999993
-due: 20250508061235097
-elapsed_days: 25.751132465277777
+difficulty: 3.252656859999999
+due: 20260920110238131
+elapsed_days: 188.2014240162037
 lapses: 0
-last_review: 20241204061235097
-modified: 20241109011312399
+last_review: 20250610110238131
+modified: 20250610110237642
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 155
-stability: 154.969532440591
+reps: 5
+scheduled_days: 467
+stability: 466.5688650366723
 state: 2
-tags: 卡片笔记法 ?
+tags: 卡片笔记法 ? 目的是什么
 title: 卡片笔记法如何开始？
 
 先不要依赖于他人的经验和建议，而是''根据自己的需求''来

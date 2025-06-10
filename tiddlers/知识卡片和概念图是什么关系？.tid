@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241102134727271
 creator: mxlcola
-difficulty: 3.2357139999999993
-due: 20250508060806042
-elapsed_days: 25.747932314814815
+difficulty: 3.252656859999999
+due: 20260920110133418
+elapsed_days: 188.20378909722223
 lapses: 0
-last_review: 20241204060806042
+last_review: 20250610110133418
 modified: 20241102134842184
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 155
-stability: 154.9545119920165
+reps: 5
+scheduled_days: 467
+stability: 466.55964336663226
 state: 2
 tags: ? 笔记思考 卢曼笔记法
 title: 知识卡片和概念图是什么关系？
