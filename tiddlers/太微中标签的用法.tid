@@ -1,23 +1,22 @@
-annotate-colour: green
+annotate-colour: red
 created: 20241030141705048
 creator: 老乐
-difficulty: 3.16582
-due: 20250515085351506
-elapsed_days: 47.86224756944444
+difficulty: 4.8862618
+due: 20250612025907375
+elapsed_days: 167.75018369212964
 grade: -1
 history: []
 interval: 0
-lapses: 0
-last_review: 20241226085351506
+lapses: 1
+last_review: 20250612025407375
 modified: 20241031054210564
 modifier: 老乐
-reps: 3
+reps: 4
 retrievability: 1
 review: 20241031054210564
-revision: 0
-scheduled_days: 140
-stability: 139.96823610735743
-state: 2
+scheduled_days: 0
+stability: 10.44991856404191
+state: 3
 tags: 标签 ?
 title: 太微中标签的用法
 

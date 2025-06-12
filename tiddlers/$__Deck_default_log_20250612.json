@@ -6,5 +6,8 @@
     "003913318": "{\"rating\":4,\"elapsed_days\":1.5001326041666667,\"scheduled_days\":3,\"review\":\"20250612003910457\",\"state\":1}",
     "00393328": "{\"rating\":4,\"elapsed_days\":1.4646897685185185,\"scheduled_days\":3,\"review\":\"20250612003931780\",\"state\":1}",
     "003935341": "{\"rating\":4,\"elapsed_days\":1.4647512847222222,\"scheduled_days\":2,\"review\":\"20250612003933619\",\"state\":1}",
-    "00394474": "{\"rating\":4,\"elapsed_days\":1.4609585185185185,\"scheduled_days\":2,\"review\":\"20250612003937040\",\"state\":1}"
+    "00394474": "{\"rating\":4,\"elapsed_days\":1.4609585185185185,\"scheduled_days\":2,\"review\":\"20250612003937040\",\"state\":1}",
+    "025351486": "{\"rating\":4,\"elapsed_days\":1.552982025462963,\"scheduled_days\":3,\"review\":\"20250612025347371\",\"state\":1}",
+    "025404794": "{\"rating\":2,\"elapsed_days\":65.09283729166667,\"scheduled_days\":58,\"review\":\"20250612025353930\",\"state\":2}",
+    "025419942": "{\"rating\":1,\"elapsed_days\":167.75018369212964,\"scheduled_days\":0,\"review\":\"20250612025407375\",\"state\":2}"
 }
