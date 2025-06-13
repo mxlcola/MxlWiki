@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250330030239805
 difficulty: 4.93
-due: 20250610111113969
-elapsed_days: 0
+due: 20250615003905027
+elapsed_days: 1.5679520486111111
 lapses: 0
-last_review: 20250610110113969
+last_review: 20250612003905027
 modified: 20250610053311455
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: 单片机中断 ?
 title: 什么是中断？
 type: text/markdown
