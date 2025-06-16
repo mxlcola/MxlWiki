@@ -1,6 +1,17 @@
+annotate-colour: green
 created: 20250515033954024
-modified: 20250515070541415
+difficulty: 4.93
+due: 20250616111339979
+elapsed_days: 0
+lapses: 0
+last_review: 20250616110339979
+modified: 20250616110339199
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: ? DAC ADC
 title: 数字信号
 wysiwyg: yes
 
-数字信号是离散的信号，其取值只能在离散时间点上取特定值。数字信号可以用离散的数字表示，如0和1。数字信号可以通过数字通信方式进行传输，如计算机网络、数字电视等。
+数字信号是[离散信号，其取值只能在离散时间点上取特定值。数字信号可以用离散的数字表示，如0和1。数字信号可以通过数字通信方式进行传输，如计算机网络、数字电视等。
