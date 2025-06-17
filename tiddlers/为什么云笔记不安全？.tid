@@ -1,17 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241101150913443
 creator: mxlcola
-difficulty: 3.16582
-due: 20250515085455661
-elapsed_days: 47.86294075231481
+difficulty: 2.3320618000000004
+due: 20271209135000357
+elapsed_days: 173.20491547453705
 lapses: 0
-last_review: 20241226085455661
+last_review: 20250617135000357
 modified: 20241102104114413
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 140
-stability: 139.9694261398574
+reps: 4
+scheduled_days: 905
+stability: 905.0212757255865
 state: 2
 tags: 笔记软件思考 笔记安全 ?
 title: 为什么云笔记不安全？

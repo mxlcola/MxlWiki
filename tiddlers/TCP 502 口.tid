@@ -1,6 +1,6 @@
 created: 20250617115254359
-modified: 20250617115322488
-tags: TCP modbus
+modified: 20250617135507075
+tags: TCP modbus ?
 title: TCP 502 口
 
 TCP 502 口的侦听是为 MODBUS 通信保留的。

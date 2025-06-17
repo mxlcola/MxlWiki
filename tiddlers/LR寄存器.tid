@@ -1,15 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: red
 created: 20250327134305327
-difficulty: 4.078599999999999
-due: 20250516054514533
-elapsed_days: 6.923368321759259
-lapses: 0
-last_review: 20250405054514533
+difficulty: 5.789913999999999
+due: 20250617135722085
+elapsed_days: 73.33828186342592
+lapses: 1
+last_review: 20250617135222085
 modified: 20250327134327234
-reps: 3
-scheduled_days: 41
-stability: 40.65080875106029
-state: 2
+reps: 4
+scheduled_days: 0
+stability: 6.404181500926534
+state: 3
 tags: 寄存器 ?
 title: LR寄存器
 type: text/vnd.tiddlywiki

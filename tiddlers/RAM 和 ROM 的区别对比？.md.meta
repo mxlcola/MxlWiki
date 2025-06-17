@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: orange
 created: 20250514150719370
-difficulty: 4.93
-due: 20250518053802488
-elapsed_days: 0.07507944444444445
+difficulty: 5.7814
+due: 20250702135232214
+elapsed_days: 33.34339958333333
 lapses: 0
-last_review: 20250515053802488
+last_review: 20250617135232214
 modified: 20250515034829641
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 15
+stability: 15.153667349398617
 state: 2
 tags: ? RAM ROM
 title: RAM 和 ROM 的区别对比？

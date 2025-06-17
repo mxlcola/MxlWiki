@@ -1,8 +1,8 @@
 created: 20250617115924954
-modified: 20250617120057693
+modified: 20250617135531788
 tags: Freemodbus-TCP
 title: TCP信号发送
 
-在自己的网卡接收函数中发送modbus事件信号，( void )xMBPortEventPost( EV_FRAME_RECEIVED );表达设备收到TCP数据。
+在自己的网卡接收函数中发送modbus事件信号，''( void )xMBPortEventPost( EV_FRAME_RECEIVED )'';表达设备收到TCP数据。
 
 在自己的程序任务或者是while(1){}中调用eMBPoll();进行TCP事件获取，xMBPortEventGet( &eEvent ) == TRUE ；当收到TCP数据之后就可以对应启动xFuncHandlers.pxHandler对应的命令码功能函数

@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250613114532096
 difficulty: 4.93
-due: 20250613115632260
-elapsed_days: 0
+due: 20250620134853649
+elapsed_days: 4.084969780092592
 lapses: 0
-last_review: 20250613114632260
-modified: 20250613114607453
-reps: 1
-scheduled_days: 0
+last_review: 20250617134853649
+modified: 20250617134852915
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
-tags: 积极休息 ? 清空
+state: 2
+tags: 积极休息 ? 清空 专注 心流
 title: 积极的休息方式需要满足的两个条件？
 
 一是需要跟工作全然不同，这样才能让我们从工作的场景中抽离出来，暂时「清空」后台，避免它们继续在后台堆积； 
