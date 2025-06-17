@@ -1,0 +1,6 @@
+created: 20250617112101464
+modified: 20250617112152539
+tags: Freemodbus-TCP TCP ?
+title: ModbusTCP的数据帧
+
+ModbusTCP的数据帧可分为两部分：[[报文头(MBAP)]]+帧结构(PDU)，所以数据格式与[[RTU]]也是不一样的，由于是基于以太网TCP通讯，所以相对于RTU，也少了数据最后面的CRC校验。

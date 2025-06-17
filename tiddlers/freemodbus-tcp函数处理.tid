@@ -1,0 +1,12 @@
+created: 20250617112340119
+modified: 20250617112409443
+tags: Freemodbus-TCP
+title: freemodbus-tcp函数处理
+
+ 在自己的主程序中调用初始化函数eMBTCPInit(NULL);与eMBEnable();并修改内部相关接口。
+
+主要有eMBTCPStart;eMBTCPStop;eMBTCPReceive;eMBTCPSend;如果一直启动ModBus通讯，前面两个函数可以不用改。
+
+在eMBTCPReceive中的xMBTCPPortGetRequest( &pucMBTCPFrame, &usLength )中添加自己的网卡接收到的TCP数据指针与接收到的TCP数据长度。
+
+在eMBTCPSend中的xMBTCPPortSendResponse( pucMBTCPFrame, usTCPLength )中添加自己的网卡发送函数，数据指针为pucMBTCPFrame，长度为usTCPLength 。
