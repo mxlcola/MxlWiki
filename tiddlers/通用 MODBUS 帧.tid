@@ -1,0 +1,8 @@
+created: 20250617114649422
+modified: 20250617114757092
+tags: ?
+title: 通用 MODBUS 帧
+
+MODBUS 协议定义了一个与基础通信层无关的简单协议数据单元（PDU）。特定总线或网络上的 MODBUS 协议映射能够在应用数据单元（[[ADU]]）上引入一些附加域。
+
+[img[通用 MODBUS帧.png]]
