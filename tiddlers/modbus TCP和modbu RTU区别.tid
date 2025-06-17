@@ -1,0 +1,10 @@
+created: 20250617120357135
+modified: 20250617120534696
+tags: Freemodbus-TCP
+title: modbus TCP和modbu RTU区别
+
+【1】从机地址变得不再重要，多数情况下忽略。从某种意义上说从机地址被[[IP地址]]取代
+
+【2】CRC校验变得不再重要，甚至可以忽略。由于TCP数据包中已经存在校验，为了不重复造轮子，modbus TCP干脆取消了CRC校验。
+
+[img[TCP和RTU区别.png]]

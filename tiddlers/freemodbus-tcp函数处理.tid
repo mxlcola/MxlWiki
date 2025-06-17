@@ -1,5 +1,5 @@
 created: 20250617112340119
-modified: 20250617112409443
+modified: 20250617115833698
 tags: Freemodbus-TCP
 title: freemodbus-tcp函数处理
 
@@ -7,6 +7,8 @@ title: freemodbus-tcp函数处理
 
 主要有eMBTCPStart;eMBTCPStop;eMBTCPReceive;eMBTCPSend;如果一直启动ModBus通讯，前面两个函数可以不用改。
 
-在eMBTCPReceive中的xMBTCPPortGetRequest( &pucMBTCPFrame, &usLength )中添加自己的网卡接收到的TCP数据指针与接收到的TCP数据长度。
+''在eMBTCPReceive中的xMBTCPPortGetRequest( &pucMBTCPFrame, &usLength )中添加自己的网卡接收到的TCP数据指针与接收到的TCP数据长度。''
 
-在eMBTCPSend中的xMBTCPPortSendResponse( pucMBTCPFrame, usTCPLength )中添加自己的网卡发送函数，数据指针为pucMBTCPFrame，长度为usTCPLength 。
+''在eMBTCPSend中的xMBTCPPortSendResponse( pucMBTCPFrame, usTCPLength )中添加自己的网卡发送函数，数据指针为pucMBTCPFrame，长度为usTCPLength 。''
+
+这样，TCP收发接口就做好了，至于以上两个函数中网卡[[套接字]]收发数据另外单独编写
