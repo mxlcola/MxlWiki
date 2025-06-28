@@ -1,5 +1,15 @@
+annotate-colour: green
 created: 20250514134927333
+difficulty: 4.93
+due: 20250628063527244
+elapsed_days: 0
+lapses: 0
+last_review: 20250628062527244
 modified: 20250610133803780
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
 tags: FMC LCD ? 并口屏
 title: FMC能连接什么设备？
 type: text/markdown
