@@ -1,6 +1,25 @@
 created: 20241105132817216
 creator: mxlcola
-modified: 20241105132817216
+modified: 20250708144834296
 modifier: mxlcola
-revision: 0
 title: 线程控制块
+
+!! 线程结构体
+
+```c
+struct rt_thread
+{
+    void *sp;              // 当前线程的栈顶指针（保存 CPU 寄存器信息）
+    void *entry;           // 线程入口函数
+    void *parameter;       // 传递给线程的参数
+    void *stack_addr;      // 栈的起始地址
+    rt_ubase_t stack_size; // 栈大小
+
+    // 还有很多如状态、优先级、线程名等字段
+};
+
+```
+
+!! 线程结构体作用？
+
+记录线程执行的内容，状态、资源、调度信息
