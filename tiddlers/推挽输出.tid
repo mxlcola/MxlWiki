@@ -6,13 +6,13 @@ due: 20260308003719902
 elapsed_days: 77.884745625
 lapses: 0
 last_review: 20250401003719902
-modified: 20241210132837191
+modified: 20250710115934842
 modifier: mxlcola
 reps: 5
 scheduled_days: 341
 stability: 340.9829337542775
 state: 2
-tags: ? GPIO GPIO八种模式
+tags: ? GPIO GPIO四种输出
 title: 推挽输出
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209203323548.png" alt="image-20241209203323548" style="zoom:33%;" />
