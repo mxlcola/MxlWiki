@@ -6,13 +6,13 @@ due: 20250718032132445
 elapsed_days: 101.83825202546296
 lapses: 0
 last_review: 20250331032132445
-modified: 20241211130206305
+modified: 20250710114753561
 modifier: mxlcola
 reps: 3
 scheduled_days: 109
 stability: 108.63828414901442
 state: 2
-tags: GPIO GPIO八种模式 ?
+tags: ? GPIO四种输入
 title: 浮空输入
 
 ''最常用的一种模式''

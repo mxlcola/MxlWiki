@@ -5,11 +5,11 @@ due: 20250521003919541
 elapsed_days: 0
 lapses: 0
 last_review: 20250515003919541
-modified: 20250514153140633
+modified: 20250710114310452
 reps: 1
 scheduled_days: 6
 stability: 5.8
 state: 2
-tags: ?
+tags: ? 时钟
 title: 不开启外设时钟会怎样？
 type: text/markdown

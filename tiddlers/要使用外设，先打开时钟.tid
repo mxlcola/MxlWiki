@@ -6,13 +6,13 @@ due: 20250917125124343
 elapsed_days: 81.19568325231481
 lapses: 0
 last_review: 20250228125124343
-modified: 20241202134345723
+modified: 20250710114544500
 modifier: mxlcola
 reps: 3
 scheduled_days: 201
 stability: 201.4963082398952
 state: 2
-tags: 外设 ?
+tags: 外设 ? 时钟
 title: 要使用外设，先打开时钟
 
 [[DMA]] 属于 AHB 总线的外设，需要首先打开时钟，否则无法正常使用
