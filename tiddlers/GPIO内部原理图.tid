@@ -1,17 +1,19 @@
 annotate-colour: green
 created: 20241209123010589
-difficulty: 8.360765483992
-due: 20250604150301809
-elapsed_days: 35.521400844907404
+difficulty: 8.32645782915208
+due: 20250910124443589
+elapsed_days: 57.90395577546296
 lapses: 2
-last_review: 20250514150301809
-modified: 20241209123143686
-reps: 9
-scheduled_days: 21
-stability: 21.305812420311383
+last_review: 20250711124443589
+modified: 20250711124443152
+reps: 10
+scheduled_days: 61
+stability: 60.9136075308783
 state: 2
 tags: GPIO ?
 title: GPIO内部原理图
 type: text/vnd.tiddlywiki
 
-<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209203031366.png" alt="image-20241209203031366" style="zoom:50%;" />
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209203031366.png" alt="image-20241209203031366" style="zoom:50%;"></img>
+
+[[推挽输出]]
