@@ -5,7 +5,7 @@ due: 20250910124443589
 elapsed_days: 57.90395577546296
 lapses: 2
 last_review: 20250711124443589
-modified: 20250711124443152
+modified: 20250712020643689
 reps: 10
 scheduled_days: 61
 stability: 60.9136075308783
@@ -17,3 +17,5 @@ type: text/vnd.tiddlywiki
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209203031366.png" alt="image-20241209203031366" style="zoom:50%;"></img>
 
 [[推挽输出]]
+
+[[MOS管开关和输出关系]]

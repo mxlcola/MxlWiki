@@ -5,7 +5,7 @@ due: 20250528003826670
 elapsed_days: 43.97476405092593
 lapses: 1
 last_review: 20250401003826670
-modified: 20241209114551627
+modified: 20250712021319448
 reps: 7
 scheduled_days: 57
 stability: 56.654646527027644
@@ -18,4 +18,12 @@ title: 推挽示意图
 [[MOS管开关和输出关系]]
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209194346976.png" alt="image-20241209194346976" style="zoom:50%;" />
+
+!!MOS管作用
+
+* 它们就是 可控开关，通过给“栅极”电压控制是否“导通”。
+
+* NMOS负责接地，PMOS负责接电源。
+
+* 组合使用（推挽）可以输出高或低电平。
 
