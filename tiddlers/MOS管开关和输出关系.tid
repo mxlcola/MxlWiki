@@ -5,14 +5,20 @@ due: 20250911103235341
 elapsed_days: 68.41248991898148
 lapses: 1
 last_review: 20250608103235341
-modified: 20241209114239168
+modified: 20250712021630426
 reps: 7
 scheduled_days: 95
 stability: 94.87559620957781
 state: 2
-tags: GPIO ?
+tags: GPIO ? MOS管
 title: MOS管开关和输出关系
 
-MOS管开关和输出关系
+!!MOS管开关和输出关系
+
+在GPIO口的电路设计中，''通常会用[[NMOS]]和[[PMOS]]来控制引脚输出的高低电平''。
+
+{{推挽输出结构}}
+
+{{MOS管工作原理}}
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209194100506.png" alt="image-20241209194100506" style="zoom:33%;" />
