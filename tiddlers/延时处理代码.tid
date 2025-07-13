@@ -1,0 +1,45 @@
+created: 20250713020111063
+modified: 20250713020449099
+tags: rt_thread_mdelay本质
+title: 延时处理代码
+
+实际调用rt_thread_sleep函数
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250713100205.png]]
+
+!! rt_thread_sleep函数
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250713100413.png]]
+
+```c
+rt_err_t rt_thread_sleep(rt_tick_t tick)
+{
+    register rt_base_t temp;
+    struct rt_thread *thread;
+
+    /* disable interrupt */
+    temp = rt_hw_interrupt_disable();
+    /* set to current thread */
+    thread = rt_current_thread;
+    RT_ASSERT(thread != RT_NULL);
+    RT_ASSERT(rt_object_get_type((rt_object_t)thread) == RT_Object_Class_Thread);
+
+    /* suspend thread */
+    rt_thread_suspend(thread);
+
+    /* reset the timeout of thread timer and start it */
+    rt_timer_control(&(thread->thread_timer), RT_TIMER_CTRL_SET_TIME, &tick);
+    rt_timer_start(&(thread->thread_timer));
+
+    /* enable interrupt */
+    rt_hw_interrupt_enable(temp);
+
+    rt_schedule();
+
+    /* clear error number of this thread to RT_EOK */
+    if (thread->error == -RT_ETIMEOUT)
+        thread->error = RT_EOK;
+
+    return RT_EOK;
+}
+```

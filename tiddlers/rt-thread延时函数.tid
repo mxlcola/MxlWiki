@@ -1,0 +1,18 @@
+created: 20250713014132480
+modified: 20250713014323089
+tags: 线程调度
+title: rt-thread延时函数
+
+!! 什么是延时函数？
+
+延时函数的作用就像是给 CPU “''放个假”'' —— 它告诉 CPU：“这段时间你啥都别干，等一下再继续”。
+
+在 RT-Thread（一个实时操作系统）中，延时并不是真正让 CPU 什么也不做，而是让当前线程“睡觉”，让其他线程有机会执行
+
+!! rt-thread延时函数
+
+```c
+rt_thread_mdelay(uint32_t ms);  // 毫秒级延时（人类看得懂）
+rt_thread_delay(rt_tick_t tick); // Tick（系统节拍）级延时（系统看得懂）
+
+```
