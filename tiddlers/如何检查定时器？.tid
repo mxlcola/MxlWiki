@@ -1,6 +1,6 @@
 created: 20250713020854957
-modified: 20250713021301199
-tags: rt_thread_mdelay本质
+modified: 20250714133806462
+tags: rt_thread_mdelay本质 RT-Thread定时器
 title: 如何检查定时器？
 
 !! 相关函数

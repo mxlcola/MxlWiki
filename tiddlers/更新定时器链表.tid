@@ -1,0 +1,12 @@
+created: 20250714140915808
+modified: 20250714140921959
+tags: 
+title: 更新定时器链表
+
+!! 更新定时器链表
+
+而 rt_tick 随着硬件定时器的触发一直在增长（每一次硬件定时器中断来临，rt_tick 变量会加 1），50 个 tick 以后，rt_tick 从 20 增长到 70，与 Timer1 的 timeout 值相等，这时会触发与 Timer1 定时器相关联的超时函数，同时将 Timer1 从 rt_timer_list 链表上删除。同理，100 个 tick 和 500 个 tick 过去后，与 Timer2 和 Timer3 定时器相关联的超时函数会被触发，接着将 Time2 和 Timer3 定时器从 rt_timer_list 链表中删除。
+
+如果系统当前定时器状态在 10 个 tick 以后（rt_tick=30）有一个任务新创建了一个 tick 值为 300 的 Timer4 定时器，由于 Timer4 定时器的 timeout=rt_tick+300=330, 因此它将被插入到 Timer2 和 Timer3 定时器中间，形成如下图所示链表结构
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250714220611.png]]

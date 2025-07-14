@@ -1,0 +1,36 @@
+created: 20250714133148839
+modified: 20250714134124334
+tags: RT-Thread定时器
+title: 时钟节拍
+
+关联：[[如何检查定时器？]]
+
+{{谁来提供时钟？}}
+
+!! 定时器自加
+
+```c
+void rt_tick_increase(void){
+    struct rt_thread *thread;
+
+    /* 全局变量 rt_tick 自加 */
+    ++ rt_tick;
+
+    /* 检查时间片 */
+    thread = rt_thread_self();
+
+    -- thread->remaining_tick;
+    if (thread->remaining_tick == 0)
+    {
+        /* 重新赋初值 */
+        thread->remaining_tick = thread->init_tick;
+
+        /* 线程挂起 */
+        rt_thread_yield();
+    }
+
+    /* 检查定时器 */
+    rt_timer_check();
+}
+
+```

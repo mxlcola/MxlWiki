@@ -1,0 +1,20 @@
+created: 20250714133822474
+modified: 20250714141000702
+tags: RT-Thread定时器
+title: 谁来提供时钟？
+
+!! 谁来提供时钟？
+
+时钟节拍由配置为中断触发模式的硬件定时器产生，当中断到来时，将调用一次：void rt_tick_increase(void)
+
+```c
+void SysTick_Handler(void){
+    /* 进入中断 */
+    rt_interrupt_enter();
+    ……
+    rt_tick_increase();
+    /* 退出中断 */
+    rt_interrupt_leave();
+}
+
+```

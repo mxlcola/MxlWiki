@@ -1,0 +1,10 @@
+created: 20250714140734795
+modified: 20250714140744780
+tags: 
+title: 加入定时器链表
+
+!! 加入定时器链表
+
+如下图所示，系统当前 tick 值为 20，在当前系统中已经创建并启动了三个定时器，分别是定时时间为 50 个 tick 的 Timer1、100 个 tick 的 Timer2 和 500 个 tick 的 Timer3，这三个定时器分别加上系统当前时间 rt_tick=20，从小到大排序链接在 rt_timer_list 链表中，形成如图所示的定时器链表结构。
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250714215523.png]]

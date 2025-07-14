@@ -1,0 +1,19 @@
+created: 20250714135253561
+modified: 20250714141029263
+tags: RT-Thread定时器
+title: 定时器控制块
+
+```c
+struct rt_timer
+{
+    struct rt_object parent;             // 内核对象基类
+    rt_list_t row[RT_TIMER_SKIP_LIST_LEVEL];  // 跳表各级链表节点
+
+    void (*timeout_func)(void *parameter); // 超时后调用的函数
+    void      *parameter;                  // 传给函数的参数
+    rt_tick_t init_tick;                   // 初始设定的节拍数（多长时间触发一次）
+    rt_tick_t timeout_tick;                // 实际要触发时的全局节拍值
+};
+typedef struct rt_timer *rt_timer_t;
+
+```
