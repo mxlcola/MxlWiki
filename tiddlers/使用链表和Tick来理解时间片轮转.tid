@@ -1,0 +1,22 @@
+created: 20250712131018010
+modified: 20250712132258487
+tags: 线程调度
+title: 使用链表和Tick来理解时间片轮转
+
+{{线程时间片}}
+
+!!! 当前任务还可以运行多少个tick？
+
+在thread->remaining_tick中记录；
+
+每发生一次[[线程tick中断]]，thread->remaining_tick减1；
+
+当thread->remaining_tick等于0时，要让出CPU：调用`rt_thread_yield()`
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img05_tick_inc.png]]
+
+
+!! 线程让出
+
+{{rt_thread_yield}}
+

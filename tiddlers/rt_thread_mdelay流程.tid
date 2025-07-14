@@ -1,0 +1,16 @@
+created: 20250713015436383
+modified: 20250713020105431
+tags: rt_thread_mdelay本质
+title: rt_thread_mdelay流程
+
+!! rt_thread_mdelay流程
+
+#从[[readylist|就绪链表]] 移除
+#设置启动[[定时器]]
+#每个[[tick|线程tick中断]]判断超时调用
+#超时之后，把线程放入''readlist尾部''
+#发起调度
+
+!! 流程图
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250713100017.png]]

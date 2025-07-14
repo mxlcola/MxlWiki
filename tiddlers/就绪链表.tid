@@ -1,0 +1,8 @@
+created: 20250712124251780
+modified: 20250712124701773
+tags: 线程调度 线程优先级
+title: 就绪链表
+
+针对每个优先级都有一个对应的链表
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250712204439.png]]

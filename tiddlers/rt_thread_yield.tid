@@ -1,0 +1,51 @@
+created: 20250712132026091
+modified: 20250712134536140
+title: rt_thread_yield
+
+rt_thread_yield就是把当前、用完时间的线程，放到[[就绪链表]]的最后：
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/imgimg06_yield.png]]
+
+
+注意：
+
+* 如果有更高优先级线程，即使当前线程是[[时间片|线程时间片]]没用完，也会立刻被抢占
+* 当它被抢占后，再次运行时：继续运行完剩下的时间
+
+```c
+rt_err_t rt_thread_yield(void)
+{
+    register rt_base_t level;
+    struct rt_thread *thread;
+
+    /* disable interrupt */
+    level = rt_hw_interrupt_disable();
+
+    /* set to current thread */
+    thread = rt_current_thread;
+
+    /* if the thread stat is READY and on ready queue list */
+    if ((thread->stat & RT_THREAD_STAT_MASK) == RT_THREAD_READY &&
+        thread->tlist.next != thread->tlist.prev)
+    {
+        /* remove thread from thread list */
+        rt_list_remove(&(thread->tlist));
+
+        /* put thread to end of ready queue */
+        rt_list_insert_before(&(rt_thread_priority_table[thread->current_priority]),
+                              &(thread->tlist));
+
+        /* enable interrupt */
+        rt_hw_interrupt_enable(level);
+
+        rt_schedule();
+
+        return RT_EOK;
+    }
+
+    /* enable interrupt */
+    rt_hw_interrupt_enable(level);
+
+    return RT_EOK;
+}
+```

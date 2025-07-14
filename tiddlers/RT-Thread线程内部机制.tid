@@ -1,7 +1,6 @@
 created: 20241104130550374
 creator: mxlcola
-modified: 20241104130604635
+modified: 20250711134038609
 modifier: mxlcola
-revision: 0
 tags: RT-Thread
-title: RT-Thread内部机制
+title: RT-Thread线程内部机制

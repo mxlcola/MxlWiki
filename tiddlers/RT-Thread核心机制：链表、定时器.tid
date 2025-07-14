@@ -6,13 +6,13 @@ due: 20260723125419922
 elapsed_days: 95.9115706712963
 lapses: 0
 last_review: 20250216125419922
-modified: 20241104130840882
+modified: 20250711134038613
 modifier: mxlcola
 reps: 3
 scheduled_days: 522
 stability: 521.9446767330883
 state: 2
-tags: RT-Thread内部机制 ?
+tags: RT-Thread线程内部机制 ?
 title: RT-Thread核心机制：链表、定时器
 
 RT-Thread 的线程管理与调度、线程间通信(邮箱/消息队列/信号)、线程间同步(信号量/互  斥量/事件集)的方法，核心都是：
