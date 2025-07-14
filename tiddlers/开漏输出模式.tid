@@ -6,13 +6,13 @@ due: 20250617135746378
 elapsed_days: 33.34351976851852
 lapses: 5
 last_review: 20250617135246378
-modified: 20241219071207393
+modified: 20250714014757660
 modifier: mxlcola
 reps: 13
 scheduled_days: 0
 stability: 1.9581242606136675
 state: 3
-tags: GPIO ?
+tags: GPIO ? MOS管
 title: 开漏输出模式
 
 ```c

@@ -1,16 +1,16 @@
-annotate-colour: red
+annotate-colour: green
 created: 20250327134305327
 difficulty: 5.789913999999999
-due: 20250617135722085
-elapsed_days: 73.33828186342592
+due: 20250720014724194
+elapsed_days: 26.496552199074074
 lapses: 1
-last_review: 20250617135222085
-modified: 20250327134327234
-reps: 4
-scheduled_days: 0
+last_review: 20250714014724194
+modified: 20250714014701916
+reps: 5
+scheduled_days: 6
 stability: 6.404181500926534
-state: 3
-tags: 寄存器 ?
+state: 2
+tags: 寄存器 ? 异常
 title: LR寄存器
 type: text/vnd.tiddlywiki
 

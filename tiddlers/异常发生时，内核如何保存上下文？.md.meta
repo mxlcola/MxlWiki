@@ -1,15 +1,15 @@
-annotate-colour: red
+annotate-colour: dodgerblue
 created: 20250326140448140
 difficulty: 5.789913999999999
-due: 20250617135551378
-elapsed_days: 73.33746613425926
+due: 20250721014632688
+elapsed_days: 26.497005925925926
 lapses: 1
-last_review: 20250617135051378
+last_review: 20250714014632688
 modified: 20250327134252111
-reps: 4
-scheduled_days: 0
+reps: 5
+scheduled_days: 7
 stability: 6.404220450728157
-state: 3
+state: 2
 tags: HardFault问题 ? 内核 寄存器
 title: 异常发生时，内核如何保存上下文？
 type: text/markdown
