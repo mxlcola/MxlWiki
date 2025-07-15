@@ -5,12 +5,12 @@ due: 20260101105834319
 elapsed_days: 90.84054253472222
 lapses: 0
 last_review: 20250610105834319
-modified: 20241219121902540
+modified: 20250715132112837
 reps: 3
 scheduled_days: 205
 stability: 204.74626746773453
 state: 2
-tags: 串口 ?
+tags: 串口 ? 全双工
 title: 半双工
 
 ''定义：''

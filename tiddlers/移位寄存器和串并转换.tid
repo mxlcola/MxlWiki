@@ -1,0 +1,12 @@
+created: 20250715135745422
+modified: 20250715140239239
+tags: USART模块 寄存器
+title: 移位寄存器和串并转换
+
+!! 发送数据
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250715220050.png]]
+
+!! 接收数据
+
+[img width=800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250715220140.png]]

@@ -1,0 +1,12 @@
+created: 20250715132846978
+modified: 20250715135340141
+tags: 串口通讯
+title: 串口数据帧
+
+!! 串口数据帧
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250715213105.png]]
+
+!! 串口校验位
+
+{{串口校验位}}
