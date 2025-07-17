@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250407143408987
-difficulty: 5.7021999999999995
-due: 20250519035414059
-elapsed_days: 0.1352277662037037
+difficulty: 5.694477999999999
+due: 20250915022532728
+elapsed_days: 62.938410509259256
 lapses: 1
-last_review: 20250515035414059
+last_review: 20250717022532728
 modified: 20250515035402488
-reps: 4
-scheduled_days: 4
-stability: 3.099517482910308
+reps: 5
+scheduled_days: 60
+stability: 60.19268485139682
 state: 2
 tags: 段的概念 ?
 title: BSS段/ZI段

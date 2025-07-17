@@ -1,16 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241209115954454
-difficulty: 3.2357139999999993
-due: 20250707032258573
-elapsed_days: 31.109592696759258
+difficulty: 3.252656859999999
+due: 20261108022237364
+elapsed_days: 184.95808787037038
 lapses: 0
-last_review: 20250113032258573
+last_review: 20250717022237364
 modified: 20241210133628478
 modifier: mxlcola
-reps: 4
-revision: 0
-scheduled_days: 175
-stability: 175.11624652648229
+reps: 5
+scheduled_days: 479
+stability: 478.8665389814234
 state: 2
 tags: 开漏输出模式 ?
 title: 开漏模式可能存在的干扰情况
