@@ -5,11 +5,11 @@ due: 20250521003912582
 elapsed_days: 0
 lapses: 0
 last_review: 20250515003912582
-modified: 20250710114442288
+modified: 20250717033651231
 reps: 1
 scheduled_days: 6
 stability: 5.8
 state: 2
-tags: ? 单片机 时钟
+tags: ? 时钟
 title: 为什么每次都需要开启外设时钟？
 type: text/markdown
