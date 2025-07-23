@@ -1,0 +1,40 @@
+created: 20250723144303653
+modified: 20250723144647739
+tags: 
+title: 线程挂起之后如何被唤醒？
+
+!! rt-thread超时函数
+
+超时：注意thread->errro等于"-RT_ETIMEOUT" 
+
+[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img11_rt_thread_timeout.png]]
+
+!! 超时代码实现
+
+```c
+void rt_thread_timeout(void *parameter)
+{
+    struct rt_thread *thread;
+
+    thread = (struct rt_thread *)parameter;
+
+    /* thread check */
+    RT_ASSERT(thread != RT_NULL);
+    RT_ASSERT((thread->stat & RT_THREAD_STAT_MASK) == RT_THREAD_SUSPEND);
+    RT_ASSERT(rt_object_get_type((rt_object_t)thread) == RT_Object_Class_Thread);
+
+    /* set error number */
+    thread->error = -RT_ETIMEOUT;
+
+    /* remove from suspend list */
+    rt_list_remove(&(thread->tlist));
+
+    /* insert to schedule ready list */
+    rt_schedule_insert_thread(thread);
+
+    /* do schedule */
+    rt_schedule();
+}
+RTM_EXPORT(rt_thread_timeout);
+
+```
