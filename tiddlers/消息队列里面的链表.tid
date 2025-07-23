@@ -1,0 +1,15 @@
+created: 20250723134253654
+modified: 20250723140504523
+tags: 消息队列
+title: 消息队列里面的链表
+
+有两个链表：
+
+* 写队列不成功而挂起
+* 读队列不成功而挂起
+
+[img witdth = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img01_queue_list.png]]
+
+关联卡片：
+
+[[消息队列结构体]]

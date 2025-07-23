@@ -1,0 +1,28 @@
+created: 20250723140307047
+modified: 20250723140326232
+tags: 消息队列
+title: 消息队列结构体
+type: 
+
+```c
+struct rt_messagequeue
+{
+    struct rt_ipc_object parent;      /* 继承自IPC父类 */
+ 
+    void *msg_pool;                   /* 消息队列所需的内存首地址 */
+ 
+    rt_uint16_t msg_size;             /* 单个消息块的数据容量 */
+    rt_uint16_t max_msgs;             /* 消息队列的容量,即消息块的个数 */
+ 
+    rt_uint16_t entry;                /* 已经使用的消息块个数 */
+    void *msg_queue_head;             /* 指向待读取的消息队列第一个的消息块 */
+    void *msg_queue_tail;             /* 指向待读取的消息队列最后一个消息块 */
+    void *msg_queue_free;             /* 空闲消息链表头 */
+};
+typedef struct rt_messagequeue *rt_mq_t;
+ 
+struct rt_mq_message
+{
+    struct rt_mq_message *next;
+};
+```
