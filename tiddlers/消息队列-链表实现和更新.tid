@@ -1,0 +1,34 @@
+created: 20250723142501581
+modified: 20250723143348220
+tags: 消息队列
+title: 消息队列-链表实现和更新
+
+函数 `rt_mq_init`
+
+!! 链表包含哪几个部分？
+
+* 表头
+* 表尾
+* free空闲指针
+
+!! 初始化时链表如何更新？
+
+```c
+    mq->msg_queue_free = RT_NULL;
+    for (temp = 0; temp < mq->max_msgs; temp ++)
+    {
+        head = (struct rt_mq_message *)((rt_uint8_t *)mq->msg_pool +
+                                        temp * (mq->msg_size + sizeof(struct rt_mq_message)));
+        head->next = (struct rt_mq_message *)mq->msg_queue_free;
+        mq->msg_queue_free = head;
+    }
+
+```
+
+!! 线程往消息队列写入数据的时候？
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250723223153.png]]
+
+!! 线程往消息队列读取数据的时候？
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250723223254.png]]

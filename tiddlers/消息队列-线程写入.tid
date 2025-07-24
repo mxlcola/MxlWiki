@@ -1,0 +1,21 @@
+created: 20250723143430870
+modified: 20250723144252783
+tags: 消息队列
+title: 消息队列-线程写入
+
+函数`rt_mq_send`
+
+!! 调用过程
+
+```html
+rt_mq_send_wait
+        /* 如果不成功：当前线程挂起, 并放入链表: mq->suspend_sender_thread */
+        rt_ipc_list_suspend(&(mq->suspend_sender_thread),
+                            thread,
+                            mq->parent.parent.flag);
+
+		/* 如果指定了超时时间: 最多等多久 
+		 * 设置、启动线程定时器
+		 */
+		rt_timer_start(&(thread->thread_timer));
+```

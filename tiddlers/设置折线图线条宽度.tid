@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241126071034893
-difficulty: 3.157306
-due: 20250519085327084
-elapsed_days: 23.865180277777778
+difficulty: 2.3236329400000004
+due: 20280611133641275
+elapsed_days: 209.19669202546297
 lapses: 0
-last_review: 20241226085327084
+last_review: 20250723133641275
 modified: 20250717022630364
-reps: 3
-scheduled_days: 144
-stability: 143.94828940589142
+reps: 4
+scheduled_days: 1054
+stability: 1054.2232996690318
 state: 2
 tags: ? LVGL折线图
 title: 设置折线图线条宽度
