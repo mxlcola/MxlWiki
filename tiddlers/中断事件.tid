@@ -1,4 +1,8 @@
 created: 20250727120951109
-modified: 20250727121002087
+modified: 20250727123611048
 tags: 中断
 title: 中断事件
+
+中断源向 CPU 提出中断请求，CPU 暂时中断原来的事务 A，转去处理事件B，对事件 B 处理完毕后，再回到原来被中断的地方(即[[断点]])，称为[[中断返回]]。实现上述中断功能的部件称为[[中断系统]](中断机构)。
+
+<img src="https://pica.zhimg.com/v2-7a3e6e9c203c79aea7dca794a755af28_r.jpg" alt="img" style="zoom:50%;" />

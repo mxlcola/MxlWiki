@@ -1,15 +1,15 @@
 annotate-colour: dodgerblue
 created: 20250514152644023
-difficulty: 3.9899999999999998
-due: 20250521003912582
-elapsed_days: 0
+difficulty: 3.148
+due: 20260417145605300
+elapsed_days: 69.59505458333334
 lapses: 0
-last_review: 20250515003912582
-modified: 20250717033651231
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20250723145605300
+modified: 20250723145555334
+reps: 2
+scheduled_days: 268
+stability: 267.5734939203362
 state: 2
-tags: ? 时钟
+tags: ? 时钟 寄存器 总线
 title: 为什么每次都需要开启外设时钟？
 type: text/markdown

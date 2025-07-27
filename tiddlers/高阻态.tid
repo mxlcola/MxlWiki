@@ -1,6 +1,18 @@
+annotate-colour: green
 created: 20250515035248327
-modified: 20250714015055706
+difficulty: 4.93
+due: 20250723150941465
+elapsed_days: 0
+lapses: 0
+last_review: 20250723145941465
+modified: 20250723145940545
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: ?
 title: 高阻态
+type: text/vnd.tiddlywiki
 
 指的是电路的一种输出状态，既不是高电平也不是低电平。
 

@@ -5,13 +5,14 @@ due: 20250911103235341
 elapsed_days: 68.41248991898148
 lapses: 1
 last_review: 20250608103235341
-modified: 20250712025236883
+modified: 20250723150028707
 reps: 7
 scheduled_days: 95
 stability: 94.87559620957781
 state: 2
-tags: GPIO ? MOS管
+tags: GPIO ? MOS管 推挽输出
 title: MOS管开关和输出关系
+type: text/vnd.tiddlywiki
 
 !!MOS管开关和输出关系
 

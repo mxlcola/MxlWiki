@@ -1,17 +1,18 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241209114359606
-difficulty: 5.781314859999998
-due: 20250528003826670
-elapsed_days: 43.97476405092593
+difficulty: 4.921401711399998
+due: 20260916150041688
+elapsed_days: 113.59878493055555
 lapses: 1
-last_review: 20250401003826670
+last_review: 20250723150041688
 modified: 20250712021319448
-reps: 7
-scheduled_days: 57
-stability: 56.654646527027644
+reps: 8
+scheduled_days: 420
+stability: 420.1301939687387
 state: 2
 tags: GPIO基础认识 ?
 title: 推挽示意图
+type: text/vnd.tiddlywiki
 
 推挽就是mos管输出时候，电流的动作
 

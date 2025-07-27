@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250514152948155
-difficulty: 3.9899999999999998
-due: 20250521003919541
-elapsed_days: 0
+difficulty: 3.148
+due: 20260417145449923
+elapsed_days: 69.59410165509259
 lapses: 0
-last_review: 20250515003919541
+last_review: 20250723145449923
 modified: 20250710114310452
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 268
+stability: 267.57150838138307
 state: 2
 tags: ? 时钟
 title: 不开启外设时钟会怎样？

@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20241126071621899
-difficulty: 4.01722
-due: 20250523075924243
-elapsed_days: 82.82782100694445
+difficulty: 3.1749478000000004
+due: 20270627145905825
+elapsed_days: 150.2914534837963
 lapses: 0
-last_review: 20250223075924243
+last_review: 20250723145905825
 modified: 20241126071711534
-reps: 3
-scheduled_days: 89
-stability: 88.87716252038526
+reps: 4
+scheduled_days: 704
+stability: 703.5814189828678
 state: 2
 tags: 折线图 ?
 title: 清空chart表

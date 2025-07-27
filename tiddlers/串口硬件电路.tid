@@ -1,17 +1,18 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241219122206316
-difficulty: 3.148
-due: 20250523003525609
-elapsed_days: 5.783312256944445
+difficulty: 3.16582
+due: 20260316145810650
+elapsed_days: 103.59913240740741
 lapses: 0
-last_review: 20250411003525609
+last_review: 20250723145810650
 modified: 20241219122454716
-reps: 2
-scheduled_days: 42
-stability: 41.98469163153422
+reps: 3
+scheduled_days: 236
+stability: 236.30642311792602
 state: 2
 tags: 串口 ? RS232 RS485
 title: 串口硬件电路
+type: text/vnd.tiddlywiki
 
 !! 硬件电路
 

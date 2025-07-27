@@ -2,5 +2,16 @@
     "13361230": "{\"rating\":4,\"elapsed_days\":6.466330972222222,\"scheduled_days\":3,\"review\":\"20250723133603596\",\"state\":1}",
     "133639405": "{\"rating\":4,\"elapsed_days\":6.466646284722223,\"scheduled_days\":4,\"review\":\"20250723133637199\",\"state\":3}",
     "133642873": "{\"rating\":4,\"elapsed_days\":209.19669202546297,\"scheduled_days\":1054,\"review\":\"20250723133641275\",\"state\":2}",
-    "133822704": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20250723133816039\",\"state\":0}"
+    "133822704": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20250723133816039\",\"state\":0}",
+    "145311664": "{\"rating\":4,\"elapsed_days\":69.08059753472222,\"scheduled_days\":159,\"review\":\"20250723145259927\",\"state\":2}",
+    "145451419": "{\"rating\":4,\"elapsed_days\":69.59410165509259,\"scheduled_days\":268,\"review\":\"20250723145449923\",\"state\":2}",
+    "145610112": "{\"rating\":4,\"elapsed_days\":69.59505458333334,\"scheduled_days\":268,\"review\":\"20250723145605300\",\"state\":2}",
+    "145733704": "{\"rating\":3,\"elapsed_days\":36.04508907407408,\"scheduled_days\":67,\"review\":\"20250723145727912\",\"state\":2}",
+    "145751214": "{\"rating\":3,\"elapsed_days\":69.4653174537037,\"scheduled_days\":106,\"review\":\"20250723145749748\",\"state\":2}",
+    "145808832": "{\"rating\":3,\"elapsed_days\":69.38793798611111,\"scheduled_days\":106,\"review\":\"20250723145753042\",\"state\":2}",
+    "145845930": "{\"rating\":3,\"elapsed_days\":103.59913240740741,\"scheduled_days\":236,\"review\":\"20250723145810650\",\"state\":2}",
+    "145904112": "{\"rating\":3,\"elapsed_days\":103.59942233796296,\"scheduled_days\":236,\"review\":\"20250723145847954\",\"state\":2}",
+    "145908710": "{\"rating\":4,\"elapsed_days\":150.2914534837963,\"scheduled_days\":704,\"review\":\"20250723145905825\",\"state\":2}",
+    "145952240": "{\"rating\":3,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20250723145941465\",\"state\":0}",
+    "150046203": "{\"rating\":4,\"elapsed_days\":113.59878493055555,\"scheduled_days\":420,\"review\":\"20250723150041688\",\"state\":2}"
 }
