@@ -1,5 +1,5 @@
 created: 20250712131153366
-modified: 20250712131631813
+modified: 20250727102334753
 title: 线程时间片
 
 !! 线程时间片
@@ -10,7 +10,7 @@ RT-Thread的线程轮转时：每个线程可以运行指定的Tick(创建线程
 
 [img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img07_init_tick.png]]
 
-在[[线程控制块]]中会记录tick数值：它运行多少个Tick，才会让出CPU资源。
+在[[rt-thread结构体]]中会记录tick数值：它运行多少个Tick，才会让出CPU资源。
 
 创建线程时，会调用到函数`_rt_thread_init()`，里面会设置Tick参数：
 

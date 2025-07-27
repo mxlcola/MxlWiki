@@ -6,7 +6,7 @@ due: 20250602064446047
 elapsed_days: 53.30655327546296
 lapses: 0
 last_review: 20250106064446047
-modified: 20250708144958538
+modified: 20250727102334753
 modifier: mxlcola
 reps: 3
 scheduled_days: 147
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 ! 初始化的时候需要把线程的内容构建出来
 # 函数入口
 # 栈
-# [[线程控制块]]
+# [[rt-thread结构体]]
 # [[构造栈内容，假装暂停在入口函数]]
 
 所谓的栈内容就是之前说的CPU寄存器的值，比如PC寄存器等

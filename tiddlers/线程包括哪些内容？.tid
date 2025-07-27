@@ -6,10 +6,9 @@ due: 20260111032233524
 elapsed_days: 61.514394027777776
 lapses: 0
 last_review: 20250113032233524
-modified: 20241106005721615
+modified: 20250727102334753
 modifier: mxlcola
 reps: 3
-revision: 0
 scheduled_days: 363
 stability: 362.8311281549987
 state: 2
@@ -20,4 +19,4 @@ title: 线程包括哪些内容？
 
 * 入口函数
 * 栈
-* [[线程控制块]]
+* [[rt-thread结构体]]

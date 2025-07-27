@@ -1,12 +1,16 @@
 created: 20250727101305213
-modified: 20250727101352622
+modified: 20250727102253398
 tags: 事件组
 title: 事件组-等待事件
 
-rt_event_recv函数：
+!! 事件组等待事件需要哪些参数？
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727181827.png]]
+
+!! rt_event_recv函数：
 
 * 期待的事件未发生：可以直接返回，也可以等待
-  **如果要等待的话，等待的细节记录在rt_thread结构体里
+  **如果要等待的话，等待的细节记录在[[rt_thread结构体|事件组-在线程里面如何记录？]]里
 * 期待的事件发生了：
   ** 根据option决定是否清除事件组
 
@@ -17,3 +21,5 @@ rt_err_t rt_event_recv(rt_event_t   event,
                        rt_int32_t   timeout,
                        rt_uint32_t *recved);
 ```
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727182143.png]]
