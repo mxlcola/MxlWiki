@@ -1,20 +1,22 @@
 annotate-colour: dodgerblue
 created: 20250515033949051
-difficulty: 4.93
-due: 20250720022403164
-elapsed_days: 29.520639444444445
+difficulty: 4.078599999999999
+due: 20250921120610419
+elapsed_days: 10.404250636574075
 lapses: 0
-last_review: 20250717022403164
-modified: 20250616073831404
-reps: 2
-scheduled_days: 3
-stability: 2.4
+last_review: 20250727120610419
+modified: 20250727120609958
+reps: 3
+scheduled_days: 56
+stability: 55.744040531558824
 state: 2
 tags: ? DAC
 title: 模拟信号
 
-模拟信号是一种连续变化的信号，它可以沿着一个范围内的任意值传输。
+模拟信号是一种''连续变化''的信号，它可以沿着一个范围内的任意值传输。
 
 模拟信号可以是声音、光线、电压等连续变化的物理量。
 
 在模拟信号中，信号的强度和频率是连续变化的。
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727200537.png]]
