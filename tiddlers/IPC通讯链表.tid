@@ -1,0 +1,17 @@
+created: 20250727072508481
+modified: 20250727072637916
+tags: IPC通讯
+title: IPC通讯链表
+
+!! 以信号量为例
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727152554.png]]
+
+```c
+struct rt_ipc_object
+{
+    struct rt_object parent;                            /**< inherit from rt_object */
+
+    rt_list_t        suspend_thread;                    /**< threads pended on this resource */
+};
+```

@@ -6,19 +6,24 @@ due: 20271209053202057
 elapsed_days: 176.17946605324073
 lapses: 0
 last_review: 20250610053202057
-modified: 20241119140853156
+modified: 20250727065008132
 modifier: mxlcola
 reps: 4
 scheduled_days: 912
 stability: 911.616646032442
 state: 2
 tags: 信号量 ?
-title: 信号量结构体
+title: 信号量包含什么?
 type: text/vnd.tiddlywiki
 
 ! 信号量结构体应该包含哪些东西？
+[img width =600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727144719.png]]
 
 * value值
 * 线程链表
+
+这里的线程列表是指的请求获取take的那个线程要放入的列表
+
+如果有信号量资源被释放处理，那么就从这个链表里面取出线程，等待执行
 
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/02_struct.png]]

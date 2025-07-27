@@ -1,0 +1,13 @@
+created: 20250727071317824
+modified: 20250727072248600
+tags: 信号量获取流程
+title: 获取信号量代码
+
+!! 获取信号量函数
+
+`rt_err_t rt_sem_take(rt_sem_t sem, rt_int32_t time)`
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727151537.png]]
+
+
+{{IPC通讯线程处理操作相关函数}}

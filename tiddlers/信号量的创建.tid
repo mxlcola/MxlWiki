@@ -1,0 +1,39 @@
+created: 20250727070640593
+modified: 20250727071016602
+tags: 信号量
+title: 信号量的创建
+
+关联卡片：
+
+[[信号量包含什么?]]
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img03_semaphore_create.png]]
+
+!! 信号量创建代码
+
+```c
+rt_sem_t rt_sem_create(const char *name, rt_uint32_t value, rt_uint8_t flag)
+{
+    rt_sem_t sem;
+
+    RT_DEBUG_NOT_IN_INTERRUPT;
+    RT_ASSERT(value < 0x10000U);
+
+    /* allocate object */
+    sem = (rt_sem_t)rt_object_allocate(RT_Object_Class_Semaphore, name);
+    if (sem == RT_NULL)
+        return sem;
+
+    /* initialize ipc object */
+    rt_ipc_object_init(&(sem->parent));
+
+    /* set initial value */
+    sem->value = value;
+
+    /* set parent */
+    sem->parent.parent.flag = flag;
+
+    return sem;
+}
+RTM_EXPORT(rt_sem_create);
+```

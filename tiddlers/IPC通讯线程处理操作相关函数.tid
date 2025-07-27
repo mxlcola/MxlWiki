@@ -1,0 +1,16 @@
+created: 20250727071842550
+modified: 20250727072714746
+tags: IPC通讯
+title: IPC通讯线程处理操作相关函数
+type: 
+
+!! 操作函数
+
+`rt_ipc_list_suspend`
+
+!! 函数功能
+
+# 从[[就绪链表]]移除，线程不再运行
+# 将线程放入到[[IPC通讯链表]]
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727152200.png]]

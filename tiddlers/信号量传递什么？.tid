@@ -6,18 +6,23 @@ due: 20250908122900364
 elapsed_days: 84.49738118055555
 lapses: 0
 last_review: 20250217122900364
-modified: 20241119135408275
+modified: 20250727065532251
 modifier: mxlcola
 reps: 3
 scheduled_days: 203
 stability: 202.53997375380493
 state: 2
 tags: 信号量 ?
-title: 信号量用于传递状态
+title: 信号量传递什么？
 type: text/vnd.tiddlywiki
 
+!! 信号量用于传递状态
+
 在有些情况下，不需要传输数据，只需要''传递状态''即可
-[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241119215059.png]]
+
+必然停车场位置
+
+[img width = 600 [https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241119215059.png]]
 
 
 ! 信号量的量可以表示资源的多少
