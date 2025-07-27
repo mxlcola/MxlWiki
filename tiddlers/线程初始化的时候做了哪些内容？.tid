@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241105132419142
 creator: mxlcola
-difficulty: 3.16582
-due: 20250602064446047
-elapsed_days: 53.30655327546296
+difficulty: 2.3320618000000004
+due: 20280520124823112
+elapsed_days: 202.25251229166668
 lapses: 0
-last_review: 20250106064446047
+last_review: 20250727124823112
 modified: 20250727102334753
 modifier: mxlcola
-reps: 3
-scheduled_days: 147
-stability: 147.25764458503244
+reps: 4
+scheduled_days: 1028
+stability: 1027.5073281094528
 state: 2
 tags: 线程的概念与保存 ?
 title: 线程初始化的时候做了哪些内容？

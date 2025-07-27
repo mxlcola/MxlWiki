@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250217141435845
-difficulty: 3.148
-due: 20250602003928241
-elapsed_days: 8.001656145833334
+difficulty: 2.31442
+due: 20270308124741723
+elapsed_days: 110.50571160879629
 lapses: 0
-last_review: 20250408003928241
+last_review: 20250727124741723
 modified: 20250217142233415
-reps: 2
-scheduled_days: 55
-stability: 54.79111780669558
+reps: 3
+scheduled_days: 589
+stability: 588.935664234251
 state: 2
 tags: 指针基础 ?
 title: 左值和右值

@@ -1,10 +1,10 @@
 annotate-colour: dodgerblue
 created: 20250515034154361
 difficulty: 3.9899999999999998
-due: 20250802120612928
+due: 20250802124908323
 elapsed_days: 0
 lapses: 0
-last_review: 20250727120612928
+last_review: 20250727124908323
 modified: 20250515034356033
 reps: 1
 scheduled_days: 6
@@ -12,6 +12,7 @@ stability: 5.8
 state: 2
 tags: ADC ?
 title: ADC的工作原理
+type: text/vnd.tiddlywiki
 
 ''ADC的工作原理是将[[模拟信号]]通过采样转换为离散的[[数字信号]]，然后再通过量化、编码等处理，最终得到对应的数字表示''。ADC采样的频率越高，得到的数字信号就越接近原来的模拟信号，也就是保真度越高，但是需要更多的资源和计算功耗。
 

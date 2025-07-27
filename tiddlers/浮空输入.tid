@@ -1,19 +1,20 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20241205004704152
 creator: mxlcola
-difficulty: 4.01722
-due: 20250718032132445
-elapsed_days: 101.83825202546296
+difficulty: 3.1749478000000004
+due: 20270315124712874
+elapsed_days: 118.39282905092593
 lapses: 0
-last_review: 20250331032132445
+last_review: 20250727124712874
 modified: 20250710114753561
 modifier: mxlcola
-reps: 3
-scheduled_days: 109
-stability: 108.63828414901442
+reps: 4
+scheduled_days: 596
+stability: 595.6443390825897
 state: 2
 tags: ? GPIO四种输入
 title: 浮空输入
+type: text/vnd.tiddlywiki
 
 ''最常用的一种模式''
 
