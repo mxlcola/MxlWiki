@@ -1,6 +1,8 @@
 created: 20241119133412726
 creator: mxlcola
-modified: 20250727070638870
+modified: 20250727075434870
 modifier: mxlcola
 tags: RT-Thread IPC通讯
 title: 信号量
+
+关联[[互斥量]]
