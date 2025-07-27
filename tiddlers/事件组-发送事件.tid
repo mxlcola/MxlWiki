@@ -1,0 +1,26 @@
+created: 20250727095816974
+modified: 20250727100414226
+tags: 事件组
+title: 事件组-发送事件
+
+!! 特殊的点
+
+''注意''：发出事件时试图唤醒 ''所有'' 符合条件的线程。写队列、写邮箱、释放[[信号量]]、释放[[互斥量]]时，都只会唤醒''一个''线程。
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727180118.png]]
+
+```c
+rt_event_send(rt_event_t event, rt_uint32_t set)
+    /* disable interrupt */
+    level = rt_hw_interrupt_disable();
+
+    /* set event */
+    event->set |= set;
+    /* 更复杂的调用关系看下图: */
+
+```
+!! 调用关系
+
+注意这里是遍历链表所有线程
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img05_rt_event_send.png]]

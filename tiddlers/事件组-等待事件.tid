@@ -1,0 +1,19 @@
+created: 20250727101305213
+modified: 20250727101352622
+tags: 事件组
+title: 事件组-等待事件
+
+rt_event_recv函数：
+
+* 期待的事件未发生：可以直接返回，也可以等待
+  **如果要等待的话，等待的细节记录在rt_thread结构体里
+* 期待的事件发生了：
+  ** 根据option决定是否清除事件组
+
+```c
+rt_err_t rt_event_recv(rt_event_t   event,
+                       rt_uint32_t  set,
+                       rt_uint8_t   option,
+                       rt_int32_t   timeout,
+                       rt_uint32_t *recved);
+```

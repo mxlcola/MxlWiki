@@ -1,0 +1,14 @@
+created: 20250727094049381
+modified: 20250727101639965
+tags: 事件组
+title: 事件组-结构体
+
+```c
+struct rt_event {
+    struct rt_ipc_object parent;  // 继承自 IPC 对象，内核统一管理
+    rt_uint32_t          set;     // 当前事件的标志位集合
+};
+
+```
+
+set：保存当前已设置的所有[[事件标志位]]（最多 32 个）

@@ -1,0 +1,30 @@
+created: 20250727094531583
+modified: 20250727095751297
+tags: 事件组
+title: 创建事件组
+
+!! 创建事件组
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img04_event_create.png]]
+
+```c
+rt_err_t rt_event_init(rt_event_t event, const char *name, rt_uint8_t flag)
+{
+    /* parameter check */
+    RT_ASSERT(event != RT_NULL);
+
+    /* initialize object */
+    rt_object_init(&(event->parent.parent), RT_Object_Class_Event, name);
+
+    /* set parent flag */
+    event->parent.parent.flag = flag;
+
+    /* initialize ipc object */
+    rt_ipc_object_init(&(event->parent));
+
+    /* initialize event */
+    event->set = 0;
+
+    return RT_EOK;
+}
+```

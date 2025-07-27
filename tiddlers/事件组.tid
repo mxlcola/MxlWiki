@@ -1,4 +1,8 @@
 created: 20250727085157854
-modified: 20250727085204322
+modified: 20250727094016428
 tags: RT-Thread事件
 title: 事件组
+
+允许一个线程等待或发送多个事件标志。''每个事件用一个比特位（bit）表示''，多个事件可以同时存在并通过位操作进行组合。
+
+[img width = 800 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727173846.png]]
