@@ -1,0 +1,15 @@
+created: 20250728133018811
+modified: 20250728133402677
+tags: 寄存器
+title: SFR寄存器
+type: 
+
+特殊功能寄存器
+
+* ''端口控制''：如P0至P3寄存器，用于配置和读取单片机外部引脚的状态。
+* ''中断控制''：如IE（Interrupt Enable）、IP（Interrupt Priority）寄存器，用于开启或关闭中断，并设置中断优先级。
+* ''定时器/计数器控制''：如TMOD（Timer Mode）、TH0、TL0（Timer 0 High/Low Byte）等，用来设定定时器模式及装载计数值。
+* ''串行通信''：如SCON（Serial Control），负责管理UART（通用异步收发传输器）的工作模式。
+* ''电源管理和复位''：如PCON（Power Control），可处理空闲模式、掉电模式等。
+
+

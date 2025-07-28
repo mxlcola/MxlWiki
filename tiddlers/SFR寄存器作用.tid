@@ -1,0 +1,14 @@
+created: 20250728133050553
+modified: 20250728133707200
+tags: SFR寄存器 中断
+title: SFR寄存器作用
+
+!! SFR 每个寄存器位都相当于一个开关
+
+SFR是一组具有特定地址的寄存器，它们中的''每一位或字节''都对应着单片机内某个硬件资源的''状态或控制信息''。通过对这些寄存器的''读写操作''，程序员可以直接与单片机的硬件进行交互，从而实现对单片机功能的精确控制。
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250728213442.png]]
+
+!! 比如中断相关的SFR
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250728213549.png]]

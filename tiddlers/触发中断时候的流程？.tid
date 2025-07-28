@@ -1,4 +1,26 @@
 created: 20250728130904787
-modified: 20250728130917861
+modified: 20250728134455679
 tags: 中断
 title: 触发中断时候的流程？
+
+!! 中断流程
+
+# 传感器IO中断事件发生
+# 发送给[[中断控制器]]
+# 中断控制器产生中断高速CPU
+# CPU进入到中断专门的程序空间处理这个中断,执行相应程序
+
+!! 流程示意图
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250728212442.png]]
+
+
+!! 问题：
+
+# 这个专用程序空间是啥？
+# CPU是怎么找到这个空间，执行程序的？
+
+补充
+
+[img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250728214413.png]]
+

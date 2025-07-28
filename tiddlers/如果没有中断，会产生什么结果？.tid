@@ -1,4 +1,16 @@
 created: 20250728130633375
-modified: 20250728130658366
+modified: 20250728132028657
 tags: 中断
 title: 如果没有中断，会产生什么结果？
+
+以按键操作为例
+
+如果没有中断，那么IO接口的事件就不会通知到[[CPU]] ,CPU就只能轮询检查这个状态
+
+造成的后果，[[实时性]]下降，CPU重要资源被浪费
+
+而且可能还有其他事情要做，那就更慢了
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250728211832.png]]
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250728211948.png]]
