@@ -1,19 +1,19 @@
-annotate-colour: green
+annotate-colour: orange
 created: 20241104150007137
 creator: mxlcola
-difficulty: 3.16582
-due: 20250610064618995
-elapsed_days: 55.68988623842593
+difficulty: 4.0348618
+due: 20260411145606783
+elapsed_days: 206.3401364236111
 lapses: 0
-last_review: 20250106064618995
+last_review: 20250731145606783
 modified: 20241105121447539
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 155
-stability: 154.683606690431
+reps: 4
+scheduled_days: 254
+stability: 254.0016607838367
 state: 2
 tags: ? 栈
 title: 出栈
+type: text/vnd.tiddlywiki
 
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241104230026.png]]

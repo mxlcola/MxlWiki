@@ -1,0 +1,6 @@
+created: 20250731151449264
+modified: 20250731151805367
+tags: RTC模块
+title: 配置RTC相关寄存器
+
+从[[RTC结构图]]可以知道，RTC时钟选择后就应该配置RTC预分频器(RTC_PRL寄存器）和RTC_CNT计数器和闹钟计数器RTC_ALR。

@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20250327083014207
 difficulty: 4.93
-due: 20250607013654594
-elapsed_days: 20.525731226851853
+due: 20250927145520899
+elapsed_days: 56.55447116898148
 lapses: 0
-last_review: 20250605013654594
+last_review: 20250731145520899
 modified: 20250515125945064
-reps: 2
-scheduled_days: 2
-stability: 2.4
+reps: 3
+scheduled_days: 58
+stability: 58.11287732727385
 state: 2
 tags: 堆栈溢出 堆Heap 栈Stack ?
 title: 堆栈溢出主要情况

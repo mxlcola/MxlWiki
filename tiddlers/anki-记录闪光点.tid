@@ -1,17 +1,18 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250611141104757
-difficulty: 4.93
-due: 20250614003844874
-elapsed_days: 0.4346922916666667
+difficulty: 4.078599999999999
+due: 20251218145623463
+elapsed_days: 49.59558556712963
 lapses: 0
-last_review: 20250612003844874
+last_review: 20250731145623463
 modified: 20250612003844256
-reps: 2
-scheduled_days: 2
-stability: 2.4
+reps: 3
+scheduled_days: 140
+stability: 140.42252700889858
 state: 2
 tags: anki ? 积极
 title: anki-记录闪光点
+type: text/vnd.tiddlywiki
 
 遗忘闪光点的时候，它会告诉你，你在过去的某一天多么幸运和幸福
 

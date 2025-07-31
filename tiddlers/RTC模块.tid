@@ -1,0 +1,23 @@
+created: 20250731150013971
+modified: 20250731150632048
+tags: RTC ?
+title: RTC模块
+
+STM32 里面RTC模块和时钟配置系统(RCC_BDCR寄存器)处于[[后备区域]]，即在系统复位或从待机模式唤醒后，RTC的设置和时间维持不变。因为系统对后备寄存器和RTC相关寄存器有''写保护''，所以如果想要对后备寄存器和RTC进行访问，则需要通过''操作相应的寄存器来解除某些限制''
+
+!! 解除寄存器操作限制
+
+第一步首先需要设置RCC_APB1ENR的PWREN和BKPEN位。使能电源和后备接口时钟
+
+[img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250731230332.png]]
+
+第二步是设置寄存器PWR_CR的DBP位，使能对后备寄存器和RTC的访问
+
+[img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250731230409.png]]'
+'
+
+```c
+__HAL_RCC_PWR_CLK_ENABLE();
+HAL_PWR_EnableBkUpAccess();  // 置位 DBP
+
+```
