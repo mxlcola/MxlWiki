@@ -1,0 +1,6 @@
+created: 20250731143404664
+modified: 20250731143433747
+tags: RTC
+title: RTC作用
+
+RTC的主要职责是提供准确的''时间基准''，计时不准的RTC（不管内部RTCor外部RTC）都毫无价值而言。
