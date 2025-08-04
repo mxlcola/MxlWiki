@@ -1,0 +1,8 @@
+created: 20250804134719304
+modified: 20250804135528900
+tags: I2C
+title: I2C起始位
+
+起始位：在[[SCL]]高电压时，向[[SDA]]发送下降沿
+
+[img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250804215442.png]]

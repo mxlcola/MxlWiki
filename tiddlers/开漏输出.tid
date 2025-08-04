@@ -1,4 +1,13 @@
 created: 20250714022110785
-modified: 20250714022539580
+modified: 20250804133756442
 tags: GPIO四种输出
 title: 开漏输出
+
+关联[[MOS管]]
+
+[img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250804213559.png]]
+
+P-MOS保持断开，只控制N-MOS的通断
+
+如果N-Mos管断开，那么就是[[高阻态]]
+
