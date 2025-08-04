@@ -1,0 +1,11 @@
+created: 20250804143325429
+modified: 20250804143426498
+tags: ACK应答
+title: ACK/NACK的本质
+
+!! ACK/NACK 是从设备对主设备的确认信号：
+
+* ACK（低电平）：表示响应成功。
+* NACK（高电平）：通常表示无响应或数据结束。
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250804222141.png]]
