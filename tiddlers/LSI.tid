@@ -1,6 +1,6 @@
 created: 20250809084328771
-modified: 20250809084340836
+modified: 20250809084831771
 tags: 时钟源
-title: LSI时钟
+title: LSI
 
 LSI是低速内部时钟，RC振荡器，频率为40kHz
