@@ -1,23 +1,23 @@
 annotate-colour: green
 created: 20250217123815412
-difficulty: 3.9994
-due: 20250619004052678
-elapsed_days: 42.00721511574074
+difficulty: 4.008706
+due: 20260528033851695
+elapsed_days: 132.12359971064814
 lapses: 0
-last_review: 20250401004052678
-modified: 20250610133716188
-reps: 2
-scheduled_days: 79
-stability: 79.23850154274058
+last_review: 20250811033851695
+modified: 20250811033829260
+reps: 3
+scheduled_days: 290
+stability: 290.45515485091056
 state: 2
-tags: ?
+tags: ? QSPI flash
 title: 内存映射
 
 在以下情况下使用内存映射模式：
 
 ''（1）用于阅读操作。''
 
-''（2）像使用内部Flash一样使用外部QSPI Flash， 任何AHB总线主控都可以自主读取数据。''
+''（2）像使用内部Flash一样使用外部QSPI Flash， 任何[[AHB总线]]主控都可以自主读取数据。''
 
 ''（3）用于从外部QSPI Flash执行代码。''
 

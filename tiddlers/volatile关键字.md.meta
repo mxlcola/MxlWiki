@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250217143639428
-difficulty: 8.35388134
-due: 20250629103213790
-elapsed_days: 24.411350532407408
+difficulty: 7.468242526599998
+due: 20251222033956606
+elapsed_days: 63.71369
 lapses: 1
-last_review: 20250608103213790
-modified: 20250217143854500
-reps: 6
-scheduled_days: 21
-stability: 20.595857557691104
+last_review: 20250811033956606
+modified: 20250811033938187
+reps: 7
+scheduled_days: 133
+stability: 132.92345994636062
 state: 2
-tags: 关键字 ?
+tags: 关键字 ? 编译原理
 title: volatile关键字
 type: text/markdown

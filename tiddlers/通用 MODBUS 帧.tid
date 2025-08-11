@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250617114649422
-difficulty: 3.9899999999999998
-due: 20250623135448819
-elapsed_days: 0
+difficulty: 3.148
+due: 20260401034121489
+elapsed_days: 54.57398922453704
 lapses: 0
-last_review: 20250617135448819
+last_review: 20250811034121489
 modified: 20250617114757092
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 233
+stability: 232.86535115625713
 state: 2
 tags: ?
 title: 通用 MODBUS 帧
