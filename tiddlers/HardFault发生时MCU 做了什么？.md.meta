@@ -1,15 +1,15 @@
 annotate-colour: orange
 created: 20250327085731907
 difficulty: 9.29984812
-due: 20250731150448764
-elapsed_days: 4.088420694444444
+due: 20250811034124410
+elapsed_days: 10.525412569444445
 lapses: 1
-last_review: 20250731145448764
-modified: 20250327085810821
-reps: 6
+last_review: 20250811033124410
+modified: 20250811033123662
+reps: 7
 scheduled_days: 0
 stability: 4.8820842367247606
 state: 3
-tags: HardFault问题 ?
+tags: HardFault问题 ? 寄存器
 title: HardFault发生时MCU 做了什么？
 type: text/markdown
