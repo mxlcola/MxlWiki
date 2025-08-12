@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241210133452075
 creator: mxlcola
-difficulty: 4.008706
-due: 20250704035147945
-elapsed_days: 61.85913732638889
+difficulty: 3.1665189400000004
+due: 20271113052946652
+elapsed_days: 174.06804060185186
 lapses: 0
-last_review: 20250219035147945
+last_review: 20250812052946652
 modified: 20250219035147310
 modifier: mxlcola
-reps: 3
-scheduled_days: 135
-stability: 135.25645967732342
+reps: 4
+scheduled_days: 823
+stability: 822.7704192746033
 state: 2
 tags: GPIO八种模式 ?
 title: 下拉输入模式

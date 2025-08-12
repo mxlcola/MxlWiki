@@ -1,12 +1,22 @@
+annotate-colour: green
 created: 20250804134026766
-modified: 20250804135329603
-tags: I2C
+difficulty: 4.93
+due: 20250812053911661
+elapsed_days: 0
+lapses: 0
+last_review: 20250812052911661
+modified: 20250812052853253
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: I2C ? 开漏输出 电路原理 逻辑与
 title: 配置I2C为什么要使用开漏输出?
 
 !! 作用
-# 实现逻辑线与
-# 防止短路
-# 提高输出高电平的能力
+# ''实现逻辑线与''
+# ''防止短路''
+# ''提高输出高电平的能力''
 
 [img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250804214031.png]]
 

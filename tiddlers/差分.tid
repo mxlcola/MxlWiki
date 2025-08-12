@@ -5,14 +5,15 @@ due: 20250808003857482
 elapsed_days: 40.868222708333334
 lapses: 0
 last_review: 20250401003857482
-modified: 20241219121515703
+modified: 20250812052552122
 reps: 3
 scheduled_days: 129
 stability: 129.20179997995874
 state: 2
 tags: 串口 ?
 title: 差分
+wysiwyg: yes
 
-差分：靠两个差分引脚的电压差来传输信号的通信时无需GND
+差分：靠两个差分引脚的''电压差''来传输信号的通信时无需GND
 
 RS485
