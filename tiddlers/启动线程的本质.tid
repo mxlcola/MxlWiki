@@ -1,8 +1,8 @@
 created: 20250712124112732
-modified: 20250712124802501
+modified: 20250812143607927
 tags: 线程调度
 title: 启动线程的本质
 
 !! 启动线程的本质
 
-[img[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250712203933.png]]
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250712203933.png]]

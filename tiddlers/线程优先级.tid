@@ -1,3 +1,12 @@
 created: 20250712124706767
-modified: 20250712124706767
+modified: 20250812143927219
 title: 线程优先级
+
+RT-Thread中每''个线程都有优先级''，最多支持0~255共256个优先级，数字越小，优先级越高。通常Idle线程使用最低优先级。
+RT-Thread使用线程优先级表来维护就绪的线程：
+
+[[就绪链表]]
+
+```c
+rt_list_t rt_thread_priority_table[RT_THREAD_PRIORITY_MAX];
+```
