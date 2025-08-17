@@ -1,15 +1,15 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20250327085731907
 difficulty: 9.29984812
-due: 20250811034124410
-elapsed_days: 10.525412569444445
+due: 20250821032026872
+elapsed_days: 3.9923896064814817
 lapses: 1
-last_review: 20250811033124410
+last_review: 20250815032026872
 modified: 20250811033123662
-reps: 7
-scheduled_days: 0
+reps: 8
+scheduled_days: 6
 stability: 4.8820842367247606
-state: 3
+state: 2
 tags: HardFault问题 ? 寄存器
 title: HardFault发生时MCU 做了什么？
 type: text/markdown
