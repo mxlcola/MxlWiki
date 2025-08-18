@@ -6,13 +6,13 @@ due: 20260721012641128
 elapsed_days: 95.43610074074074
 lapses: 0
 last_review: 20250216012641128
-modified: 20250818140959002
+modified: 20250818150050430
 modifier: mxlcola
 reps: 3
 scheduled_days: 520
 stability: 519.8560579807968
 state: 2
-tags: ?
+tags: ? SP
 title: SP堆栈指针
 
 ''用途''：堆栈指针寄存器（Stack Pointer）。

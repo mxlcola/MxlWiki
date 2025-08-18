@@ -5,12 +5,12 @@ due: 20251203034017603
 elapsed_days: 28.078395983796295
 lapses: 1
 last_review: 20250811034017603
-modified: 20250714014701916
+modified: 20250818144421169
 reps: 6
 scheduled_days: 114
 stability: 113.84254655455562
 state: 2
-tags: 寄存器 ? 异常
+tags: 寄存器 ? 异常 LR
 title: LR寄存器
 type: text/vnd.tiddlywiki
 
