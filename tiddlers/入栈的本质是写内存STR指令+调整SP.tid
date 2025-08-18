@@ -1,8 +1,7 @@
 created: 20241104150511774
 creator: mxlcola
-modified: 20241105121609482
+modified: 20250818141702289
 modifier: mxlcola
-revision: 0
 title: 入栈的本质是写内存STR指令+调整SP
 
 关联：

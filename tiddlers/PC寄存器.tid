@@ -6,13 +6,18 @@ due: 20251020003947981
 elapsed_days: 43.49821862268519
 lapses: 0
 last_review: 20250401003947981
-modified: 20250216124221135
+modified: 20250818141315235
 modifier: mxlcola
 reps: 2
 scheduled_days: 202
 stability: 202.035818702775
 state: 2
-tags: ? 寄存器
+tags: ? 寄存器 PC
 title: PC寄存器
 
 PC寄存器指示了当前线程代码的执行位置，必须保存，以便恢复执行。
+
+
+<<<
+PC 寄存器保存了“下一条指令的地址”，线程切换要保存和恢复它，函数跳转要修改它，中断返回也是从保存的 PC 位置恢复。
+<<<
