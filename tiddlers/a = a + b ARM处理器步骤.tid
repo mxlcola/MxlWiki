@@ -6,7 +6,7 @@ due: 20251005125359322
 elapsed_days: 95.91236865740741
 lapses: 0
 last_review: 20250216125359322
-modified: 20241104140731057
+modified: 20250818134321578
 modifier: mxlcola
 reps: 3
 scheduled_days: 231
@@ -14,6 +14,8 @@ stability: 230.64662950134593
 state: 2
 tags: [[ARM 架构及汇编]] ?
 title: a = a + b ARM处理器步骤
+
+
 
 CPU运行时，先去取得指令，再执行指令：
 
@@ -25,4 +27,4 @@ CPU运行时，先去取得指令，再执行指令：
 
 ④ 把R0的值写入内存a
 
-[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/02_cpu_registers.png]]
+[img width = 600 [https://tc8483.oss-cn-beijing.aliyuncs.com/img/02_cpu_registers.png]]

@@ -6,7 +6,7 @@ due: 20251005125406520
 elapsed_days: 95.91215902777778
 lapses: 0
 last_review: 20250216125406520
-modified: 20241104140531995
+modified: 20250818134515855
 modifier: mxlcola
 reps: 3
 scheduled_days: 231
@@ -15,12 +15,12 @@ state: 2
 tags: [[ARM 架构及汇编]] ?
 title: ARM处理器计算过程
 
-ARM芯片在设计中仅使用简单的指令，具备对内存的读写指令，并在[[CPU]]内部完成数据运算。
+ARM芯片在设计中仅使用简单的指令，具备对内存的''读写指令''，并在[[CPU]]内部完成数据运算。
 
 ! 核心特点
 
 * 内存操作：ARM芯片仅能通过读、写指令访问内存。
 * 数据运算：所有的运算操作都在''[[CPU内部寄存器]]''间完成。
 
-[img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/01_cpu_ram.png]]
+[img width = 600 [https://tc8483.oss-cn-beijing.aliyuncs.com/img/01_cpu_ram.png]]
 

@@ -1,6 +1,8 @@
 created: 20241104134253709
 creator: mxlcola
-modified: 20250711134038613
+modified: 20250818134353356
 modifier: mxlcola
 tags: RT-Thread线程内部机制
 title: ARM 架构及汇编
+
+ARM 是 ''寄存器架构''，意味着 CPU 运算几乎只能在''寄存器''中完成，所以要先把变量从内存加载到寄存器，再进行加法，最后再存回内存。
