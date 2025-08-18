@@ -1,3 +1,5 @@
 created: 20250326141320084
-modified: 20250326141320084
+modified: 20250818150607483
 title: PSP
+
+PSP（Process Stack Pointer）：进程栈指针，运行线程时使用

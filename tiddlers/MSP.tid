@@ -1,3 +1,5 @@
 created: 20250326141252919
-modified: 20250326141252919
+modified: 20250818150629726
 title: MSP
+
+MSP（Main Stack Pointer）：主栈指针，运行内核、异常时使用
