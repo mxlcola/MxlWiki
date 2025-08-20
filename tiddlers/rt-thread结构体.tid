@@ -1,7 +1,8 @@
 created: 20241105132817216
 creator: mxlcola
-modified: 20250727102334750
+modified: 20250820142431464
 modifier: mxlcola
+tags: 线程控制块
 title: rt-thread结构体
 
 !! 线程结构体

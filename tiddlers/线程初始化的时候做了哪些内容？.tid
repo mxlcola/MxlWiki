@@ -6,7 +6,7 @@ due: 20280520124823112
 elapsed_days: 202.25251229166668
 lapses: 0
 last_review: 20250727124823112
-modified: 20250727102334753
+modified: 20250820144232958
 modifier: mxlcola
 reps: 4
 scheduled_days: 1028
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 
 ! 初始化的时候需要把线程的内容构建出来
 # 函数入口
-# 栈
+# [[线程栈]]
 # [[rt-thread结构体]]
 # [[构造栈内容，假装暂停在入口函数]]
 
@@ -27,9 +27,9 @@ type: text/vnd.tiddlywiki
 
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241105212732.png]]
 
-!! 构造栈内容
+{{构造栈内容 rt_hw_stack_init}}
 
-[img[https://tc8483.oss-cn-beijing.aliyuncs.com/image/20241206084240.png]]
+!! 构造的时候，PC指向的是入口函数
 
 关联：
 

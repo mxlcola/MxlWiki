@@ -6,7 +6,7 @@ due: 20260111032233524
 elapsed_days: 61.514394027777776
 lapses: 0
 last_review: 20250113032233524
-modified: 20250727102334753
+modified: 20250820142237835
 modifier: mxlcola
 reps: 3
 scheduled_days: 363
@@ -17,6 +17,8 @@ title: 线程包括哪些内容？
 
 ! 重要内容
 
-* 入口函数
-* 栈
+* 函数入口函数
+* [[线程栈]]
 * [[rt-thread结构体]]
+
+[img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250820222207.png]]
