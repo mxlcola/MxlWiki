@@ -1,15 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241109013445257
-difficulty: 3.2357139999999993
-due: 20250729085630390
-elapsed_days: 37.80832037037037
+difficulty: 3.252656859999999
+due: 20270331233120571
+elapsed_days: 235.60752524305556
 lapses: 0
-last_review: 20241226085630390
+last_review: 20250818233120571
 modified: 20241109013615663
-reps: 4
-revision: 0
-scheduled_days: 215
-stability: 215.24638930750612
+reps: 5
+scheduled_days: 590
+stability: 590.339178103354
 state: 2
 tags: 内存池 ?
 title: 内存池控制块

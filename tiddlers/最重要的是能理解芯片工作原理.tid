@@ -1,17 +1,18 @@
 annotate-colour: dodgerblue
 created: 20250611142145375
-difficulty: 3.9899999999999998
-due: 20250817033611019
-elapsed_days: 0
+difficulty: 3.148
+due: 20251011233225937
+elapsed_days: 7.830728206018518
 lapses: 0
-last_review: 20250811033611019
+last_review: 20250818233225937
 modified: 20250611142428916
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 54
+stability: 53.82419596335003
 state: 2
 tags: 如何学习单片机？ ?
 title: 最重要的是能理解芯片工作原理
+type: text/vnd.tiddlywiki
 
 最重要的是''能理解芯片工作原理''，如何去驱动外设，会看芯片手册，代码不一定要写的很熟练，因为这些是最基础的知识，当你忘记了代码该怎么写，上网一查就能查得到，关键要看得懂，复制下来改一改就可以，多用几次就熟练了。如果想把每个外设，比如各种传感器，辅助芯片，电机等都学会，显然会很吃力，发现根本学不完
 

@@ -1,7 +1,18 @@
+annotate-colour: dodgerblue
 created: 20250719071348924
+difficulty: 3.9899999999999998
+due: 20250824233326787
+elapsed_days: 0
+lapses: 0
+last_review: 20250818233326787
 modified: 20250719071559515
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ?
 title: 阻塞式打印
+type: text/vnd.tiddlywiki
 
 !! 什么是阻塞式打印？
 

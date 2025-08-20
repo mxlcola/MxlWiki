@@ -1,0 +1,30 @@
+annotate-colour: green
+created: 20241209114647734
+creator: mxlcola
+difficulty: 9.949300000000001
+due: 20250827232804263
+elapsed_days: 32.87865642361111
+lapses: 5
+last_review: 20250818232804263
+modified: 20250714014757660
+modifier: mxlcola
+reps: 15
+scheduled_days: 9
+stability: 8.633287739722913
+state: 2
+tags: GPIO ? MOS管
+title: 开漏输出模式
+type: text/vnd.tiddlywiki
+
+```c
+GPIO_Mode_Out_OD
+
+```
+
+[[高阻态]]
+
+[[浮空输入]]
+
+!! 开漏输出，去掉了Nmos管
+
+<img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241209194657918.png" alt="image-20241209194657918" style="zoom:33%;" />

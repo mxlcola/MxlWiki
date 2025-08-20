@@ -1,16 +1,17 @@
 annotate-colour: dodgerblue
 created: 20250625145120409
-difficulty: 4.93
-due: 20250720022421571
-elapsed_days: 21.48070721064815
+difficulty: 4.078599999999999
+due: 20251212232206133
+elapsed_days: 32.87343241898148
 lapses: 0
-last_review: 20250717022421571
+last_review: 20250818232206133
 modified: 20250625145156738
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 116
+stability: 116.34255535888695
 state: 2
 tags: ? flash
 title: 单片机函数保存在哪里？
+type: text/vnd.tiddlywiki
 
 一般是flash中
