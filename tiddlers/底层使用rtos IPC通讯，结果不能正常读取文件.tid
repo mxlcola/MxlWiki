@@ -1,0 +1,4 @@
+created: 20250821060302814
+modified: 20250821060352262
+tags: IPC通讯
+title: 底层使用rtos IPC通讯，结果不能正常读取文件

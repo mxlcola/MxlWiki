@@ -1,24 +1,20 @@
 created: 20250820144131261
-modified: 20250820144259457
+modified: 20250821055840388
 tags: SP ?
 title: 构造栈内容 rt_hw_stack_init
 
 !! 构造栈内容 rt_hw_stack_init()
 
 * 调用 CPU 架构相关的 rt_hw_stack_init()，为该线程构造一次“伪上下文”：
-
-**模拟线程第一次执行时 CPU 寄存器的状态。
-
-**设置 PC = 线程入口函数地址。
-
-**设置 LR = 线程退出时调用的清理函数，例如 rt_thread_exit。
-
+** 模拟线程第一次执行时 CPU 寄存器的状态。
+** 设置 PC = 线程入口函数地址。
+** 设置 LR = 线程退出时调用的清理函数，例如 rt_thread_exit。
 ** 栈顶指针位置对齐，并把初始寄存器内容压栈。
+
 
 ```c
 thread->sp = (void *)rt_hw_stack_init(....)
 ```
-
 ```c
 rt_uint8_t *rt_hw_stack_init(void       *tentry,
                              void       *parameter,
