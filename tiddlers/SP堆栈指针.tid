@@ -6,7 +6,7 @@ due: 20260721012641128
 elapsed_days: 95.43610074074074
 lapses: 0
 last_review: 20250216012641128
-modified: 20250820144319605
+modified: 20250820144352365
 modifier: mxlcola
 reps: 3
 scheduled_days: 520
@@ -18,3 +18,7 @@ title: SP堆栈指针
 ''用途''：堆栈指针寄存器（Stack Pointer）。
 
 ''特点''：R13专门用于指向''当前的堆栈顶位置''，''负责管理函数调用和中断处理过程中的堆栈操作''
+
+关联：
+
+[[堆栈方向]]
