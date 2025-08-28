@@ -1,0 +1,10 @@
+created: 20250826144224388
+modified: 20250826144405124
+tags: SDIO
+title: SD总线通信
+
+SD总线通信是基于命令和数据传输的。通讯由一个''起始位(“0”)''，由一个''停止位(“1”)''终止。
+SD通信一般是主机发送一个命令(Command)，从设备在接收到命令后作出响应(Response)，如有
+需要会有数据(Data)传输参与。
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/20250826224335.png]]

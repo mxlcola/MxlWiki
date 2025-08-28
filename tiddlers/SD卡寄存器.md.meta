@@ -1,15 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241128080354330
-difficulty: 3.9925472199999987
-due: 20250709032500729
-elapsed_days: 34.80163746527778
+difficulty: 4.001921747799998
+due: 20270115143701821
+elapsed_days: 225.46667929398149
 lapses: 1
-last_review: 20250113032500729
+last_review: 20250826143701821
 modified: 20241128080441308
-reps: 5
-revision: 0
-scheduled_days: 177
-stability: 176.94694474715493
+reps: 6
+scheduled_days: 507
+stability: 506.5441744420389
 state: 2
 tags: SDIO 工作积累
 title: SD卡寄存器

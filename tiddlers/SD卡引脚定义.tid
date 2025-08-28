@@ -5,19 +5,14 @@ due: 20241224004729706
 elapsed_days: 5.486260833333334
 lapses: 0
 last_review: 20241205004729706
-modified: 20241219071702301
+modified: 20250826144700279
 reps: 2
-revision: 0
 scheduled_days: 19
 stability: 18.990282961847473
 state: 2
 tags: SDIO
 title: SD卡引脚定义
 type: text/vnd.tiddlywiki
-
-''VDD：'' 电源引脚，连接到供电电源（通常为3.3伏）。
-
-''VSS''： 地线引脚，连接到电路的地线。
 
 ''DAT0''： 数据传输引脚，用于单线双向数据传输。
 
