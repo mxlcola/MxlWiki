@@ -6,7 +6,7 @@ due: 20260111032233524
 elapsed_days: 61.514394027777776
 lapses: 0
 last_review: 20250113032233524
-modified: 20250820142237835
+modified: 20251011135658961
 modifier: mxlcola
 reps: 3
 scheduled_days: 363
@@ -22,3 +22,7 @@ title: 线程包括哪些内容？
 * [[rt-thread结构体]]
 
 [img width=600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250820222207.png]]
+
+!!! Q:A的栈地址在哪里？
+
+记录在机构体里面
