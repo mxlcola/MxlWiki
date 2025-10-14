@@ -6,14 +6,14 @@ due: 20250908122900364
 elapsed_days: 84.49738118055555
 lapses: 0
 last_review: 20250217122900364
-modified: 20250727065532251
+modified: 20251014003643833
 modifier: mxlcola
 reps: 3
 scheduled_days: 203
 stability: 202.53997375380493
 state: 2
 tags: 信号量 ?
-title: 信号量传递什么？
+title: 信号量-信号量传递什么？
 type: text/vnd.tiddlywiki
 
 !! 信号量用于传递状态
