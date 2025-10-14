@@ -1,0 +1,18 @@
+created: 20251014131410959
+modified: 20251014131625231
+tags: 互斥量 待办
+title: 互斥量-拥有者属性
+
+数据结构要点（抽象）
+
+* ''struct rt_mutex''
+
+**''owner''：当前持有该互斥量的线程指针（rt_thread_t）。
+
+**''hold''：递归计数（同一线程重复获取次数）。
+
+**''original_priority''：记录 owner 原始优先级，用于优先级继承后恢复。
+
+**''parent（IPC 头）''：suspend_thread：按优先级排序的等待队列（[[挂起列表]]）。
+
+RT-Thread 的互斥量支持递归和[[优先级继承]]（Priority Inheritance）。

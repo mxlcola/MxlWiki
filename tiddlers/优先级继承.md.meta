@@ -5,11 +5,11 @@ due: 20250927054107701
 elapsed_days: 40.8984059375
 lapses: 1
 last_review: 20250405054107701
-modified: 20251014010958814
+modified: 20251014133156601
 reps: 5
 scheduled_days: 175
 stability: 175.24452734137023
 state: 2
 tags: 信号量 ?
-title: 如何解决优先级反转-优先级继承
+title: 优先级继承
 type: text/markdown

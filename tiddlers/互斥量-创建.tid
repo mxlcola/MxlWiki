@@ -1,0 +1,43 @@
+created: 20251014130346285
+modified: 20251014130650650
+tags: 互斥量 待办
+title: 互斥量-创建
+
+[[互斥量-结构体]]
+
+!! 创建互斥量，主意默认参数
+
+# value = 1，也就是只有一个
+# 拥有者
+# 拥有者优先级
+# hold上锁次数
+
+hold是因为，''同一个线程，可以多次获取take 互斥量''
+
+```c
+
+rt_mutex_t rt_mutex_create(const char *name, rt_uint8_t flag)
+{
+    struct rt_mutex *mutex;
+
+    RT_DEBUG_NOT_IN_INTERRUPT;
+
+    /* allocate object */
+    mutex = (rt_mutex_t)rt_object_allocate(RT_Object_Class_Mutex, name);
+    if (mutex == RT_NULL)
+        return mutex;
+
+    /* initialize ipc object */
+    rt_ipc_object_init(&(mutex->parent));
+
+    mutex->value              = 1;
+    mutex->owner              = RT_NULL;
+    mutex->original_priority  = 0xFF;
+    mutex->hold               = 0;
+
+    /* set flag */
+    mutex->parent.parent.flag = flag;
+
+    return mutex;
+}
+```

@@ -1,0 +1,23 @@
+created: 20250727075943961
+modified: 20251014130703626
+tags: 互斥量
+title: 互斥量-结构体
+
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img20250727160050.png]]
+
+!! 互斥量结构体
+
+```c
+struct rt_mutex
+{
+    struct rt_ipc_object parent;                        /**< inherit from ipc_object */
+
+    rt_uint16_t          value;                         /**< value of mutex */
+
+    rt_uint8_t           original_priority;             /**< priority of last thread hold the mutex */
+    rt_uint8_t           hold;                          /**< numbers of thread hold the mutex */
+
+    struct rt_thread    *owner;                         /**< current owner of mutex */
+};
+```
