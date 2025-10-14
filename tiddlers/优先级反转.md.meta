@@ -5,11 +5,11 @@ due: 20260426232910530
 elapsed_days: 69.74670763888889
 lapses: 1
 last_review: 20250818232910530
-modified: 20250727075143596
+modified: 20251014010958809
 reps: 7
 scheduled_days: 251
 stability: 250.50753033114984
 state: 2
-tags: ? 信号量 同步
-title: 信号量优先级反转
+tags: ? 信号量 同步 RTOS面试准备
+title: 优先级反转
 type: text/markdown
