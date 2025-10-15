@@ -1,5 +1,15 @@
+annotate-colour: green
 created: 20250821053119486
-modified: 20250821053242721
-tags: TF卡 待办 工作积累
+difficulty: 4.93
+due: 20250910080610765
+elapsed_days: 0
+lapses: 0
+last_review: 20250910075610765
+modified: 20250910075610325
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: TF卡 工作积累
 title: TF剩余容量对读写性能的影响？
 type: text/markdown
