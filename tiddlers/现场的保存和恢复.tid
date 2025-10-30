@@ -1,11 +1,11 @@
 created: 20250625144703762
-modified: 20251030114700685
+modified: 20251030114837610
 tags: 线程的概念与保存 FreeRTOS
 title: 现场的保存和恢复
 
 !! 任务切换时要做的事情
 
-[img width = 600[https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/20251030192122.png]]
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/20251030192122.png]]
 
 !! 什么是现场？
 
