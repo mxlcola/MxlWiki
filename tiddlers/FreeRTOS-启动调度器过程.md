@@ -75,7 +75,7 @@ vPortStartFirstTask:
 
 ### 🔍 对应的 SVC 处理函数：`vPortSVCHandler`
 
-[[vPortSVCHandler]]
+[[SVC中断]]
 
 SVC 进入后执行：
 
