@@ -1,10 +1,10 @@
 created: 20250713020854957
-modified: 20250714133806462
-tags: rt_thread_mdelay本质 RT-Thread定时器
+modified: 20251030103919766
+tags: rt_thread_mdelay本质 RT-Thread定时器 SysTick定时器
 title: 如何检查定时器？
 
 !! 相关函数
-* SysTick_Handler
+* [[SysTick_Handler]]
 * rt_tick_increase
 * rt_timer_check();
 * timeout_func

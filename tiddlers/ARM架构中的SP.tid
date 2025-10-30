@@ -1,5 +1,5 @@
 created: 20250818150437484
-modified: 20250818150714332
+modified: 20251030114745809
 tags: SP
 title: ARM架构中的SP
 
@@ -9,7 +9,9 @@ title: ARM架构中的SP
 
 * 有两种栈指针模式（Cortex-M3/M4）
 
-** [[MSP]]（Main Stack Pointer）：主栈指针，运行内核、异常时使用
+** [[MSP]]（Main Stack Pointer）：主栈指针，运行内核、异常时使用，
 
 ** [[PSP]]（Process Stack Pointer）：[[进程栈]]指针，运行线程时使用
+堆栈指针 SP：该任务自己的栈位置
+
 ➜ RT-Thread 在线程模式下使用 [[PSP]]
