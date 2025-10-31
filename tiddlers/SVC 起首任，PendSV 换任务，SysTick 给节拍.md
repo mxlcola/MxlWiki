@@ -1,4 +1,4 @@
-在 FreeRTOS 的 Cortex-M 端口中，[[SVC中断]]() 只负责“启动第一个任务”。
+在 FreeRTOS 的 Cortex-M 端口中，[[SVC中断]] 只负责“启动第一个任务”。
 它不会参与后续任务切换，后续调度都是由 [[PendSV中断]]完成的
 
 

@@ -12,6 +12,8 @@ xTaskCreate / xTaskCreateStatic
 
 ## 伪造之前需要设置栈顶，注意字节对齐
 
+一部分寄存器是硬件处理，一部分是软件处理
+
 ```c
  pxTopOfStack = &( pxNewTCB->pxStack[ ulStackDepth - ( uint32_t ) 1 ] );
 
