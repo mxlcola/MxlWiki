@@ -1,4 +1,12 @@
 created: 20251031112414652
-modified: 20251031112442334
+modified: 20251101085449045
 tags: FreeRTOS
 title: FreeRTOS-队列
+
+* FreeRTOS 的“队列”是一个通用内核对象：[[消息队列]]、计数[[信号量]]、二值信号量、[[互斥量]]（带[[优先级继承]]）、递归互斥量都用同一套底层实现（主要在 queue.c），只是长度/元素大小/特殊分支不同。
+
+* 队列内部用''环形缓冲区''（ring buffer）存放元素，''配合两个等待链表''管理阻塞任务：
+
+** xTasksWaitingToSend：队列满时等待“可发送”的任务。
+
+**xTasksWaitingToReceive：队列空时等待“可接收”的任务
