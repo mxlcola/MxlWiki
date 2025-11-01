@@ -8,3 +8,5 @@
   - `pcWriteTo = pcHead;
   - ` pcReadFrom = pcHead + (uxLength - 1) * uxItemSize;`
      这样**首次接收**时，`pcReadFrom` 先向前步进一个元素，就正好落在第 0 个元素的位置。
+
+![image-20251101192320042](https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/image-20251101192320042.png)

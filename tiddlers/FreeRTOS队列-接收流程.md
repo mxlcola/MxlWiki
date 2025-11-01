@@ -10,3 +10,4 @@
 3. 若队列**为空**且不允许阻塞：返回 `errQUEUE_EMPTY`。
 
 从 ISR 接收：`xQueueReceiveFromISR()`（同样不可阻塞，可能唤醒更高优先级任务）。
+
