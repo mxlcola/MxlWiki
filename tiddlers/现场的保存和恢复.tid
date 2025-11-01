@@ -1,5 +1,5 @@
 created: 20250625144703762
-modified: 20251101025124428
+modified: 20251101053155395
 tags: 线程的概念与保存 FreeRTOS
 title: 现场的保存和恢复
 
@@ -9,11 +9,7 @@ title: 现场的保存和恢复
 
 {{RTOS-什么是现场？}}
 
-!! 寄存器分为软件保存和硬件保存
-
-''硬件自动压一部分，软件补压剩余，TCB 记 SP''
-
-[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/20251030194036.png]]
+{{现场寄存器软硬件处理}}
 
 !! 保存在哪里？-栈
 

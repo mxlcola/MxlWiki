@@ -1,0 +1,10 @@
+created: 20251101053107443
+modified: 20251101053137627
+tags: 
+title: 现场寄存器软硬件处理
+
+!! 寄存器分为软件保存和硬件保存
+
+''硬件自动压一部分，软件补压剩余，TCB 记 SP''
+
+[img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/20251030194036.png]]
