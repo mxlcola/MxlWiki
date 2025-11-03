@@ -1,0 +1,16 @@
+created: 20251103114350258
+modified: 20251103114559962
+tags: FreeRTOS任务
+title: FreeRTOS任务TCB结构体
+
+```c
+typedef struct tskTaskControlBlock {
+    volatile StackType_t *pxTopOfStack; // 当前任务栈顶指针（用于切换）
+    ListItem_t xStateListItem;          // 用于插入状态列表（就绪、阻塞）
+    ListItem_t xEventListItem;          // 用于事件等待列表（如信号量）
+    UBaseType_t uxPriority;             // 任务优先级
+    StackType_t *pxStack;               // 任务栈起始地址
+    ...
+} TCB_t;
+```
+
