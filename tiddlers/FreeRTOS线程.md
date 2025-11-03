@@ -1,4 +1,8 @@
-创建线程
+关联：
+
+[[FreeRTOS任务]]
+
+## 创建线程
 
 ## xTaskCreate源码分析
 
