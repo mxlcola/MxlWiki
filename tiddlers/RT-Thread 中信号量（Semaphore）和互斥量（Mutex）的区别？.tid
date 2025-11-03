@@ -1,6 +1,6 @@
 created: 20251014010056443
-modified: 20251014133156606
-tags: RTOS面试准备 待办
+modified: 20251103104246662
+tags: RTOS面试准备 互斥量 信号量
 title: RT-Thread 中信号量（Semaphore）和互斥量（Mutex）的区别？
 
 信号量和互斥量都是 RT-Thread 提供的线程同步机制，但用途不同：

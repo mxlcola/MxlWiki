@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250723140611432
 difficulty: 4.93
-due: 20250812145224234
-elapsed_days: 0
+due: 20251106104510322
+elapsed_days: 82.83525569444444
 lapses: 0
-last_review: 20250812144224234
-modified: 20251014004802876
-reps: 1
-scheduled_days: 0
+last_review: 20251103104510322
+modified: 20251103104502697
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: IPC通讯 ? RT-Thread定时器
 title: 线程的挂起和唤醒原理
 
@@ -27,7 +27,7 @@ title: 线程的挂起和唤醒原理
 
 !! Q:挂起的线程放在哪里？
 
-每个通知，信号量、队列、邮箱等的结构体都有一个supendlist挂起链表，当有资源或者信号通知时候，从挂起的链表取出，放到
+每个通知，[[信号量]]、队列、[[邮箱]]等的结构体都有一个supendlist挂起链表，当有资源或者信号通知时候，从挂起的链表取出，放到
 [[就绪链表]]
 
 
