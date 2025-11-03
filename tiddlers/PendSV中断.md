@@ -6,7 +6,7 @@
 
 ## 实现代码
 
-[[vPortPendSVHandler]]
+[[vPortPendSVHandler函数]]
 
 
 * **SysTick** 或其它中断触发调度请求 → 设置 PendSV 挂起；
