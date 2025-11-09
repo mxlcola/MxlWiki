@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250326140448140
-difficulty: 5.789913999999999
-due: 20250721014632688
-elapsed_days: 26.497005925925926
+difficulty: 4.929914859999998
+due: 20260805081839406
+elapsed_days: 118.27229995370371
 lapses: 1
-last_review: 20250714014632688
+last_review: 20251109081839406
 modified: 20250327134252111
-reps: 5
-scheduled_days: 7
-stability: 6.404220450728157
+reps: 6
+scheduled_days: 269
+stability: 269.0114691323573
 state: 2
 tags: HardFault问题 ? 内核 寄存器
 title: 异常发生时，内核如何保存上下文？
