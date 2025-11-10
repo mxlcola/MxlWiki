@@ -1,8 +1,3 @@
-created: 20251030131434390
-modified: 20251030131446250
-tags: SysTick中断
-title: SysTick在FreeRTOS中的作用
-
 # ⚙️ SysTick 在 FreeRTOS 中的作用
 
 在 FreeRTOS 中，**SysTick 中断就是系统“节拍心跳”**，
