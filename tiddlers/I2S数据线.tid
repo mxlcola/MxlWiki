@@ -1,3 +1,5 @@
 created: 20250109113537981
-modified: 20251110131254873
+modified: 20251110131354053
 title: I2S数据线
+
+SD线用于传输实际的音频数据。数据的位宽可以根据具体应用而变化，通常为16位或32位。TX方向为：Serial Data Out（SDOUT）；RX方向为：Serial Data In（SDIN）
