@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250109113320022
-difficulty: 3.148
-due: 20251017003958469
-elapsed_days: 42.50679630787037
+difficulty: 3.16582
+due: 20270605124055179
+elapsed_days: 227.5006563773148
 lapses: 0
-last_review: 20250401003958469
+last_review: 20251114124055179
 modified: 20251110131254877
-reps: 2
-scheduled_days: 199
-stability: 199.01468148554034
+reps: 3
+scheduled_days: 568
+stability: 568.3158985047604
 state: 2
 tags: I2S ?
 title: I2S基本信号线
