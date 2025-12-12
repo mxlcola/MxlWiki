@@ -5,12 +5,12 @@ due: 20261209073608533
 elapsed_days: 116.81447945601852
 lapses: 0
 last_review: 20250329073608533
-modified: 20241126062640275
+modified: 20251212090555010
 reps: 3
 scheduled_days: 620
 stability: 619.6490784622727
 state: 2
-tags: 入门问题 ?
+tags: 入门问题 ? tiddlywiki同步
 title: 太记手机电脑同步探索
 type: text/vnd.tiddlywiki
 
@@ -21,3 +21,7 @@ type: text/vnd.tiddlywiki
 流程上整明白了
 
 不同电脑和同一个手机也是可以同步，需要注意手机得扫码二维码重新更新服务器列表
+
+补充：
+
+tiddlywiki在手机上是''通过数据库sqlite和http 同步的''

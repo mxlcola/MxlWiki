@@ -9,16 +9,15 @@ history: []
 interval: 0
 lapses: 0
 last_review: 20241226085503440
-modified: 20241101022850271
+modified: 20251212090738242
 modifier: mxlcola
 reps: 3
 retrievability: 1
 review: 20241101022850271
-revision: 0
 scheduled_days: 295
 stability: 295.0759418359143
 state: 2
-tags: TiddlyWiki ?
+tags: TiddlyWiki
 title: TiddlyWiki学习路线
 
 # 一开始可以先从不断添加新笔记出发
