@@ -1,8 +1,17 @@
+annotate-colour: green
 created: 20241124121316102
 creator: mxlcola
-modified: 20241124121405020
+difficulty: 4.93
+due: 20251216104728811
+elapsed_days: 0
+lapses: 0
+last_review: 20251216103728811
+modified: 20251216103727991
 modifier: mxlcola
-revision: 0
-tags: anki
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: anki ?
 title: anki用途，搭建知识体系
 type: text/markdown
