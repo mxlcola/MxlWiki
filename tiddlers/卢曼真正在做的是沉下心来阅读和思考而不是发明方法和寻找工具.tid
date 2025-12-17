@@ -1,25 +1,24 @@
 annotate-colour: dodgerblue
 created: 20231125140045932
 creator: 老乐
-difficulty: 2.31442
-due: 20251018085721710
-elapsed_days: 47.86502761574074
+difficulty: 1.4891758000000002
+due: 20310129094539316
+elapsed_days: 356.0335371064815
 grade: 1
 history: [{"due":"20231130131248790","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231128131248790"},{"due":"20240628022415885","interval":145,"difficulty":4.200481484082612,"stability":67.67944056179094,"retrievability":0.00048148408261157477,"grade":1,"lapses":0,"reps":2,"review":"20240421022415885"}]
 interval: 192
 lapses: 0
-last_review: 20241226085721710
-modified: 20250215142309482
+last_review: 20251217094539316
+modified: 20251217094538559
 modifier: mxlcola
-reps: 3
+reps: 4
 retrievability: 0.7416353856827572
 review: 20241030131525836
-revision: 0
-scheduled_days: 296
-stability: 295.78348763189786
+scheduled_days: 1869
+stability: 1868.9136376841345
 state: 2
 tags: 卡片笔记法 卢曼笔记法 ?
-title: 卡片笔记的误区
+title: 卢曼真正在做的是沉下心来阅读和思考而不是发明方法和寻找工具
 
 本来这个方法是让人注重学习的积累的，结果大家都把精力集中在用什么工具能把卡片盒做得井井有条上去了……
 

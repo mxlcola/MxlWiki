@@ -1,17 +1,17 @@
-annotate-colour: red
+annotate-colour: dodgerblue
 created: 20241210133440004
 creator: mxlcola
 difficulty: 7.416129047379999
-due: 20250818233711091
-elapsed_days: 69.52468221064815
+due: 20251225095126999
+elapsed_days: 120.43004521990741
 lapses: 2
-last_review: 20250818233211091
+last_review: 20251217095126999
 modified: 20250811145130019
 modifier: mxlcola
-reps: 7
-scheduled_days: 0
+reps: 8
+scheduled_days: 8
 stability: 6.726281901269712
-state: 3
+state: 2
 tags: GPIO八种模式 ?
 title: 上拉输入模式
 type: text/vnd.tiddlywiki
