@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250407144455392
-difficulty: 3.9994
-due: 20250727054004639
-elapsed_days: 37.20638443287037
+difficulty: 3.157306
+due: 20280703121733871
+elapsed_days: 217.2760327662037
 lapses: 0
-last_review: 20250515054004639
+last_review: 20251218121733871
 modified: 20250515125847137
-reps: 2
-scheduled_days: 73
-stability: 73.32286301221673
+reps: 3
+scheduled_days: 928
+stability: 927.5448856537935
 state: 2
 tags: ? 重定位 变量
 title: 数据重定位

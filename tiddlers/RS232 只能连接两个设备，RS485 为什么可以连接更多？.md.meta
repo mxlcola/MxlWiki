@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20250311145949295
-difficulty: 5.694477999999999
-due: 20250801135253587
-elapsed_days: 33.550866238425925
+difficulty: 5.686833219999999
+due: 20260902121816587
+elapsed_days: 183.9342939699074
 lapses: 1
-last_review: 20250617135253587
+last_review: 20251218121816587
 modified: 20250311150027808
-reps: 4
-scheduled_days: 45
-stability: 45.34122485288468
+reps: 5
+scheduled_days: 258
+stability: 257.5862016552975
 state: 2
 tags: ?
 title: RS232 只能连接两个设备，RS485 为什么可以连接更多？

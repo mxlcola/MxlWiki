@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250514134927333
-difficulty: 4.93
-due: 20250726133603596
-elapsed_days: 6.466330972222222
+difficulty: 4.078599999999999
+due: 20260628121729680
+elapsed_days: 147.94544078703703
 lapses: 0
-last_review: 20250723133603596
+last_review: 20251218121729680
 modified: 20250610133803780
-reps: 3
-scheduled_days: 3
-stability: 2.4
+reps: 4
+scheduled_days: 192
+stability: 192.10291214912215
 state: 2
 tags: FMC LCD ? 并口屏
 title: FMC能连接什么设备？

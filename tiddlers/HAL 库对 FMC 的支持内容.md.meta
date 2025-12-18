@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250514151502499
-difficulty: 5.7021999999999995
-due: 20250727133637199
-elapsed_days: 6.466646284722223
+difficulty: 5.694477999999999
+due: 20260310121741446
+elapsed_days: 147.9451880324074
 lapses: 1
-last_review: 20250723133637199
+last_review: 20251218121741446
 modified: 20250514151741465
-reps: 4
-scheduled_days: 4
-stability: 3.3270504162057577
+reps: 5
+scheduled_days: 82
+stability: 81.67169895913474
 state: 2
 tags: FMC ? HAL
 title: HAL 库对 FMC 的支持内容

@@ -1,15 +1,15 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20250819150903980
 difficulty: 6.81
-due: 20251217100238528
-elapsed_days: 119.17237087962963
+due: 20251220121632240
+elapsed_days: 1.099927199074074
 lapses: 0
-last_review: 20251217095238528
+last_review: 20251218121632240
 modified: 20250819151054243
-reps: 2
-scheduled_days: 0
+reps: 3
+scheduled_days: 2
 stability: 0.4
-state: 1
+state: 2
 tags: GPIO复用 ?
 title: 常见外设与复用模式的对应关系
 type: text/markdown
