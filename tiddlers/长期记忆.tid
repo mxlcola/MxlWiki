@@ -6,7 +6,7 @@ due: 20260606080113532
 elapsed_days: 84.15290912037037
 lapses: 0
 last_review: 20250223080113532
-modified: 20241124013310756
+modified: 20251218123537710
 modifier: mxlcola
 reps: 3
 scheduled_days: 468
@@ -16,6 +16,4 @@ tags: ?
 title: 长期记忆
 type: text/vnd.tiddlywiki
 
-长期记忆VS工作记忆,从硬件角度做类比 
-
-长期记忆可以比作内存，从内存中读写虽然没有缓存快，但是要远比 I/O 操作快得多
+长期记忆可以比作[[内存]]，从内存中读写虽然没有缓存快，但是要远比 I/O 操作快得多
