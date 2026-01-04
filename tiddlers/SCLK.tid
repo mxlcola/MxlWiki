@@ -1,4 +1,7 @@
 created: 20260104025025119
-modified: 20260104025025119
+modified: 20260104112336136
+tags: ? 时钟
 title: SCLK
 type: 
+
+（Serial Clock，串行时钟）：主设备提供时钟信号，从设备据此进行数据采样和传输。

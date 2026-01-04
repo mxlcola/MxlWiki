@@ -1,6 +1,16 @@
+annotate-colour: dodgerblue
 created: 20250809083827506
-modified: 20250809084842618
-tags: 时钟源 时钟树
+difficulty: 3.9899999999999998
+due: 20260110113053391
+elapsed_days: 0
+lapses: 0
+last_review: 20260104113053391
+modified: 20260104113052687
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 时钟源 时钟树 ?
 title: HSE
 
 HSE 时钟是由外部时钟源提供，目前几乎所有的 STM32 单片机的设计都是在外部接一个 8MHz 的[[晶振]]，经过 PLL 倍频（9 倍频）后得到一个 72MHz 的系统时钟

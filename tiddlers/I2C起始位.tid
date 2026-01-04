@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250804134719304
-difficulty: 3.9899999999999998
-due: 20250818053245444
-elapsed_days: 0
+difficulty: 3.9994
+due: 20260530112619534
+elapsed_days: 145.2455334490741
 lapses: 0
-last_review: 20250812053245444
+last_review: 20260104112619534
 modified: 20250812053219208
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 146
+stability: 146.37907964388828
 state: 2
 tags: I2C ?
 title: I2C起始位

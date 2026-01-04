@@ -1,17 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241130134024668
 creator: mxlcola
-difficulty: 4.087113999999999
-due: 20250721011347045
-elapsed_days: 67.49642008101851
+difficulty: 3.244142859999999
+due: 20290902113117488
+elapsed_days: 322.4288245833333
 lapses: 0
-last_review: 20250216011347045
+last_review: 20260104113117488
 modified: 20241203034745719
 modifier: mxlcola
-reps: 4
-revision: 1
-scheduled_days: 155
-stability: 155.22097982517997
+reps: 5
+scheduled_days: 1337
+stability: 1337.269221532675
 state: 2
 tags: 想法 欲望
 title: 为什么思考会痛苦？

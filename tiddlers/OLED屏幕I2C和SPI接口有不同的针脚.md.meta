@@ -1,0 +1,15 @@
+annotate-colour: green
+created: 20260104113445086
+difficulty: 4.93
+due: 20260104114603307
+elapsed_days: 0
+lapses: 0
+last_review: 20260104113603307
+modified: 20260104113601119
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: OLED I2C SPI ?
+title: OLED屏幕I2C和SPI接口有不同的针脚
+type: text/markdown

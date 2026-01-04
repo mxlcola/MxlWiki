@@ -5,7 +5,7 @@ due: 20260104030036574
 elapsed_days: 0
 lapses: 0
 last_review: 20260104025036574
-modified: 20250612004049616
+modified: 20260104112313948
 reps: 1
 scheduled_days: 0
 stability: 2.4
@@ -16,6 +16,6 @@ title: SPI通讯线
 标准SPI是一种[[全双工]]通信协议，拥有四条主要通信线：
 
 * [[CS]]（Chip Select，片选）：用于选择参与通信的从设备。
-*[[ SCLK]]（Serial Clock，串行时钟）：主设备提供时钟信号，从设备据此进行数据采样和传输。
+*[[SCLK]]（Serial Clock，串行时钟）：主设备提供时钟信号，从设备据此进行数据采样和传输。
 * [[MOSI]]（Master Out, Slave In）：主设备向从设备发送数据的线。
 * [[MISO]]（Master In, Slave Out）：从设备向主设备发送数据的线。

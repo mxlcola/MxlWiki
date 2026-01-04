@@ -1,17 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241112150549972
 creator: 老乐
-difficulty: 3.16582
-due: 20250824142712259
-elapsed_days: 75.10665100694445
+difficulty: 2.3320618000000004
+due: 20300305113147787
+elapsed_days: 322.8781889699074
 lapses: 0
-last_review: 20250215142712259
-modified: 20250215142712231
+last_review: 20260104113147787
+modified: 20260104113149273
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 190
-stability: 189.84382596518992
+reps: 4
+scheduled_days: 1521
+stability: 1521.387438118894
 state: 2
 tags: 想法 注意事项
 title: 洗衣服一定要注意的事项
@@ -23,7 +22,5 @@ wysiwyg: yes
 一定
 
 一定要拿出纸巾！！！！
-
-
 
 不然的话清理起来实在很麻烦
