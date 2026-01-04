@@ -1,5 +1,15 @@
+annotate-colour: dodgerblue
 created: 20250819144837441
-modified: 20260104024732636
-tags: ? 开漏输出
+difficulty: 3.9899999999999998
+due: 20260110111747913
+elapsed_days: 0
+lapses: 0
+last_review: 20260104111747913
+modified: 20260104111747208
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: ? 开漏输出 推挽输出
 title: 推挽输出和开漏输出有什么区别？什么时候选用开漏？
 type: text/markdown
