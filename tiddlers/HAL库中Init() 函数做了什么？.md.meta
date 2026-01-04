@@ -1,5 +1,15 @@
+annotate-colour: dodgerblue
 created: 20250514152037950
+difficulty: 3.9899999999999998
+due: 20260110024942766
+elapsed_days: 0
+lapses: 0
+last_review: 20260104024942766
 modified: 20250514152209086
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: HAL ? FMC
 title: HAL库中Init() 函数做了什么？
 type: text/markdown
