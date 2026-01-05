@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: orange
 created: 20250407143915538
-difficulty: 5.851293999999998
-due: 20250809013659624
-elapsed_days: 55.04297916666667
-lapses: 0
-last_review: 20250605013659624
+difficulty: 7.544881059999998
+due: 20260105062257807
+elapsed_days: 0.003567789351851852
+lapses: 1
+last_review: 20260105061257807
 modified: 20250515130019479
-reps: 4
-scheduled_days: 65
-stability: 65.23845544898286
-state: 2
+reps: 6
+scheduled_days: 0
+stability: 8.833959717535967
+state: 3
 tags: 内存段 ? ROM
 title: 嵌入式系统中的内存布局
 type: text/markdown

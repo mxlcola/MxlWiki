@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250804135552957
 difficulty: 4.93
-due: 20260104113621181
-elapsed_days: 0
+due: 20260108060713722
+elapsed_days: 0.7783859027777777
 lapses: 0
-last_review: 20260104112621181
+last_review: 20260105060713722
 modified: 20260104112603259
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: ?
 title: SCL
 type: 

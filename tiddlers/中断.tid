@@ -1,6 +1,16 @@
+annotate-colour: dodgerblue
 created: 20250405054720297
-modified: 20250729003320532
-tags: 实时性
+difficulty: 3.9899999999999998
+due: 20260111061557792
+elapsed_days: 0
+lapses: 0
+last_review: 20260105061557792
+modified: 20260105061557133
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
+tags: 实时性 ?
 title: 中断
 
 !! 什么是中断？

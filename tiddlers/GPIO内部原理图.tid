@@ -1,14 +1,14 @@
 annotate-colour: green
 created: 20241209123010589
-difficulty: 8.32645782915208
-due: 20250910124443589
-elapsed_days: 57.90395577546296
+difficulty: 8.29249325086056
+due: 20260620061229958
+elapsed_days: 177.72762002314815
 lapses: 2
-last_review: 20250711124443589
+last_review: 20260105061229958
 modified: 20250712020643689
-reps: 10
-scheduled_days: 61
-stability: 60.9136075308783
+reps: 11
+scheduled_days: 166
+stability: 166.09683514786326
 state: 2
 tags: GPIO ?
 title: GPIO内部原理图

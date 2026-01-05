@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: green
 created: 20250604121240436
-difficulty: 5.7814
-due: 20250830033335578
-elapsed_days: 60.12112409722222
+difficulty: 5.772885999999999
+due: 20260701061151846
+elapsed_days: 147.1099105324074
 lapses: 0
-last_review: 20250811033335578
-modified: 20250604121844876
-reps: 3
-scheduled_days: 19
-stability: 18.930067040264138
+last_review: 20260105061151846
+modified: 20260105061151144
+reps: 4
+scheduled_days: 177
+stability: 177.44334802410805
 state: 2
-tags: ?
+tags: 
 title: C语言浮点数

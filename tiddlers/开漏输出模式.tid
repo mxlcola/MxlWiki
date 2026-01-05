@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241209114647734
 creator: mxlcola
-difficulty: 9.949300000000001
-due: 20250827232804263
-elapsed_days: 32.87865642361111
+difficulty: 9.047707000000003
+due: 20260319061140071
+elapsed_days: 139.28027554398147
 lapses: 5
-last_review: 20250818232804263
+last_review: 20260105061140071
 modified: 20250714014757660
 modifier: mxlcola
-reps: 15
-scheduled_days: 9
-stability: 8.633287739722913
+reps: 16
+scheduled_days: 73
+stability: 72.97911857300343
 state: 2
 tags: GPIO ? MOS管
 title: 开漏输出模式

@@ -1,5 +1,15 @@
+annotate-colour: green
 created: 20250818144117493
+difficulty: 4.93
+due: 20260105062112390
+elapsed_days: 0
+lapses: 0
+last_review: 20260105061112390
 modified: 20250818144453061
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
 tags: 线程栈 ?
 title: 线程栈里能放什么？
 

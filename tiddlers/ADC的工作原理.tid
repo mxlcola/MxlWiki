@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250515034154361
-difficulty: 3.9899999999999998
-due: 20250802124908323
-elapsed_days: 0
+difficulty: 3.148
+due: 20270127060740659
+elapsed_days: 161.72120758101852
 lapses: 0
-last_review: 20250727124908323
+last_review: 20260105060740659
 modified: 20250515034356033
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 387
+stability: 386.91560817932304
 state: 2
 tags: ADC ?
 title: ADC的工作原理

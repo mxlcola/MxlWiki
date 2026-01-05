@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: green
 created: 20241204113141705
-difficulty: 3.1919758000000003
-due: 20250911054412018
-elapsed_days: 106.94162178240741
+difficulty: 3.2093560420000005
+due: 20270830061233630
+elapsed_days: 275.0196946064815
 lapses: 0
-last_review: 20250405054412018
+last_review: 20260105061233630
 modified: 20241204113256093
-reps: 4
-scheduled_days: 159
-stability: 158.58249017623532
+reps: 5
+scheduled_days: 602
+stability: 601.9047686428527
 state: 2
 tags: PWM ? 低功耗
 title: 如何在关闭背光时降低功耗？可以通过停止定时器或关闭背光驱动电路实现吗？

@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250514145931633
-difficulty: 3.9899999999999998
-due: 20250826054129115
-elapsed_days: 0
+difficulty: 3.148
+due: 20270106060943050
+elapsed_days: 138.01960571759258
 lapses: 0
-last_review: 20250820054129115
+last_review: 20260105060943050
 modified: 20250819151017943
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 366
+stability: 365.804947003409
 state: 2
 tags: FSMC GPIO GPIO复用 ?
 title: FSMC 是怎么做到这么方便的？与GPIO复用？

@@ -1,16 +1,16 @@
 annotate-colour: green
 created: 20241119134649631
 creator: mxlcola
-difficulty: 3.16582
-due: 20250908122900364
-elapsed_days: 84.49738118055555
+difficulty: 3.1834618000000003
+due: 20271215061213538
+elapsed_days: 321.7383469212963
 lapses: 0
-last_review: 20250217122900364
+last_review: 20260105061213538
 modified: 20251014003643833
 modifier: mxlcola
-reps: 3
-scheduled_days: 203
-stability: 202.53997375380493
+reps: 4
+scheduled_days: 709
+stability: 709.482268350459
 state: 2
 tags: 信号量 ?
 title: 信号量-信号量传递什么？

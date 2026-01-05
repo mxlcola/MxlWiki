@@ -6,13 +6,13 @@ due: 20250912080134592
 elapsed_days: 88.18731291666667
 lapses: 0
 last_review: 20250223080134592
-modified: 20250818140959006
+modified: 20260105061347122
 modifier: mxlcola
 reps: 5
 scheduled_days: 201
 stability: 201.47955514512932
 state: 2
-tags: ? CPU
+tags: ? CPU 保存现场
 title: CPU内部寄存器
 type: text/vnd.tiddlywiki
 

@@ -1,16 +1,24 @@
+annotate-colour: green
 created: 20251101025019735
-modified: 20251114122709387
-tags: 
+difficulty: 4.93
+due: 20260105062513257
+elapsed_days: 0
+lapses: 0
+last_review: 20260105061513257
+modified: 20260105061512483
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: 保存现场 ?
 title: RTOS-什么是现场？
 
 !! 什么是现场？
 
-''寄存器 + 程序计数器 + 状态字 + 栈指针等 CPU 执行状态
-
+''寄存器 + 程序计数器 + 状态字 + 栈指针等 CPU 执行状态''
 
 [img width = 600 [https://mxloss112233.oss-cn-beijing.aliyuncs.com/img/20251101105337.png]]
 
-''
 * 程序计数器 PC / 返回地址：回到哪条指令继续执行
 
 * 堆栈指针 SP：该任务自己的栈位置

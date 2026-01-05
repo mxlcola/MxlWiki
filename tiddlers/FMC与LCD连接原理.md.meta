@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250514135039930
-difficulty: 6.632799999999999
-due: 20250824054108482
-elapsed_days: 5.095127569444444
+difficulty: 6.615771999999998
+due: 20260304060918682
+elapsed_days: 138.01956252314815
 lapses: 1
-last_review: 20250820054108482
+last_review: 20260105060918682
 modified: 20250612004012582
-reps: 4
-scheduled_days: 4
-stability: 2.6646383906797384
+reps: 5
+scheduled_days: 58
+stability: 57.91650913752129
 state: 2
 tags: FMC LCD ? 内存映射
 title: FMC与LCD连接原理

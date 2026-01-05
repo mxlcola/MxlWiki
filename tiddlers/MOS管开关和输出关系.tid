@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241209114214446
-difficulty: 6.615687711399998
-due: 20250911103235341
-elapsed_days: 68.41248991898148
+difficulty: 5.747430834285997
+due: 20270913061248874
+elapsed_days: 210.81960108796295
 lapses: 1
-last_review: 20250608103235341
+last_review: 20260105061248874
 modified: 20250723150028707
-reps: 7
-scheduled_days: 95
-stability: 94.87559620957781
+reps: 8
+scheduled_days: 616
+stability: 615.889291841894
 state: 2
 tags: GPIO ? MOS管 推挽输出
 title: MOS管开关和输出关系
