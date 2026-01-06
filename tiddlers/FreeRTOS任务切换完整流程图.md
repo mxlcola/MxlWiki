@@ -1,4 +1,3 @@
-[[FreeRTOS任务]]
 
 ## FreeRTOS 任务切换完整流程图
 
