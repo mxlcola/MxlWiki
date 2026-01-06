@@ -1,15 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241109012225826
-difficulty: 3.16582
-due: 20250915015950379
-elapsed_days: 88.51856978009259
+difficulty: 2.3320618000000004
+due: 20300330001240624
+elapsed_days: 324.92558152777775
 lapses: 0
-last_review: 20250215015950379
+last_review: 20260106001240624
 modified: 20241109012959601
-reps: 3
-revision: 0
-scheduled_days: 212
-stability: 212.10837811807087
+reps: 4
+scheduled_days: 1544
+stability: 1543.936158645452
 state: 2
 tags: RT-Thread内存管理 ?
 title: 内存堆管理

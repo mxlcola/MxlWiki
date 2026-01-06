@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250611142145375
-difficulty: 3.148
-due: 20251011233225937
-elapsed_days: 7.830728206018518
+difficulty: 3.16582
+due: 20261108001746269
+elapsed_days: 140.03148533564814
 lapses: 0
-last_review: 20250818233225937
+last_review: 20260106001746269
 modified: 20250611142428916
-reps: 2
-scheduled_days: 54
-stability: 53.82419596335003
+reps: 3
+scheduled_days: 306
+stability: 305.6806375972361
 state: 2
 tags: 如何学习单片机？ ?
 title: 最重要的是能理解芯片工作原理

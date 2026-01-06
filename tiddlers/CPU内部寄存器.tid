@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241104140920149
 creator: mxlcola
-difficulty: 4.095542859999998
-due: 20250912080134592
-elapsed_days: 88.18731291666667
+difficulty: 3.2524874313999987
+due: 20290918001209809
+elapsed_days: 316.6740187384259
 lapses: 0
-last_review: 20250223080134592
-modified: 20260105061347122
+last_review: 20260106001209809
+modified: 20260106001207308
 modifier: mxlcola
-reps: 5
-scheduled_days: 201
-stability: 201.47955514512932
+reps: 6
+scheduled_days: 1351
+stability: 1351.1427969009203
 state: 2
 tags: ? CPU 保存现场
 title: CPU内部寄存器
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 
 ''用途''：堆栈指针寄存器（Stack Pointer）。
 
-''特点''：R13专门用于指向当前的堆栈顶位置，负责管理函数调用和中断处理过程中的堆栈操作。
+''特点''：R13专门用于指向当前的堆''栈顶位置''，负责管理函数调用和中断处理过程中的堆栈操作。
 
 ! R14（[[LR链接寄存器]]）
 
@@ -37,7 +37,7 @@ type: text/vnd.tiddlywiki
 ! R15（PC程序计数器）
 
 ''用途''：程序计数器（Program Counter）。
-''特点''：R15用于存储当前正在执行的指令地址。程序计数器控制指令的执行顺序，每次指令执行后自动更新，以指向下一条指令地址。
+''特点''：R15用于''存储当前正在执行的指令地址''。程序计数器控制指令的执行顺序，每次指令执行后自动更新，以指向下一条指令地址。
 
 ! 总结
 * R0-R12：通用寄存器，用于普通计算和数据传递。

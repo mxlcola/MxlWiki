@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241104141147462
 creator: mxlcola
-difficulty: 3.16582
-due: 20251005125412429
-elapsed_days: 95.91155158564816
+difficulty: 2.3320618000000004
+due: 20300406001148115
+elapsed_days: 323.47055193287036
 lapses: 0
-last_review: 20250216125412429
+last_review: 20260106001148115
 modified: 20250818144408001
 modifier: mxlcola
-reps: 3
-scheduled_days: 231
-stability: 230.64917858101992
+reps: 4
+scheduled_days: 1551
+stability: 1550.5963644865333
 state: 2
 tags: ? LR
 title: LR链接寄存器

@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: orange
 created: 20250804141905270
-difficulty: 3.148
-due: 20251005233116596
-elapsed_days: 6.748870439814815
+difficulty: 4.01722
+due: 20260507001720190
+elapsed_days: 140.03198604166667
 lapses: 0
-last_review: 20250818233116596
+last_review: 20260106001720190
 modified: 20250812053244759
-reps: 2
-scheduled_days: 48
-stability: 47.62801575110743
+reps: 3
+scheduled_days: 121
+stability: 120.59958501673503
 state: 2
 tags: I2C ?
 title: I2C起始信号和结束信号

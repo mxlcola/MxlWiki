@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241104133056264
 creator: mxlcola
-difficulty: 3.16582
-due: 20251005130117796
-elapsed_days: 95.91800300925927
+difficulty: 2.3320618000000004
+due: 20300406001659405
+elapsed_days: 323.4692315856482
 lapses: 0
-last_review: 20250216130117796
+last_review: 20260106001659405
 modified: 20250818132916791
 modifier: mxlcola
-reps: 3
-scheduled_days: 231
-stability: 230.65559900851517
+reps: 4
+scheduled_days: 1551
+stability: 1550.595574665793
 state: 2
 tags: 线程的概念与保存 ?
 title: 什么是线程？

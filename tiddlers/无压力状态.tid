@@ -1,16 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241203131407933
 creator: mxlcola
-difficulty: 3.16582
-due: 20250913125032135
-elapsed_days: 80.5089691087963
+difficulty: 2.3320618000000004
+due: 20300129001212655
+elapsed_days: 311.47338563657405
 lapses: 0
-last_review: 20250228125032135
+last_review: 20260106001212655
 modified: 20250228125016643
 modifier: mxlcola
-reps: 3
-scheduled_days: 197
-stability: 197.49067657113406
+reps: 4
+scheduled_days: 1484
+stability: 1483.7474888471588
 state: 2
 tags: ? GTD 压力
 title: 无压力状态

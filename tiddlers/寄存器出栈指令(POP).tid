@@ -1,17 +1,16 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20241104150735374
 creator: mxlcola
-difficulty: 3.16582
-due: 20251001020131241
-elapsed_days: 94.46033149305556
+difficulty: 2.3320618000000004
+due: 20300409001507524
+elapsed_days: 324.9261143981482
 lapses: 0
-last_review: 20250215020131241
+last_review: 20260106001507524
 modified: 20241104150905678
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 228
-stability: 228.20777841454162
+reps: 4
+scheduled_days: 1554
+stability: 1554.4767813652434
 state: 2
 tags: 常见汇编指令 ? 栈
 title: 寄存器出栈指令(POP)

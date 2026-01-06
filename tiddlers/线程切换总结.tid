@@ -1,18 +1,18 @@
 annotate-colour: green
 created: 20241104133658689
 creator: mxlcola
-difficulty: 3.16582
-due: 20251005125347032
-elapsed_days: 95.91236703703704
+difficulty: 3.1834618000000003
+due: 20280112001637058
+elapsed_days: 323.4741901388889
 lapses: 0
-last_review: 20250216125347032
-modified: 20250818141051527
+last_review: 20260106001637058
+modified: 20260106001559946
 modifier: mxlcola
-reps: 3
-scheduled_days: 231
-stability: 230.64614262089026
+reps: 4
+scheduled_days: 736
+stability: 736.3786805748708
 state: 2
-tags: 线程的概念与保存 ?
+tags: 线程的概念与保存 ? 保存现场
 title: 线程切换总结
 
 在线程切换时，最重要的是''保存CPU寄存器的状态'' ，

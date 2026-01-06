@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250515033949051
-difficulty: 4.078599999999999
-due: 20250921120610419
-elapsed_days: 10.404250636574075
+difficulty: 3.2357139999999993
+due: 20271221001255002
+elapsed_days: 162.50468266203703
 lapses: 0
-last_review: 20250727120610419
+last_review: 20260106001255002
 modified: 20250727120609958
-reps: 3
-scheduled_days: 56
-stability: 55.744040531558824
+reps: 4
+scheduled_days: 714
+stability: 713.787771788616
 state: 2
 tags: ? DAC
 title: 模拟信号

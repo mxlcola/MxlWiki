@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20241126130105517
-difficulty: 4.017833799999999
-due: 20250927054107701
-elapsed_days: 40.8984059375
+difficulty: 3.1755554619999993
+due: 20290428001404331
+elapsed_days: 275.7728776736111
 lapses: 1
-last_review: 20250405054107701
+last_review: 20260106001404331
 modified: 20251014133156601
-reps: 5
-scheduled_days: 175
-stability: 175.24452734137023
+reps: 6
+scheduled_days: 1208
+stability: 1207.545514513806
 state: 2
 tags: 信号量 ?
 title: 优先级继承
