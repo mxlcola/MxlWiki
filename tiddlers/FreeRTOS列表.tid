@@ -1,8 +1,14 @@
 created: 20251103105221838
-modified: 20260106010231663
+modified: 20260106011349017
 tags: FreeRTOS
 title: FreeRTOS列表
 
 [[FreeRTOS 链表是什么?]]
 
 [[FreeRTOS 链表结构体（list 与 list item）]]
+
+[[FreeRTOS列表主要结构体定义]]
+
+[[FreeRTOS列表初始化函数]]
+
+[[FreeRTOS列表插入]]
