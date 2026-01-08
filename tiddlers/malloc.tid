@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250508152030436
-difficulty: 3.9994
-due: 20251106145753042
-elapsed_days: 69.38793798611111
+difficulty: 3.157306
+due: 20280303101148212
+elapsed_days: 168.80133300925925
 lapses: 0
-last_review: 20250723145753042
+last_review: 20260108101148212
 modified: 20250515053858087
-reps: 2
-scheduled_days: 106
-stability: 105.930788435685
+reps: 3
+scheduled_days: 785
+stability: 784.9800272844265
 state: 2
 tags: 指针 ?
 title: malloc

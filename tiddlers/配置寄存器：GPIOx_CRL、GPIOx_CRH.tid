@@ -1,19 +1,20 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241211131137298
 creator: mxlcola
-difficulty: 4.078599999999999
-due: 20251103123023369
-elapsed_days: 60.223559224537034
+difficulty: 4.087113999999999
+due: 20271214101028183
+elapsed_days: 324.9028334837963
 lapses: 0
-last_review: 20250217123023369
+last_review: 20260108101028183
 modified: 20241211132858670
 modifier: mxlcola
-reps: 4
-scheduled_days: 259
-stability: 259.45432977441436
+reps: 5
+scheduled_days: 705
+stability: 704.6558058551126
 state: 2
 tags: GPIO寄存器 ?
 title: 配置寄存器：GPIOx_CRL、GPIOx_CRH
+type: text/vnd.tiddlywiki
 
 配置寄存器低字CRL对应配置  低8位引脚Px0、Px1、……Px7
 

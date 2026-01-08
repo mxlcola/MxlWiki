@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250407143102056
-difficulty: 3.148
-due: 20251113034947342
-elapsed_days: 37.129628842592595
+difficulty: 3.16582
+due: 20270801101156677
+elapsed_days: 238.2653857986111
 lapses: 0
-last_review: 20250515034947342
+last_review: 20260108101156677
 modified: 20250515034946804
-reps: 2
-scheduled_days: 182
-stability: 181.77802636378183
+reps: 3
+scheduled_days: 570
+stability: 569.7931793558339
 state: 2
 tags: 段的概念 ? const
 title: 只读数据段 (RO-DATA)

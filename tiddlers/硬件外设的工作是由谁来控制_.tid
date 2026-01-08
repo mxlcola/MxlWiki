@@ -1,20 +1,20 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241210141737725
 creator: mxlcola
-difficulty: 3.148
-due: 20251026122556151
-elapsed_days: 63.971493645833334
+difficulty: 3.16582
+due: 20280214100956949
+elapsed_days: 328.90556480324074
 lapses: 0
-last_review: 20250213122556151
+last_review: 20260108100956949
 modified: 20241210142417188
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 255
-stability: 255.4080194849753
+reps: 3
+scheduled_days: 767
+stability: 766.7897084891435
 state: 2
 tags: 寄存器 ?
 title: 硬件外设的工作是由谁来控制?
+type: text/vnd.tiddlywiki
 
 外设内部的寄存器（硬件控制器）
 

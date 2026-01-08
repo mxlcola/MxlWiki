@@ -1,20 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241210135504762
 creator: mxlcola
-difficulty: 3.148
-due: 20251026122549555
-elapsed_days: 63.971220127314815
+difficulty: 2.31442
+due: 20300517100933350
+elapsed_days: 328.9053679861111
 lapses: 0
-last_review: 20250213122549555
+last_review: 20260108100933350
 modified: 20250213122548859
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 255
-stability: 255.407405166514
+reps: 3
+scheduled_days: 1590
+stability: 1590.1130889021294
 state: 2
 tags: 寄存器 ?
 title: STM32里面的寄存器
+type: text/vnd.tiddlywiki
 
 ''stm32 里面的32表示的是寄存器32位一组''
 

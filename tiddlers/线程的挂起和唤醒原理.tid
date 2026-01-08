@@ -1,17 +1,18 @@
 annotate-colour: dodgerblue
 created: 20250723140611432
-difficulty: 4.93
-due: 20251106104510322
-elapsed_days: 82.83525569444444
+difficulty: 4.078599999999999
+due: 20260613101126009
+elapsed_days: 65.97657047453704
 lapses: 0
-last_review: 20251103104510322
+last_review: 20260108101126009
 modified: 20251103104502697
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 156
+stability: 156.16261405904226
 state: 2
 tags: IPC通讯 ? RT-Thread定时器
 title: 线程的挂起和唤醒原理
+type: text/vnd.tiddlywiki
 
 !! Q:线程如何挂起？
 
