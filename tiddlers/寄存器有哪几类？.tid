@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241210134452933
 creator: mxlcola
-difficulty: 4.000191999999999
-due: 20251013123314285
-elapsed_days: 53.359823668981484
+difficulty: 3.1580900799999996
+due: 20291127010505764
+elapsed_days: 324.5221236111111
 lapses: 0
-last_review: 20250217123314285
+last_review: 20260108010505764
 modified: 20241210135048150
 modifier: mxlcola
-reps: 3
-scheduled_days: 238
-stability: 238.30467806647192
+reps: 4
+scheduled_days: 1419
+stability: 1418.8056345824498
 state: 2
 tags: 寄存器 ?
 title: 寄存器有哪几类？
+type: text/vnd.tiddlywiki
 
 !! 寄存器分类
 

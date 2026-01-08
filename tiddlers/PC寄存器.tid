@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241104133436764
 creator: mxlcola
-difficulty: 3.148
-due: 20251020003947981
-elapsed_days: 43.49821862268519
+difficulty: 2.31442
+due: 20291016010758981
+elapsed_days: 282.01957177083335
 lapses: 0
-last_review: 20250401003947981
+last_review: 20260108010758981
 modified: 20250818141315235
 modifier: mxlcola
-reps: 2
-scheduled_days: 202
-stability: 202.035818702775
+reps: 3
+scheduled_days: 1377
+stability: 1377.4770932816034
 state: 2
 tags: ? 寄存器 PC
 title: PC寄存器
+type: text/vnd.tiddlywiki
 
 PC寄存器指示了当前线程代码的执行位置，必须保存，以便恢复执行。
 

@@ -1,20 +1,20 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241210133910766
 creator: mxlcola
-difficulty: 3.148
-due: 20251026122530387
-elapsed_days: 63.97300341435185
+difficulty: 3.16582
+due: 20280213010942404
+elapsed_days: 328.53069462962964
 lapses: 0
-last_review: 20250213122530387
+last_review: 20260108010942404
 modified: 20250213123037539
 modifier: mxlcola
-reps: 2
-revision: 0
-scheduled_days: 255
-stability: 255.41141036120527
+reps: 3
+scheduled_days: 766
+stability: 766.2521212267607
 state: 2
 tags: 寄存器 ? RAM
 title: 寄存器的本质-RAM存储器
+type: text/vnd.tiddlywiki
 
 !! 类比生活中的电路开关
 

@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20250330030443163
-difficulty: 4.008706
-due: 20251026053325409
-elapsed_days: 65.99031098379629
+difficulty: 3.1665189400000004
+due: 20280825010921269
+elapsed_days: 211.81661873842592
 lapses: 0
-last_review: 20250610053325409
+last_review: 20260108010921269
 modified: 20250811033313914
-reps: 3
-scheduled_days: 138
-stability: 137.5731675186394
+reps: 4
+scheduled_days: 960
+stability: 960.4267674880836
 state: 2
 tags: ? 中断
 title: 中断源

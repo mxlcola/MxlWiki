@@ -1,25 +1,25 @@
 annotate-colour: dodgerblue
 created: 20241030144701721
 creator: 老乐
-difficulty: 2.31442
-due: 20251017085507256
-elapsed_days: 47.86281574074074
+difficulty: 1.4891758000000002
+due: 20310519010713110
+elapsed_days: 377.67506775462965
 grade: -1
 history: []
 interval: 0
 lapses: 0
-last_review: 20241226085507256
-modified: 20241102064338556
+last_review: 20260108010713110
+modified: 20260108010719124
 modifier: mxlcola
-reps: 3
+reps: 4
 retrievability: 1
 review: 20241031054306991
-revision: 0
-scheduled_days: 295
-stability: 295.0758585733734
+scheduled_days: 1957
+stability: 1957.2084523528724
 state: 2
 tags: 图片 图床 ?
 title: tw图床用法
+type: text/vnd.tiddlywiki
 wysiwyg: yes
 
 我们可以把图片放到其他图床去把图片外部化，然后插入` [img[图片连结]]`  来放入图片。
@@ -31,5 +31,4 @@ wysiwyg: yes
 
 
 ```
-
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241030224857.png]]

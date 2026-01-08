@@ -1,19 +1,19 @@
 annotate-colour: dodgerblue
 created: 20241102070248115
 creator: mxlcola
-difficulty: 2.31442
-due: 20251017085339403
-elapsed_days: 47.86218086805555
+difficulty: 1.4891758000000002
+due: 20310519010707560
+elapsed_days: 377.6760203240741
 lapses: 0
-last_review: 20241226085339403
-modified: 20241102070333747
+last_review: 20260108010707560
+modified: 20260108010706735
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 295
-stability: 295.0747116194043
+reps: 4
+scheduled_days: 1957
+stability: 1957.2116321666906
 state: 2
-tags: 笔记思维 TiddlywikiTip ?
+tags: 笔记思维 TiddlywikiTip ? 笔记软件思考
 title: 奥卡姆剃刀原则
+type: text/vnd.tiddlywiki
 
 还记得奥卡姆剃刀原则吗？''如无必要，勿增实体。'' 功能越多，问题越多。简单实用稳定就是最好的！

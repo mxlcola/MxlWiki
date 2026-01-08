@@ -1,25 +1,25 @@
 annotate-colour: dodgerblue
 created: 20231127145143569
 creator: 老乐
-difficulty: 2.31442
-due: 20251018085716073
-elapsed_days: 47.86502565972222
+difficulty: 1.4891758000000002
+due: 20310520010742260
+elapsed_days: 377.6739142361111
 grade: 1
 history: [{"due":"20241101132230100","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20241030132230099"}]
 interval: 2
 lapses: 0
-last_review: 20241226085716073
+last_review: 20260108010742260
 modified: 20241101023027027
 modifier: 老乐
-reps: 3
+reps: 4
 retrievability: 0.9
 review: 20241101022839124
-revision: 0
-scheduled_days: 296
-stability: 295.78362537792
+scheduled_days: 1958
+stability: 1957.6415243561157
 state: 2
 tags: ?
 title: 钓鱼插件
+type: text/vnd.tiddlywiki
 
 把笔记条目作为[[抽认卡]]进行渐进学习，并结合[[双链]]自动设置前置重要知识的优先级，以提升渐进学习体验。
 

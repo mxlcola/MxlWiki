@@ -1,19 +1,20 @@
 annotate-colour: dodgerblue
 created: 20241210132904045
 creator: mxlcola
-difficulty: 4.000191999999999
-due: 20251021034857187
-elapsed_days: 54.99564549768519
+difficulty: 3.1580900799999996
+due: 20291125010802921
+elapsed_days: 322.8882607986111
 lapses: 0
-last_review: 20250219034857187
+last_review: 20260108010802921
 modified: 20241213004204777
 modifier: mxlcola
-reps: 3
-scheduled_days: 244
-stability: 243.86790959190452
+reps: 4
+scheduled_days: 1417
+stability: 1417.130530238668
 state: 2
 tags: GPIO八种模式 ? GPIO
 title: 模拟输入
+type: text/vnd.tiddlywiki
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/img/image-20241210212921908.png" alt="image-20241210212921908" style="zoom:33%;" />
 

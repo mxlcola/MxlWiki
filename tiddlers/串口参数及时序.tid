@@ -1,17 +1,18 @@
 annotate-colour: dodgerblue
 created: 20241219122704580
-difficulty: 3.148
-due: 20251016054051517
-elapsed_days: 40.9014047337963
+difficulty: 2.31442
+due: 20290925010625791
+elapsed_days: 277.8094244791667
 lapses: 0
-last_review: 20250405054051517
+last_review: 20260108010625791
 modified: 20241219123225128
-reps: 2
-scheduled_days: 194
-stability: 194.02197804970996
+reps: 3
+scheduled_days: 1356
+stability: 1356.1448242826473
 state: 2
 tags: 串口 ?
 title: 串口参数及时序
+type: text/vnd.tiddlywiki
 
 !! 串口通讯数据包
 
