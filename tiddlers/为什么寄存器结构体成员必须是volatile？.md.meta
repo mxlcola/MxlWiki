@@ -1,0 +1,7 @@
+created: 20260201124204158
+creator: 老乐
+modified: 20260201124248728
+modifier: 老乐
+tags: 寄存器结构体封装 volatile关键字 ?
+title: 为什么寄存器结构体成员必须是volatile？
+type: text/markdown

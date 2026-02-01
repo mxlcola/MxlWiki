@@ -1,10 +1,8 @@
 created: 20241206084726971
 creator: mxlcola
-modified: 20250217123309833
-modifier: mxlcola
+modified: 20260201123621385
+modifier: 老乐
 tags: 单片机
 title: 寄存器
 
-<$list filter="[tag[寄存器]]">
-
-</$list>
+[[寄存器结构体封装]]
