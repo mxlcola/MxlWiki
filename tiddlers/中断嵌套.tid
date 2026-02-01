@@ -1,6 +1,18 @@
+annotate-colour: green
 created: 20250728124942031
-modified: 20250729003301074
-tags: 中断
+creator: 老乐
+difficulty: 4.93
+due: 20260201043721010
+elapsed_days: 0
+lapses: 0
+last_review: 20260201042721010
+modified: 20260201042717039
+modifier: 老乐
+reps: 1
+scheduled_days: 0
+stability: 2.4
+state: 1
+tags: 中断 ?
 title: 中断嵌套
 
 最开始的任务还没执行完，进入[[中断]]处理其他任务，这时候又来更高优先级的任务，得马上停止手里的，去做最新的
