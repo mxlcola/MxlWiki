@@ -1,6 +1,8 @@
 created: 20250711133035000
-modified: 20250711133114664
+creator: 老乐
+modified: 20260201065544108
+modifier: 老乐
 tags: 
 title: GPIO
 
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
+[[外设的GPIO配置]]
