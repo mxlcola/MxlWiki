@@ -1,6 +1,8 @@
 created: 20250715135745422
-modified: 20250715140239239
-tags: USART模块 寄存器
+creator: 老乐
+modified: 20260201044408038
+modifier: 老乐
+tags: USART模块
 title: 移位寄存器和串并转换
 
 !! 发送数据
