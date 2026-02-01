@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241219121922386
-difficulty: 3.148
-due: 20251119150051543
-elapsed_days: 39.3835934375
+difficulty: 2.31442
+due: 20290818035636843
+elapsed_days: 262.5387187384259
 lapses: 0
-last_review: 20250514150051543
-modified: 20241219122103202
-reps: 2
-scheduled_days: 189
-stability: 189.18360548110073
+last_review: 20260201035636843
+modified: 20260201035608560
+reps: 3
+scheduled_days: 1294
+stability: 1294.0511644171202
 state: 2
-tags: 串口 ?
+tags: 串口 ? 全双工
 title: 双工和通讯协议整理
 
 <img src="https://tc8483.oss-cn-beijing.aliyuncs.com/image/image-20241219202024394.png" alt="image-20241219202024394" style="zoom:50%;" />

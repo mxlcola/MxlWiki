@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250407143443607
-difficulty: 3.148
-due: 20251114125746386
-elapsed_days: 37.51027456018519
+difficulty: 2.31442
+due: 20290811035414527
+elapsed_days: 261.62254795138887
 lapses: 0
-last_review: 20250515125746386
-modified: 20250515125738762
-reps: 2
-scheduled_days: 183
-stability: 183.04765216311895
+last_review: 20260201035414527
+modified: 20260201035404839
+reps: 3
+scheduled_days: 1287
+stability: 1286.575885609126
 state: 2
 tags: 段的概念 ?
 title: 栈区
