@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: green
 created: 20250804134026766
-difficulty: 7.467171999999999
-due: 20260111111726238
-elapsed_days: 18.059857731481483
+difficulty: 7.441800279999998
+due: 20260421080453738
+elapsed_days: 54.86629048611111
 lapses: 1
-last_review: 20260104111726238
+last_review: 20260228080453738
 modified: 20250812052853253
-reps: 5
-scheduled_days: 7
-stability: 6.607026846577577
+reps: 6
+scheduled_days: 52
+stability: 51.93155011814894
 state: 2
 tags: I2C ? 开漏输出 电路原理 逻辑与
 title: 配置I2C为什么要使用开漏输出?
