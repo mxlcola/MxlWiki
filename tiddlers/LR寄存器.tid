@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250327134305327
-difficulty: 4.929914859999998
-due: 20251203034017603
-elapsed_days: 28.078395983796295
+difficulty: 4.078515711399997
+due: 20280607071036302
+elapsed_days: 208.14604974537036
 lapses: 1
-last_review: 20250811034017603
+last_review: 20260307071036302
 modified: 20250818144421169
-reps: 6
-scheduled_days: 114
-stability: 113.84254655455562
+reps: 7
+scheduled_days: 823
+stability: 823.2660406335075
 state: 2
 tags: 寄存器 ? 异常 LR
 title: LR寄存器

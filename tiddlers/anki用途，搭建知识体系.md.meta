@@ -1,16 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241124121316102
 creator: mxlcola
 difficulty: 4.93
-due: 20251221121628104
-elapsed_days: 2.0687418055555558
+due: 20260511071700901
+elapsed_days: 78.79204626157407
 lapses: 0
-last_review: 20251218121628104
+last_review: 20260307071700901
 modified: 20251216103727991
 modifier: mxlcola
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 65
+stability: 64.80018022267174
 state: 2
 tags: anki ?
 title: anki用途，搭建知识体系

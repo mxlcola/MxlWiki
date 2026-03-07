@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250826143733498
-difficulty: 5.869999999999999
-due: 20260107060641634
-elapsed_days: 1.1360296759259259
+difficulty: 5.009199999999998
+due: 20260429071903973
+elapsed_days: 61.05025859953704
 lapses: 0
-last_review: 20260105060641634
+last_review: 20260307071903973
 modified: 20250826143855631
-reps: 2
-scheduled_days: 2
-stability: 0.6
+reps: 3
+scheduled_days: 53
+stability: 53.12059619252929
 state: 2
 tags: SDIO ?
 title: SDIO操作都是通过指令

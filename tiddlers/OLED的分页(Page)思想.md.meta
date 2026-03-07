@@ -1,15 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: red
 created: 20260104072223919
-difficulty: 4.93
-due: 20260108060716716
-elapsed_days: 0.7758726388888889
-lapses: 0
-last_review: 20260105060716716
+difficulty: 6.632799999999999
+due: 20260307072436655
+elapsed_days: 61.050230775462964
+lapses: 1
+last_review: 20260307071936655
 modified: 20260104112102247
-reps: 2
-scheduled_days: 3
-stability: 2.4
-state: 2
+reps: 3
+scheduled_days: 0
+stability: 2.6343663990549855
+state: 3
 tags: OLED ?
 title: OLED的分页(Page)思想
 type: text/markdown

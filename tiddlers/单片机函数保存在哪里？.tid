@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250625145120409
-difficulty: 4.078599999999999
-due: 20251212232206133
-elapsed_days: 32.87343241898148
+difficulty: 3.2357139999999993
+due: 20280820071239473
+elapsed_days: 200.3267747800926
 lapses: 0
-last_review: 20250818232206133
+last_review: 20260307071239473
 modified: 20250625145156738
-reps: 3
-scheduled_days: 116
-stability: 116.34255535888695
+reps: 4
+scheduled_days: 897
+stability: 897.1045489493564
 state: 2
 tags: ? flash
 title: 单片机函数保存在哪里？

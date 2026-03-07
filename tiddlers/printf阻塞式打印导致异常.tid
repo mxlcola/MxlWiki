@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250719070315742
-difficulty: 3.148
-due: 20251204052928081
-elapsed_days: 19.660556030092593
+difficulty: 2.31442
+due: 20281228071046595
+elapsed_days: 207.07035318287038
 lapses: 0
-last_review: 20250812052928081
+last_review: 20260307071046595
 modified: 20250719071329215
-reps: 2
-scheduled_days: 114
-stability: 113.76426739551188
+reps: 3
+scheduled_days: 1027
+stability: 1027.2034250963425
 state: 2
 tags: 工作教训 ? 阻塞式
 title: printf阻塞式打印导致异常

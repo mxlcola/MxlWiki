@@ -1,17 +1,16 @@
 annotate-colour: dodgerblue
 created: 20241123140138236
 creator: mxlcola
-difficulty: 4.0701711399999985
-due: 20260107020106745
-elapsed_days: 74.57993857638888
+difficulty: 3.2273694285999985
+due: 20300929071846223
+elapsed_days: 385.2205958217593
 lapses: 0
-last_review: 20250215020106745
+last_review: 20260307071846223
 modified: 20241123141613741
 modifier: mxlcola
-reps: 5
-revision: 0
-scheduled_days: 326
-stability: 326.06584309876314
+reps: 6
+scheduled_days: 1667
+stability: 1667.3740604309758
 state: 2
 tags: TiddlyWiki ?
 title: tiddlywiki本身变具有编程性-也是缺点

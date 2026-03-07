@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20250405054720297
 creator: 老乐
-difficulty: 3.9899999999999998
-due: 20260111061557792
-elapsed_days: 0
+difficulty: 3.148
+due: 20261111070833597
+elapsed_days: 61.03652554398148
 lapses: 0
-last_review: 20260105061557792
+last_review: 20260307070833597
 modified: 20260228075118096
 modifier: 老乐
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 249
+stability: 248.68216613476315
 state: 2
 tags: 实时性 ?
 title: 中断

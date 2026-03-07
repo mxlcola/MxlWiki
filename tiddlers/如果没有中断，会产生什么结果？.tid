@@ -1,15 +1,15 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20250728130633375
 difficulty: 5.869999999999999
-due: 20260228075604476
-elapsed_days: 0
+due: 20260309070907367
+elapsed_days: 6.9708667939814815
 lapses: 0
-last_review: 20260228075104476
+last_review: 20260307070907367
 modified: 20250818135943252
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 2
 stability: 0.6
-state: 1
+state: 2
 tags: 中断 ?
 title: 如果没有中断，会产生什么结果？
 

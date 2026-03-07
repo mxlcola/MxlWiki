@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250710122022166
 difficulty: 4.93
-due: 20251220095144545
-elapsed_days: 119.79766197916666
+due: 20260511071619686
+elapsed_days: 79.89207340277778
 lapses: 0
-last_review: 20251217095144545
+last_review: 20260307071619686
 modified: 20250710122422180
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 65
+stability: 65.06260256860371
 state: 2
 tags: GPIO ?
 title: 设置GPIO输出速度，实际改变了什么？

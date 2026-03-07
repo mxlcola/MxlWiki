@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250513122642332
-difficulty: 4.93
-due: 20260108060703906
-elapsed_days: 1.1364274305555555
+difficulty: 4.078599999999999
+due: 20260806071922780
+elapsed_days: 61.05021847222222
 lapses: 0
-last_review: 20260105060703906
+last_review: 20260307071922780
 modified: 20260104112313948
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 152
+stability: 152.00411882012347
 state: 2
 tags: SPI ?
 title: SPI通讯线

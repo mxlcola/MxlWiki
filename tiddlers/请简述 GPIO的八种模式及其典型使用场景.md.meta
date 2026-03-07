@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250819144338714
-difficulty: 6.81
-due: 20251219095202097
-elapsed_days: 119.17233894675925
+difficulty: 6.791199999999999
+due: 20260320071532606
+elapsed_days: 79.89132534722222
 lapses: 0
-last_review: 20251217095202097
+last_review: 20260307071532606
 modified: 20250819144803935
-reps: 2
-scheduled_days: 2
-stability: 0.4
+reps: 3
+scheduled_days: 13
+stability: 12.729071829329628
 state: 2
 tags: GPIO ?
 title: 请简述 GPIO的八种模式及其典型使用场景

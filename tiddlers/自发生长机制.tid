@@ -1,17 +1,16 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20241102141755274
 creator: mxlcola
-difficulty: 2.31442
-due: 20251210064431675
-elapsed_days: 56.770958969907404
+difficulty: 2.3405758000000003
+due: 20290112071121991
+elapsed_days: 425.0186379050926
 lapses: 0
-last_review: 20250106064431675
+last_review: 20260307071121991
 modified: 20241104113550850
 modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 338
-stability: 338.331517570476
+reps: 4
+scheduled_days: 1042
+stability: 1042.3421264482317
 state: 2
 tags: 卢曼笔记法 ?
 title: 自发生长机制

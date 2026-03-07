@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20250311150450905
-difficulty: 3.148
-due: 20251119150225821
-elapsed_days: 39.38292575231481
+difficulty: 3.16582
+due: 20271230070938129
+elapsed_days: 296.67167024305553
 lapses: 0
-last_review: 20250514150225821
+last_review: 20260307070938129
 modified: 20250405055100337
-reps: 2
-scheduled_days: 189
-stability: 189.1814512312715
+reps: 3
+scheduled_days: 663
+stability: 662.7252703939347
 state: 2
 tags: RS232 RS485 ?
 title: RS232 和 RS485之间的区别

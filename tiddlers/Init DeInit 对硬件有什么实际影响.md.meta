@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20250514152313650
-difficulty: 4.93
-due: 20260108060706584
-elapsed_days: 1.1362266203703704
+difficulty: 4.078599999999999
+due: 20260806071932173
+elapsed_days: 61.05029616898148
 lapses: 0
-last_review: 20260105060706584
+last_review: 20260307071932173
 modified: 20250514152404090
-reps: 2
-scheduled_days: 3
-stability: 2.4
+reps: 3
+scheduled_days: 152
+stability: 152.0041878366408
 state: 2
 tags: HAL ?
 title: Init DeInit 对硬件有什么实际影响

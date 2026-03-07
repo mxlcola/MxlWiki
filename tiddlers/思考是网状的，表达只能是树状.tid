@@ -1,19 +1,18 @@
 annotate-colour: dodgerblue
 created: 20241102140222224
 creator: mxlcola
-difficulty: 2.31442
-due: 20251210064524362
-elapsed_days: 56.670952453703705
+difficulty: 1.4891758000000002
+due: 20320220071212482
+elapsed_days: 425.01861252314814
 lapses: 0
-last_review: 20250106064524362
-modified: 20241104113808386
-modifier: mxlcola
-reps: 3
-revision: 0
-scheduled_days: 338
-stability: 338.16978944846124
+last_review: 20260307071212482
+modified: 20260307071211762
+modifier: 老乐
+reps: 4
+scheduled_days: 2176
+stability: 2175.697984942901
 state: 2
-tags: ? 知识结构
+tags: ? 知识结构 图式
 title: 思考是网状的，表达只能是树状
 type: text/vnd.tiddlywiki
 
